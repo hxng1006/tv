@@ -154,7 +154,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw25164341_-1061241932/ott
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/TVOD/3/224/3221225935/index.m3u8?icpid=3&RTS=1669268931&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/江苏国际.png",江苏国际
 http://lu1.cc/itv/php/migu.php?id=jsgj
-#EXTINF:-1 group-title="少儿" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png",优漫卡通 
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png",优漫卡通 
 http://ott.mobaibox.com/TVOD/1/224/3221225933/index.m3u8
 #EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/江苏教育.png",江苏教育
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw329009742_-1392321549/ott.mobaibox.com/TVOD/3/224/3221225923/index.m3u8?icpid=3&RTS=1669269433&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -245,7 +245,23 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/TVOD/3/224/32212285
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title=" 数字" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title=" 数字",凤凰香港
-http://ott.mobaibox.com/TVOD/1/224/3221228530/index.m3u8 
+http://ott.mobaibox.com/TVOD/1/224/3221228530/index.m3u8
+
+#EXTINF:-1 group-title="数字",HBO家庭
+http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
+#EXTINF:-1 group-title="数字",HBO原创
+http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
+#EXTINF:-1 group-title="数字",HBO强档
+http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8 
+
+#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/HBO.png",HBO
+http://208.115.225.174:14165
+#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/HBO 2.png",HBO 2
+http://208.115.225.174:14140
+#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/HBO Mundi.png",HBO Mundi
+http://208.115.225.174:14148
+#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/HBO signature.png",HBO signature
+http://208.115.225.174:14160
  
 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
