@@ -500,15 +500,15 @@ https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
  
 
  
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="少儿" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png",金鹰卡通
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png",金鹰卡通
 http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225744/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="少儿" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png",哈哈炫动
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png",哈哈炫动
 https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="少儿" tvg-logo="https://epg.112114.xyz/logo/北京卡酷.png",北京卡酷
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/北京卡酷.png",北京卡酷
 http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225743/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="少儿" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png",嘉佳卡通
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png",嘉佳卡通
 http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226227/index.m3u8
-#EXTINF:-1 group-title="少儿" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png",动漫秀场
+#EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png",动漫秀场
 https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
 
 
