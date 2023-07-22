@@ -214,7 +214,7 @@ https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
 https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png",青春动漫
 https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
-#EXTINF:-1 group-title="少儿" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png",宝宝动画
+#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png",宝宝动画
 https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/星光影院.png",星光影院
 https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
@@ -371,7 +371,7 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
 #EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png",IHOT爱谍战
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-#EXTINF:-1 group-title="少儿" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png",IHOT爱动漫
+#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png",IHOT爱动漫
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 #EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/爱都市.png",IHOT爱都市
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
@@ -415,13 +415,13 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000210630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
 #EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/爱体育.png",IHOT爱体育
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-#EXTINF:-1 group-title="少儿" tvg-logo="https://epg.112114.xyz/logo/爱玩具.png",IHOT爱玩具
+#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/爱玩具.png",IHOT爱玩具
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
 #EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png",IHOT爱喜剧
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
 #EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/爱悬疑.png",IHOT爱悬疑
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-#EXTINF:-1 group-title="少儿" tvg-logo="https://epg.112114.xyz/logo/爱幼教.png",IHOT爱幼教
+#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/爱幼教.png",IHOT爱幼教
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
 #EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/爱娱乐.png",IHOT爱娱乐
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
@@ -464,11 +464,11 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u
 https://live.goodiptv.club/api/cqyx.php?id=jiazheng
 #EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="数字",书画
 https://live.goodiptv.club/api/cqyx.php?id=shuhua
-#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="少儿",新动漫
+#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="数字",新动漫
 https://live.goodiptv.club/api/cqyx.php?id=dongman
 #EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://epg.112114.xyz/logo/国学.png" group-title="数字",国学频道
 https://live.goodiptv.club/api/cqyx.php?id=guoxue
-#EXTINF:-1,tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://epg.112114.xyz/logo/优优宝贝.png" group-title="少儿",优优宝贝
+#EXTINF:-1,tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://epg.112114.xyz/logo/优优宝贝.png" group-title="数字",优优宝贝
 https://live.goodiptv.club/api/cqyx.php?id=youxi
 #EXTINF:-1,tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="数字",中华特产
 https://live.goodiptv.club/api/cqyx.php?id=techan
