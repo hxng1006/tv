@@ -214,7 +214,7 @@ https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
 https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png",青春动漫
 https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
-#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png",宝宝动画
+#EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png",宝宝动画
 https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/星光影院.png",星光影院
 https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
@@ -245,31 +245,14 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/TVOD/3/224/32212285
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title=" 数字" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title=" 数字",凤凰香港
-http://ott.mobaibox.com/TVOD/1/224/3221228530/index.m3u8
+http://ott.mobaibox.com/TVOD/1/224/3221228530/index.m3u8 
 
-#EXTINF:-1 group-title="数字",HBO家庭
-http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
-#EXTINF:-1 group-title="数字",HBO原创
-http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
-#EXTINF:-1 group-title="数字",HBO强档
-http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8 
-
-#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/HBO.png",HBO
-http://208.115.225.174:14165
-#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/HBO 2.png",HBO 2
-http://208.115.225.174:14140
-#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/HBO Mundi.png",HBO Mundi
-http://208.115.225.174:14148
-#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/HBO signature.png",HBO signature
-http://208.115.225.174:14160
- 
-
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",CHC动作电影
+http://39.134.18.65/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
 http://39.134.18.65/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg",CHC高清电影
 http://39.134.18.65/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",CHC动作电影
-http://39.134.18.65/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="ttps://epg.112114.xyz/logo/怀旧剧场.png",怀旧剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226972/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png",第一剧场
@@ -367,7 +350,7 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725
 #EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/魅力潇湘.png",NewTV魅力潇湘
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=4
 
-#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/IHOT爱电竞.png",IHOT爱电竞
+#EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/爱电竞.png",IHOT爱电竞
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
 #EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png",IHOT爱谍战
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
