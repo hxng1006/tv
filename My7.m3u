@@ -36,7 +36,12 @@ https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17
 http://ott.mobaibox.com/TVOD/3/224/3221227592/index.m3u8 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K
-https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
+http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/TVOD/3/224/3221228228/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16奥林匹克4K
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8 
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8k.png",CCTV8K超高清
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/TVOD/3/224/3221228165/index.m3u8
+
 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CETV1.png",中国教育1台 
 http://ott.mobaibox.com/TVOD/1/224/3221225909/index.m3u8
@@ -181,19 +186,19 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png",劲爆体育
 https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000 
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png",快乐垂钓
-https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8 
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/戏曲精选.png",戏曲精选
 https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png",上海第一财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8?
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/五星体育.png",五星体育
-https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8 
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/上视外语.png",上视外语
-https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png",七彩戏剧
-https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/上海教育.png",上海教育
-https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/新视觉.png",新视觉
 https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png",游戏风云
@@ -229,13 +234,13 @@ https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/茶频道.png",茶频道 
 https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="百视通",乐游
-https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/足球高清.png",足球高清
 https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/东方财经.png",东方财经
-https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png",金色学堂
-https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png",魅力足球
 https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 
@@ -253,7 +258,7 @@ http://39.134.18.65/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index
 http://39.134.18.65/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg",CHC高清电影
 http://39.134.18.65/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="ttps://epg.112114.xyz/logo/怀旧剧场.png",怀旧剧场
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png",怀旧剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226972/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png",第一剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226959/index.m3u8
