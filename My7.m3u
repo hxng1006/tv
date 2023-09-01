@@ -176,8 +176,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png",纪实人文
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="百视通",北京纪实科教
-https://cntv.sbs/tv?auth=230813&id=bjjskj
+ 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png",金鹰纪实
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/法治天地.png",法治天地
@@ -188,12 +187,12 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png",都市剧场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
-#EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png",劲爆体育
-https://cntv.sbs/tv?auth=230813&id=jbty
+#EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png",劲爆体育 
+https://cntv.sbs/tv?auth=230830&id=jbty
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png",快乐垂钓
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8 
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/戏曲精选.png",戏曲精选
-https://cntv.sbs/tv?auth=230813&id=xqjx
+https://cntv.sbs/tv?auth=230830&id=xqjx
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png",上海第一财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8?
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/五星体育.png",五星体育
@@ -205,37 +204,35 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/上海教育.png",上海教育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/新视觉.png",新视觉
-https://cntv.sbs/tv?auth=230813&id=xsj
+https://cntv.sbs/tv?auth=230830&id=xsj
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png",游戏风云
-https://cntv.sbs/tv?auth=230813&id=yxfy
+https://cntv.sbs/tv?auth=230830&id=yxfy
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png",热门综艺
-https://cntv.sbs/tv?auth=230813&id=rmzy
-#EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/超级体育.png",超级体育
-https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
+https://cntv.sbs/tv?auth=230830&id=rmzy 
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/健康养生.png",健康养生
-https://cntv.sbs/tv?auth=230813&id=jkys
+https://cntv.sbs/tv?auth=230830&id=jkys
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/百变课堂.png",百变课堂
-https://cntv.sbs/tv?auth=230813&id=bbkt
+https://cntv.sbs/tv?auth=230830&id=bbkt
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png",看天下精选
-https://cntv.sbs/tv?auth=230813&id=ktxjx
+https://cntv.sbs/tv?auth=230830&id=ktxjx
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/华语影院.png",华语影院
-https://cntv.sbs/tv?auth=230813&id=hyyy
+https://cntv.sbs/tv?auth=230830&id=hyyy
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png",电竞天堂
-https://cntv.sbs/tv?auth=230813&id=djtt
+https://cntv.sbs/tv?auth=230830&id=djtt
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png",青春动漫
 https://cntv.sbs/tv?auth=230813&id=qcdm
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png",宝宝动画
-https://cntv.sbs/tv?auth=230813&id=bbdh
+https://cntv.sbs/tv?auth=230830&id=bbdh
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/星光影院.png",星光影院
 https://cntv.sbs/tv?auth=230813&id=xgyy
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/谍战剧场.png",谍战剧场
-https://cntv.sbs/tv?auth=230813&id=dzjc
+https://cntv.sbs/tv?auth=230830&id=dzjc
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/全球大片.png",全球大片
-https://cntv.sbs/tv?auth=230813&id=qqdp
+https://cntv.sbs/tv?auth=230830&id=qqdp
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/热门剧场.png",热门剧场
-https://cntv.sbs/tv?auth=230813&id=rmjc 
+https://cntv.sbs/tv?auth=230830&id=rmjc 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/茶频道.png",茶频道 
-https://cntv.sbs/tv?auth=230813&id=cpd
+https://cntv.sbs/tv?auth=230830&id=cpd
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="百视通",乐游
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8 
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/东方财经.png",东方财经
@@ -243,13 +240,13 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png",金色学堂
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png",魅力足球
-https://cntv.sbs/tv?auth=230813&id=mlzq
+https://cntv.sbs/tv?auth=230830&id=mlzq
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="百视通",财富天下
-https://cntv.sbs/tv?auth=230813&id=cftx 
+https://cntv.sbs/tv?auth=230830&id=cftx 
 #EXTINF:-1 tvg-id="梨园" tvg-name=梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="百视通",梨园频道
 https://pi.0472.org/tv/hn.php?id=154
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="百视通",中国天气
-https://cntv.sbs/tv?auth=230813&id=zgtq 
+https://cntv.sbs/tv?auth=230830&id=zgtq 
 
 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
