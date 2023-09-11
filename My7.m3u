@@ -214,13 +214,13 @@ https://cntv.sbs/tv?auth=2309081833&id=mlzq
 https://cntv.sbs/tv?auth=2309081833&id=shjy
 #EXTINF:-1 tvg-id="浦东电视台" tvg-name="浦东电视台" tvg-logo="https://live.fanmingming.com/tv/浦东电视台.png" group-title="fmm",浦东电视台
 https://cntv.sbs/tv?auth=2309081833&id=pdtv
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="湖南",茶频道
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="fmm",茶频道
 https://cntv.sbs/tv?auth=2309081833&id=cpd
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="湖南",快乐垂钓
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="fmm",快乐垂钓
 https://cntv.sbs/tv?auth=2309081833&id=klcd
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="湖南",金鹰纪实
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="fmm",金鹰纪实
 https://cntv.sbs/tv?auth=2309081833&id=jyjs
-#EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="湖南",金鹰卡通
+#EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="fmm",金鹰卡通
 https://cntv.sbs/tv?auth=2309081833&id=jykt
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="fmm",嘉佳卡通
 https://cntv.sbs/tv?auth=2309081833&id=jjkt
