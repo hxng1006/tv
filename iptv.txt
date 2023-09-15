@@ -1613,11 +1613,8 @@ Z频道,mitv://generationnexxxt.com:19806/8cf545799960472b8abc4eeccb636f63
 
  
 数字,#genre#
-1905电影网,http://zgntv.icu/live/1905.php?id=1905dy
 1905电影网,http://nas.jdshipin.com:8801/1905.php?id=1905dy
 1905电影网,http://120.78.165.185:4789/1905.php?id=1905dy
-
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://39.134.18.65/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226463/index.m3u8?/TVOD/.smil
