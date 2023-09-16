@@ -542,6 +542,9 @@ CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8 
 
+常熟新闻频道,http://play-live.21cs.cn/tv_channel/cstv1.m3u8?auth_key=1592026485-f871ffb1e3b646d59dba799b1e6f3d61-0-53bbc432233cf87b39a6ec67a23981c3?zjiangsd
+常熟民生频道,http://play-live.21cs.cn/tv_channel/cstv2.m3u8?auth_key=1608898309-c151073d455d41568920a185f794ce70-0-24c93261a31cc28cf1ae2aced18ae008?zjiangsd
+
 江苏综艺,http://lu1.cc/c/tv/jstv/jstv.php?id=jszy 
 江苏城市,http://lu1.cc/c/tv/jstv/jstv.php?id=jscs 
 江苏教育,http://lu1.cc/c/tv/jstv/jstv.php?id=jsjy 
