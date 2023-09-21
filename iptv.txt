@@ -248,8 +248,7 @@ CETV2,https://cntv.sbs/tv?auth=230813&id=cetv2
 CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 CETV4,https://cntv.sbs/tv?auth=230813&id=cetv4
 
-CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+ 
 
 卫视,#genre#
 江苏卫视,http://ott.mobaibox.com/TVOD/1/224/3221227185/index.m3u8
@@ -600,49 +599,49 @@ CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
  
 
 百视通,#genre#
-上海新闻综合,https://cntv.sbs/tv?auth=2309081833&id=shxwzh
-上海都市,https://cntv.sbs/tv?auth=2309081833&id=shds
-生活时尚,https://cntv.sbs/tv?auth=2309081833&id=shss
-法治天地,https://cntv.sbs/tv?auth=2309081833&id=fztd
-欢笑剧场,https://cntv.sbs/tv?auth=2309081833&id=hxjc
-都市剧场,https://cntv.sbs/tv?auth=2309081833&id=dsjc
-纪实人文,https://cntv.sbs/tv?auth=2309081833&id=shjsrw
-纪实科教,https://cntv.sbs/tv?auth=2309081833&id=bjjskj
-五星体育,https://cntv.sbs/tv?auth=2309081833&id=wxty
-劲爆体育,https://cntv.sbs/tv?auth=2309081833&id=jbty
-新视觉,https://cntv.sbs/tv?auth=2309081833&id=xsj
-魅力足球,https://cntv.sbs/tv?auth=2309081833&id=mlzq
-七彩戏剧,https://cntv.sbs/tv?auth=2309081833&id=qcxj
-戏曲精选,https://cntv.sbs/tv?auth=2309081833&id=xqjx
+上海新闻综合,https://cntv.sbs/tv?auth=230918&id=shxwzh
+上海都市,https://cntv.sbs/tv?auth=230918&id=shds
+生活时尚,https://cntv.sbs/tv?auth=230918&id=shss
+法治天地,https://cntv.sbs/tv?auth=230918&id=fztd
+欢笑剧场,https://cntv.sbs/tv?auth=230918&id=hxjc
+都市剧场,https://cntv.sbs/tv?auth=230918&id=dsjc
+纪实人文,https://cntv.sbs/tv?auth=230918&id=shjsrw
+纪实科教,https://cntv.sbs/tv?auth=230918&id=bjjskj
+五星体育,https://cntv.sbs/tv?auth=230918&id=wxty
+劲爆体育,https://cntv.sbs/tv?auth=230918&id=jbty
+新视觉,https://cntv.sbs/tv?auth=230918&id=xsj
+魅力足球,https://cntv.sbs/tv?auth=230918&id=mlzq
+七彩戏剧,https://cntv.sbs/tv?auth=230918&id=qcxj
+戏曲精选,https://cntv.sbs/tv?auth=230918&id=xqjx
 梨园频道,https://pi.0472.org/tv/hn.php?id=154
-上海教育,https://cntv.sbs/tv?auth=2309081833&id=shjy
-中国天气,https://cntv.sbs/tv?auth=2309081833&id=zgtq
-东方财经,https://cntv.sbs/tv?auth=2309081833&id=dfcj
-第一财经,https://cntv.sbs/tv?auth=2309081833&id=dycj
-哈哈炫动,https://cntv.sbs/tv?auth=2309081833&id=hhxd
-上海外语,https://cntv.sbs/tv?auth=2309081833&id=shics
-动漫秀场,https://cntv.sbs/tv?auth=2309081833&id=dmxc
-游戏风云,https://cntv.sbs/tv?auth=2309081833&id=yxfy
-金色学堂,https://cntv.sbs/tv?auth=2309081833&id=jspd
-乐游,https://cntv.sbs/tv?auth=2309081833&id=qjs
-茶频道,https://cntv.sbs/tv?auth=2309081833&id=cpd
-快乐垂钓,https://cntv.sbs/tv?auth=2309081833&id=klcd
-金鹰纪实,https://cntv.sbs/tv?auth=2309081833&id=jyjs
-金鹰卡通,https://cntv.sbs/tv?auth=2309081833&id=jykt
-嘉佳卡通,https://cntv.sbs/tv?auth=2309081833&id=jjkt
-财富天下,https://cntv.sbs/tv?auth=2309081833&id=cftx
-看天下精选,https://cntv.sbs/tv?auth=2309081833&id=ktxjx
-华语影院,https://cntv.sbs/tv?auth=2309081833&id=hyyy
-电竞天堂,https://cntv.sbs/tv?auth=2309081833&id=djtt
-青春动漫,https://cntv.sbs/tv?auth=2309081833&id=qcdm
-星光影院,https://cntv.sbs/tv?auth=2309081833&id=xgyy
-谍战剧场,https://cntv.sbs/tv?auth=2309081833&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=2309081833&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=2309081833&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=2309081833&id=rmzy
-健康养生,https://cntv.sbs/tv?auth=2309081833&id=jkys
-百变课堂,https://cntv.sbs/tv?auth=2309081833&id=bbkt
-宝宝动画,https://cntv.sbs/tv?auth=2309081833&id=bbdh
+上海教育,https://cntv.sbs/tv?auth=230918&id=shjy
+中国天气,https://cntv.sbs/tv?auth=230918&id=zgtq
+东方财经,https://cntv.sbs/tv?auth=230918&id=dfcj
+第一财经,https://cntv.sbs/tv?auth=230918&id=dycj
+哈哈炫动,https://cntv.sbs/tv?auth=230918&id=hhxd
+上海外语,https://cntv.sbs/tv?auth=230918&id=shics
+动漫秀场,https://cntv.sbs/tv?auth=230918&id=dmxc
+游戏风云,https://cntv.sbs/tv?auth=230918&id=yxfy
+金色学堂,https://cntv.sbs/tv?auth=230918&id=jspd
+乐游,https://cntv.sbs/tv?auth=230918&id=qjs
+茶频道,https://cntv.sbs/tv?auth=230918&id=cpd
+快乐垂钓,https://cntv.sbs/tv?auth=230918&id=klcd
+金鹰纪实,https://cntv.sbs/tv?auth=230918&id=jyjs
+金鹰卡通,https://cntv.sbs/tv?auth=230918&id=jykt
+嘉佳卡通,https://cntv.sbs/tv?auth=230918&id=jjkt
+财富天下,https://cntv.sbs/tv?auth=230918&id=cftx
+看天下精选,https://cntv.sbs/tv?auth=230918&id=ktxjx
+华语影院,https://cntv.sbs/tv?auth=230918&id=hyyy
+电竞天堂,https://cntv.sbs/tv?auth=230918&id=djtt
+青春动漫,https://cntv.sbs/tv?auth=230918&id=qcdm
+星光影院,https://cntv.sbs/tv?auth=230918&id=xgyy
+谍战剧场,https://cntv.sbs/tv?auth=230918&id=dzjc
+全球大片,https://cntv.sbs/tv?auth=230918&id=qqdp
+热门剧场,https://cntv.sbs/tv?auth=230918&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=230918&id=rmzy
+健康养生,https://cntv.sbs/tv?auth=230918&id=jkys
+百变课堂,https://cntv.sbs/tv?auth=230918&id=bbkt
+宝宝动画,https://cntv.sbs/tv?auth=230918&id=bbdh
 
 上海新闻综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 上海新闻综合,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001014/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
@@ -1848,21 +1847,21 @@ CCTV5,http://ott.mobaibox.com/TVOD/1/224/3221228502/index.m3u8
 CCTV5+,http://ott.mobaibox.com/TVOD/1/224/3221228076/index.m3u8
 CCTV16,http://ott.mobaibox.com/TVOD/1/224/3221228314/index.m3u8
 
-劲爆体育,https://cntv.sbs/tv?auth=2309081833&id=jbty
+劲爆体育,https://cntv.sbs/tv?auth=230918&id=jbty
 劲爆体育,http://live.aptvapp.com/ghyx.php?id=JinBaoTiYuHD_6000
 劲爆体育,http://live.aptvapp.com/sxg.php?id=lqhxjcHDH265_4000
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
 劲爆体育,https://tv.fanmingming.com/api/v6.php?id=lqhxjcHDH265
 
-五星体育,https://cntv.sbs/tv?auth=2309081833&id=wxty
+五星体育,https://cntv.sbs/tv?auth=230918&id=wxty
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001018/1.m3u8
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 
-新视觉,https://cntv.sbs/tv?auth=2309081833&id=xsj
+新视觉,https://cntv.sbs/tv?auth=230918&id=xsj
 新视觉,https://tv.fanmingming.com/api/v6.php?id=ycxsjH265
 
-魅力足球,https://cntv.sbs/tv?auth=2309081833&id=mlzq 
+魅力足球,https://cntv.sbs/tv?auth=230918&id=mlzq 
 魅力足球,https://tv.fanmingming.com/api/v6.php?id=mlyy
 
 江苏体育休闲,http://ott.mobaibox.com/TVOD/1/224/3221225935/index.m3u8
@@ -2555,3 +2554,4 @@ Blue胖你看得到我的腿吗,https://epg.112114.xyz/huya/11601963
 聚鲨环球精选,http://111.40.196.27:443/0000000000001000/1000000005000003651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000003651
 风尚购物,http://111.40.196.27:443/0000000000001000/1000000005000018408/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000018408
  
+
