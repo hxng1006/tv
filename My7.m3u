@@ -519,6 +519,13 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
 #EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png",金色学堂
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png",金鹰卡通
+http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225744/index.m3u8
+ 
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/北京卡酷.png",北京卡酷
+http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225743/index.m3u8
+#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png",嘉佳卡通
+http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226227/index.m3u8
  
  
 
@@ -801,18 +808,6 @@ http://cfss.cc/ds/bst.php?id=Cf-67
 #EXTINF:-1 group-title="数字" tvg-logo="https://epg.112114.xyz/logo/直播中国.png",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
  
-
- 
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png",金鹰卡通
-http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225744/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png",哈哈炫动
-https://cntv.sbs/tv?auth=230813&id=hhxd
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/北京卡酷.png",北京卡酷
-http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225743/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png",嘉佳卡通
-http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226227/index.m3u8
-#EXTINF:-1 group-title="百视通" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png",动漫秀场
-https://cntv.sbs/tv?auth=230813&id=dmxc
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/fhzx.png" group-title="电视伴音",凤凰资讯
