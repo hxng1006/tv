@@ -243,10 +243,10 @@ CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 CETV4,https://sgx.xxray.cc/IPTV/xsxg.php?id=CETV-4H264_2000
 
-CETV1,https://cntv.sbs/tv?auth=230927&id=cetv1
-CETV2,https://cntv.sbs/tv?auth=230927&id=cetv2
+CETV1,https://cntv.sbs/tv?auth=230813&id=cetv1
+CETV2,https://cntv.sbs/tv?auth=230813&id=cetv2
 CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
-CETV4,https://cntv.sbs/tv?auth=230927&id=cetv4
+CETV4,https://cntv.sbs/tv?auth=230813&id=cetv4
 
  
 
@@ -476,43 +476,43 @@ CETV4,https://cntv.sbs/tv?auth=230927&id=cetv4
 广西卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
 海南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8
 
-北京卫视,https://cntv.sbs/tv?auth=230927&id=bjws
-东方卫视,https://cntv.sbs/tv?auth=230927&id=dfws
-天津卫视,https://cntv.sbs/tv?auth=230927&id=tjws
-重庆卫视,https://cntv.sbs/tv?auth=230927&id=cqws
-黑龙江卫视,https://cntv.sbs/tv?auth=230927&id=hljws
-吉林卫视,https://cntv.sbs/tv?auth=230927&id=jlws
-辽宁卫视,https://cntv.sbs/tv?auth=230927&id=lnws
-内蒙古卫视,https://cntv.sbs/tv?auth=230927&id=nmws
-宁夏卫视,https://cntv.sbs/tv?auth=230927&id=nxws
-甘肃卫视,https://cntv.sbs/tv?auth=230927&id=gsws
-青海卫视,https://cntv.sbs/tv?auth=230927&id=qhws
-陕西卫视,https://cntv.sbs/tv?auth=230927&id=sxws
-河北卫视,https://cntv.sbs/tv?auth=230927&id=hbws
-山西卫视,https://cntv.sbs/tv?auth=230927&id=sxiws
-山东卫视,https://cntv.sbs/tv?auth=230927&id=sdws
-安徽卫视,https://cntv.sbs/tv?auth=230927&id=ahws
-河南卫视,https://cntv.sbs/tv?auth=230927&id=hnws
-湖北卫视,https://cntv.sbs/tv?auth=230927&id=hubws
-湖南卫视,https://cntv.sbs/tv?auth=230927&id=hunws
-江西卫视,https://cntv.sbs/tv?auth=230927&id=jxws
-江苏卫视,https://cntv.sbs/tv?auth=230927&id=jsws
-浙江卫视,https://cntv.sbs/tv?auth=230927&id=zjws
-东南卫视,https://cntv.sbs/tv?auth=230927&id=dnws
-厦门卫视,https://cntv.sbs/tv?auth=230927&id=xmws
-广东卫视,https://cntv.sbs/tv?auth=230927&id=gdws
-深圳卫视,https://cntv.sbs/tv?auth=230927&id=szws
-广西卫视,https://cntv.sbs/tv?auth=230927&id=gxws
-云南卫视,https://cntv.sbs/tv?auth=230927&id=ynws
-贵州卫视,https://cntv.sbs/tv?auth=230927&id=gzws
-四川卫视,https://cntv.sbs/tv?auth=230927&id=scws
-康巴卫视,https://cntv.sbs/tv?auth=230927&id=kbws
-新疆卫视,https://cntv.sbs/tv?auth=230927&id=xjws
-兵团卫视,https://cntv.sbs/tv?auth=230927&id=btws
-西藏卫视,https://cntv.sbs/tv?auth=230927&id=xzws
-海南卫视,https://cntv.sbs/tv?auth=230927&id=hinws
-三沙卫视,https://cntv.sbs/tv?auth=230927&id=ssws
-海峡卫视,https://cntv.sbs/tv?auth=230927&id=hxws
+北京卫视,https://cntv.sbs/tv?auth=230813&id=bjws
+东方卫视,https://cntv.sbs/tv?auth=230813&id=dfws
+天津卫视,https://cntv.sbs/tv?auth=230813&id=tjws
+重庆卫视,https://cntv.sbs/tv?auth=230813&id=cqws
+黑龙江卫视,https://cntv.sbs/tv?auth=230813&id=hljws
+吉林卫视,https://cntv.sbs/tv?auth=230813&id=jlws
+辽宁卫视,https://cntv.sbs/tv?auth=230813&id=lnws
+内蒙古卫视,https://cntv.sbs/tv?auth=230813&id=nmws
+宁夏卫视,https://cntv.sbs/tv?auth=230813&id=nxws
+甘肃卫视,https://cntv.sbs/tv?auth=230813&id=gsws
+青海卫视,https://cntv.sbs/tv?auth=230813&id=qhws
+陕西卫视,https://cntv.sbs/tv?auth=230813&id=sxws
+河北卫视,https://cntv.sbs/tv?auth=230813&id=hbws
+山西卫视,https://cntv.sbs/tv?auth=230813&id=sxiws
+山东卫视,https://cntv.sbs/tv?auth=230813&id=sdws
+安徽卫视,https://cntv.sbs/tv?auth=230813&id=ahws
+河南卫视,https://cntv.sbs/tv?auth=230813&id=hnws
+湖北卫视,https://cntv.sbs/tv?auth=230813&id=hubws
+湖南卫视,https://cntv.sbs/tv?auth=230813&id=hunws
+江西卫视,https://cntv.sbs/tv?auth=230813&id=jxws
+江苏卫视,https://cntv.sbs/tv?auth=230813&id=jsws
+浙江卫视,https://cntv.sbs/tv?auth=230813&id=zjws
+东南卫视,https://cntv.sbs/tv?auth=230813&id=dnws
+厦门卫视,https://cntv.sbs/tv?auth=230813&id=xmws
+广东卫视,https://cntv.sbs/tv?auth=230813&id=gdws
+深圳卫视,https://cntv.sbs/tv?auth=230813&id=szws
+广西卫视,https://cntv.sbs/tv?auth=230813&id=gxws
+云南卫视,https://cntv.sbs/tv?auth=230813&id=ynws
+贵州卫视,https://cntv.sbs/tv?auth=230813&id=gzws
+四川卫视,https://cntv.sbs/tv?auth=230813&id=scws
+康巴卫视,https://cntv.sbs/tv?auth=230813&id=kbws
+新疆卫视,https://cntv.sbs/tv?auth=230813&id=xjws
+兵团卫视,https://cntv.sbs/tv?auth=230813&id=btws
+西藏卫视,https://cntv.sbs/tv?auth=230813&id=xzws
+海南卫视,https://cntv.sbs/tv?auth=230813&id=hinws
+三沙卫视,https://cntv.sbs/tv?auth=230813&id=ssws
+海峡卫视,https://cntv.sbs/tv?auth=230813&id=hxws
 
 
 地方,#genre#
@@ -599,49 +599,49 @@ CETV4,https://cntv.sbs/tv?auth=230927&id=cetv4
  
 
 百视通,#genre#
-上海新闻综合,https://cntv.sbs/tv?auth=230927&id=shxwzh
-上海都市,https://cntv.sbs/tv?auth=230927&id=shds
-生活时尚,https://cntv.sbs/tv?auth=230927&id=shss
-法治天地,https://cntv.sbs/tv?auth=230927&id=fztd
-欢笑剧场,https://cntv.sbs/tv?auth=230927&id=hxjc
-都市剧场,https://cntv.sbs/tv?auth=230927&id=dsjc
-纪实人文,https://cntv.sbs/tv?auth=230927&id=shjsrw
-纪实科教,https://cntv.sbs/tv?auth=230927&id=bjjskj
-五星体育,https://cntv.sbs/tv?auth=230927&id=wxty
-劲爆体育,https://cntv.sbs/tv?auth=230927&id=jbty
-新视觉,https://cntv.sbs/tv?auth=230927&id=xsj
-魅力足球,https://cntv.sbs/tv?auth=230927&id=mlzq
-七彩戏剧,https://cntv.sbs/tv?auth=230927&id=qcxj
-戏曲精选,https://cntv.sbs/tv?auth=230927&id=xqjx
+上海新闻综合,https://cntv.sbs/tv?auth=230813&id=shxwzh
+上海都市,https://cntv.sbs/tv?auth=230813&id=shds
+生活时尚,https://cntv.sbs/tv?auth=230813&id=shss
+法治天地,https://cntv.sbs/tv?auth=230813&id=fztd
+欢笑剧场,https://cntv.sbs/tv?auth=230813&id=hxjc
+都市剧场,https://cntv.sbs/tv?auth=230813&id=dsjc
+纪实人文,https://cntv.sbs/tv?auth=230813&id=shjsrw
+纪实科教,https://cntv.sbs/tv?auth=230813&id=bjjskj
+五星体育,https://cntv.sbs/tv?auth=230813&id=wxty
+劲爆体育,https://cntv.sbs/tv?auth=230813&id=jbty
+新视觉,https://cntv.sbs/tv?auth=230813&id=xsj
+魅力足球,https://cntv.sbs/tv?auth=230813&id=mlzq
+七彩戏剧,https://cntv.sbs/tv?auth=230813&id=qcxj
+戏曲精选,https://cntv.sbs/tv?auth=230813&id=xqjx
 梨园频道,https://pi.0472.org/tv/hn.php?id=154
-上海教育,https://cntv.sbs/tv?auth=230927&id=shjy
-中国天气,https://cntv.sbs/tv?auth=230927&id=zgtq
-东方财经,https://cntv.sbs/tv?auth=230927&id=dfcj
-第一财经,https://cntv.sbs/tv?auth=230927&id=dycj
-哈哈炫动,https://cntv.sbs/tv?auth=230927&id=hhxd
-上海外语,https://cntv.sbs/tv?auth=230927&id=shics
-动漫秀场,https://cntv.sbs/tv?auth=230927&id=dmxc
-游戏风云,https://cntv.sbs/tv?auth=230927&id=yxfy
-金色学堂,https://cntv.sbs/tv?auth=230927&id=jspd
-乐游,https://cntv.sbs/tv?auth=230927&id=qjs
-茶频道,https://cntv.sbs/tv?auth=230927&id=cpd
-快乐垂钓,https://cntv.sbs/tv?auth=230927&id=klcd
-金鹰纪实,https://cntv.sbs/tv?auth=230927&id=jyjs
-金鹰卡通,https://cntv.sbs/tv?auth=230927&id=jykt
-嘉佳卡通,https://cntv.sbs/tv?auth=230927&id=jjkt
-财富天下,https://cntv.sbs/tv?auth=230927&id=cftx
-看天下精选,https://cntv.sbs/tv?auth=230927&id=ktxjx
-华语影院,https://cntv.sbs/tv?auth=230927&id=hyyy
-电竞天堂,https://cntv.sbs/tv?auth=230927&id=djtt
-青春动漫,https://cntv.sbs/tv?auth=230927&id=qcdm
-星光影院,https://cntv.sbs/tv?auth=230927&id=xgyy
-谍战剧场,https://cntv.sbs/tv?auth=230927&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=230927&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=230927&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=230927&id=rmzy
-健康养生,https://cntv.sbs/tv?auth=230927&id=jkys
-百变课堂,https://cntv.sbs/tv?auth=230927&id=bbkt
-宝宝动画,https://cntv.sbs/tv?auth=230927&id=bbdh
+上海教育,https://cntv.sbs/tv?auth=230813&id=shjy
+中国天气,https://cntv.sbs/tv?auth=230813&id=zgtq
+东方财经,https://cntv.sbs/tv?auth=230813&id=dfcj
+第一财经,https://cntv.sbs/tv?auth=230813&id=dycj
+哈哈炫动,https://cntv.sbs/tv?auth=230813&id=hhxd
+上海外语,https://cntv.sbs/tv?auth=230813&id=shics
+动漫秀场,https://cntv.sbs/tv?auth=230813&id=dmxc
+游戏风云,https://cntv.sbs/tv?auth=230813&id=yxfy
+金色学堂,https://cntv.sbs/tv?auth=230813&id=jspd
+乐游,https://cntv.sbs/tv?auth=230813&id=qjs
+茶频道,https://cntv.sbs/tv?auth=230813&id=cpd
+快乐垂钓,https://cntv.sbs/tv?auth=230813&id=klcd
+金鹰纪实,https://cntv.sbs/tv?auth=230813&id=jyjs
+金鹰卡通,https://cntv.sbs/tv?auth=230813&id=jykt
+嘉佳卡通,https://cntv.sbs/tv?auth=230813&id=jjkt
+财富天下,https://cntv.sbs/tv?auth=230813&id=cftx
+看天下精选,https://cntv.sbs/tv?auth=230813&id=ktxjx
+华语影院,https://cntv.sbs/tv?auth=230813&id=hyyy
+电竞天堂,https://cntv.sbs/tv?auth=230813&id=djtt
+青春动漫,https://cntv.sbs/tv?auth=230813&id=qcdm
+星光影院,https://cntv.sbs/tv?auth=230813&id=xgyy
+谍战剧场,https://cntv.sbs/tv?auth=230813&id=dzjc
+全球大片,https://cntv.sbs/tv?auth=230813&id=qqdp
+热门剧场,https://cntv.sbs/tv?auth=230813&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=230813&id=rmzy
+健康养生,https://cntv.sbs/tv?auth=230813&id=jkys
+百变课堂,https://cntv.sbs/tv?auth=230813&id=bbkt
+宝宝动画,https://cntv.sbs/tv?auth=230813&id=bbdh
 
 上海新闻综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 上海新闻综合,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001014/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
@@ -747,11 +747,11 @@ CETV4,https://cntv.sbs/tv?auth=230927&id=cetv4
 上海外语,http://222.65.21.143:4022/udp/239.45.1.127:5140
 上海外语,http://58.34.204.67:9901/tsfile/live/1019_1.m3u8
 
-新视觉,https://cntv.sbs/tv?auth=230927&id=xsj
+新视觉,https://cntv.sbs/tv?auth=230813&id=xsj
 新视觉,http://zb.688768.xyz/bst/bst.php?playurl=http://140.207.241.3:8080/keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,https://sgx.xxray.cc/IPTV/xsxg.php?id=ycxsjH265_4000
 
-劲爆体育,https://cntv.sbs/tv?auth=230927&id=jbty
+劲爆体育,https://cntv.sbs/tv?auth=230813&id=jbty
 劲爆体育, http://zb.688768.xyz/bst/bst.php?playurl=http://140.207.241.3:8080/keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 劲爆体育,https://sgx.xxray.cc/IPTV/xsxg.php?id=lqhxjcHDH265_4000
 
@@ -819,7 +819,7 @@ CETV4,https://cntv.sbs/tv?auth=230927&id=cetv4
 
 七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8 
 七彩戏剧,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001308/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
-七彩戏剧,https://cntv.sbs/tv?auth=230927&id=qcxj
+七彩戏剧,https://cntv.sbs/tv?auth=230813&id=qcxj
 七彩戏剧,https://cntv.sbs/live?auth=230612&id=qcxj 
 七彩戏剧,https://sgx.xxray.cc/IPTV/xsxg.php?id=qcxj_2000
 
@@ -842,15 +842,15 @@ CETV4,https://cntv.sbs/tv?auth=230927&id=cetv4
 
 中国天气,https://sgx.xxray.cc/IPTV/xsxg.php?id=zgqx_4000
 
-中国天气,https://cntv.sbs/tv?auth=230927&id=zgtq
-华语影院,https://cntv.sbs/tv?auth=230927&id=hyyy
-电竞天堂,https://cntv.sbs/tv?auth=230927&id=djtt
-青春动漫,https://cntv.sbs/tv?auth=230927&id=qcdm
-星光影院,https://cntv.sbs/tv?auth=230927&id=xgyy
-谍战剧场,https://cntv.sbs/tv?auth=230927&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=230927&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=230927&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=230927&id=rmzy
+中国天气,https://cntv.sbs/tv?auth=230813&id=zgtq
+华语影院,https://cntv.sbs/tv?auth=230813&id=hyyy
+电竞天堂,https://cntv.sbs/tv?auth=230813&id=djtt
+青春动漫,https://cntv.sbs/tv?auth=230813&id=qcdm
+星光影院,https://cntv.sbs/tv?auth=230813&id=xgyy
+谍战剧场,https://cntv.sbs/tv?auth=230813&id=dzjc
+全球大片,https://cntv.sbs/tv?auth=230813&id=qqdp
+热门剧场,https://cntv.sbs/tv?auth=230813&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=230813&id=rmzy
 
  
 咪咕全民热练,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2441972983_964717723/ott.mobaibox.com/TVOD/3/224/3221228427/index.m3u8?icpid=3&RTS=1674369672&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
@@ -1847,21 +1847,21 @@ CCTV5,http://ott.mobaibox.com/TVOD/1/224/3221228502/index.m3u8
 CCTV5+,http://ott.mobaibox.com/TVOD/1/224/3221228076/index.m3u8
 CCTV16,http://ott.mobaibox.com/TVOD/1/224/3221228314/index.m3u8
 
-劲爆体育,https://cntv.sbs/tv?auth=230927&id=jbty
+劲爆体育,https://cntv.sbs/tv?auth=230813&id=jbty
 劲爆体育,http://live.aptvapp.com/ghyx.php?id=JinBaoTiYuHD_6000
 劲爆体育,http://live.aptvapp.com/sxg.php?id=lqhxjcHDH265_4000
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
 劲爆体育,https://tv.fanmingming.com/api/v6.php?id=lqhxjcHDH265
 
-五星体育,https://cntv.sbs/tv?auth=230927&id=wxty
+五星体育,https://cntv.sbs/tv?auth=230813&id=wxty
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001018/1.m3u8
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 
-新视觉,https://cntv.sbs/tv?auth=230927&id=xsj
+新视觉,https://cntv.sbs/tv?auth=230813&id=xsj
 新视觉,https://tv.fanmingming.com/api/v6.php?id=ycxsjH265
 
-魅力足球,https://cntv.sbs/tv?auth=230927&id=mlzq 
+魅力足球,https://cntv.sbs/tv?auth=230813&id=mlzq 
 魅力足球,https://tv.fanmingming.com/api/v6.php?id=mlyy
 
 江苏体育休闲,http://ott.mobaibox.com/TVOD/1/224/3221225935/index.m3u8
