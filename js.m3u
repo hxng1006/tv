@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/苏州新闻综合.png",苏州新闻综合
+https://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/苏州社会经济.png",苏州社会经济
+https://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/苏州文化生活.png",苏州文化生活
+https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/苏州电影娱乐.png",苏州电影娱乐
+https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8?zjiangsd
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/苏州生活咨讯.png",苏州生活资讯
+https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/江苏公共.png",江苏公共 
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw4180964299_994803683/ott.mobaibox.com/TVOD/3/224/3221225925/index.m3u8?icpid=3&RTS=1669268990&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/江苏城市.png",江苏城市 
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/TVOD/3/224/3221225929/index.m3u8?icpid=3&RTS=1669269073&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/江苏综艺.png",江苏综艺
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw105610815_-1378935043/ott.mobaibox.com/TVOD/3/224/3221225931/index.m3u8?icpid=3&RTS=1669269209&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/江苏影视.png",江苏影视
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw25164341_-1061241932/ott.mobaibox.com/TVOD/3/224/3221225937/index.m3u8?icpid=3&RTS=1669269129&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/江苏体育.png",江苏体育休闲
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/TVOD/3/224/3221225935/index.m3u8?icpid=3&RTS=1669268931&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/江苏国际.png",江苏国际
+http://lu1.cc/itv/php/migu.php?id=jsgj
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png",优漫卡通 
+http://ott.mobaibox.com/TVOD/1/224/3221225933/index.m3u8
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.xyz/logo/江苏教育.png",江苏教育
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw329009742_-1392321549/ott.mobaibox.com/TVOD/3/224/3221225923/index.m3u8?icpid=3&RTS=1669269433&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
