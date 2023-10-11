@@ -227,6 +227,104 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/TVOD/3/224/32212285
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 http://ott.mobaibox.com/TVOD/1/224/3221228530/index.m3u8
 
+#EXTINF:-1 group-title="港澳台",J2
+http://r.jdshipin.com/ndGgS
+ 
+#EXTINF:-1 group-title="港澳台",Now新闻台
+https://sc2022.stream-link.org/tv2306.php?id=h08
+#EXTINF:-1 group-title="港澳台",TVBS财经
+https://sc2022.stream-link.org/tv2306.php?id=t15
+#EXTINF:-1 group-title="港澳台",TVBS欢乐
+https://sc2022.stream-link.org/tv2306.php?id=t16
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+https://sc2022.stream-link.org/tv2306.php?id=t14
+#EXTINF:-1 group-title="港澳台",TVBS亚洲
+https://sc2022.stream-link.org/tv2306.php?id=t18
+#EXTINF:-1 group-title="港澳台",TVB华语剧台
+https://sc2022.stream-link.org/tv2306.php?id=h21
+#EXTINF:-1 group-title="港澳台",TVB千禧经典台
+https://sc2022.stream-link.org/tv2306.php?id=h23
+#EXTINF:-1 group-title="港澳台",TVB星河台
+https://sc2022.stream-link.org/tv2306.php?id=h22
+#EXTINF:-1 group-title="港澳台",VIUTV
+http://r.jdshipin.com/vSJvl
+ 
+#EXTINF:-1 group-title="港澳台",澳門莲花
+https://sc2022.stream-link.org/tv2306.php?id=h20
+#EXTINF:-1 group-title="港澳台",澳视澳門
+https://sc2022.stream-link.org/tv2306.php?id=h10
+#EXTINF:-1 group-title="港澳台",東森yoyo
+https://sc2022.stream-link.org/tv2306.php?id=t28
+#EXTINF:-1 group-title="港澳台",東森财经
+https://sc2022.stream-link.org/tv2306.php?id=t02
+#EXTINF:-1 group-title="港澳台",東森超视
+https://sc2022.stream-link.org/tv2306.php?id=t30
+#EXTINF:-1 group-title="港澳台",東森新闻
+https://sc2022.stream-link.org/tv2306.php?id=t01
+#EXTINF:-1 group-title="港澳台",公視新闻
+https://sc2022.stream-link.org/tv2306.php?id=t29
+#EXTINF:-1 group-title="港澳台",华视
+https://sc2022.stream-link.org/tv2306.php?id=t04
+#EXTINF:-1 group-title="港澳台",华视新闻
+https://sc2022.stream-link.org/tv2306.php?id=t05
+#EXTINF:-1 group-title="港澳台",寰宇国际新闻
+https://sc2022.stream-link.org/tv2306.php?id=t08
+#EXTINF:-1 group-title="港澳台",寰宇台湾新闻
+https://sc2022.stream-link.org/tv2306.php?id=t09
+#EXTINF:-1 group-title="港澳台",民視HD
+https://sc2022.stream-link.org/tv2306.php?id=t19
+#EXTINF:-1 group-title="港澳台",民視第一台
+https://sc2022.stream-link.org/tv2306.php?id=t20
+#EXTINF:-1 group-title="港澳台",民視旅遊台
+https://sc2022.stream-link.org/tv2306.php?id=t24
+#EXTINF:-1 group-title="港澳台",民視台灣台
+https://sc2022.stream-link.org/tv2306.php?id=t21
+#EXTINF:-1 group-title="港澳台",民視新聞
+https://sc2022.stream-link.org/tv2306.php?id=t07
+#EXTINF:-1 group-title="港澳台",民視影劇台
+https://sc2022.stream-link.org/tv2306.php?id=t23
+#EXTINF:-1 group-title="港澳台",民視綜藝台
+https://sc2022.stream-link.org/tv2306.php?id=t22
+#EXTINF:-1 group-title="港澳台",中視新聞
+https://sc2022.stream-link.org/tv2306.php?id=t06
+#EXTINF:-1 group-title="港澳台",中天新聞
+https://sc2022.stream-link.org/tv2306.php?id=t03
+#EXTINF:-1 group-title="港澳台",中天亞洲
+https://sc2022.stream-link.org/tv2306.php?id=t17
+#EXTINF:-1 group-title="港澳台",三立財經新聞
+https://sc2022.stream-link.org/tv2306.php?id=t10
+#EXTINF:-1 group-title="港澳台",三立都會
+https://sc2022.stream-link.org/tv2306.php?id=t26
+#EXTINF:-1 group-title="港澳台",三立台灣
+https://sc2022.stream-link.org/tv2306.php?id=t25
+#EXTINF:-1 group-title="港澳台",三立新聞
+https://sc2022.stream-link.org/tv2306.php?id=t11
+#EXTINF:-1 group-title="港澳台",三立新聞+
+https://sc2022.stream-link.org/tv2306.php?id=t12
+#EXTINF:-1 group-title="港澳台",台視新聞
+https://sc2022.stream-link.org/tv2306.php?id=t13
+#EXTINF:-1 group-title="港澳台",天才衝衝衝
+https://sc2022.stream-link.org/tv2306.php?id=t27
+ 
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://r.jdshipin.com/62WM7 
+ 
+#EXTINF:-1 group-title="港澳台",华丽翡翠台
+https://sc2022.stream-link.org/tv2306.php?id=h00 
+ 
+#EXTINF:-1 group-title="港澳台",无线新闻
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 group-title="港澳台",無綫財經·體育·資訊台
+https://sc2022.stream-link.org/tv2306.php?id=h05
+ 
+ 
+#EXTINF:-1 group-title="港澳台",香港國際財經
+https://sc2022.stream-link.org/tv2306.php?id=h15
+#EXTINF:-1 group-title="港澳台",香港開電視
+https://sc2022.stream-link.org/tv2306.php?id=h16
+#EXTINF:-1 group-title="港澳台",香港開電視資訊台
+https://sc2022.stream-link.org/tv2306.php?id=h17
+
 #EXTINF:-1 group-title="港澳台",凤凰电影 
 http://live.hust.edu.cn/hls/fhdy.m3u8
 
