@@ -912,6 +912,15 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 
 凤凰电影,http://live.hust.edu.cn/hls/fhdy.m3u8
 
+翡翠台,https://pi.0472.org/tv/fct.php?auth=231013
+明珠台,https://pi.0472.org/tv/mzt.php?auth=231013
+澳视澳门,https://pi.0472.org/tv/asam.php?auth=231013
+澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=231013
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+莲花卫视,https://cntv.sbs/tv/lhws.php
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+
 J2,http://r.jdshipin.com/ndGgS 
 
 TVB J2,http://r.jdshipin.com/ndGgS
@@ -1970,7 +1979,15 @@ CCTV16,http://ott.mobaibox.com/TVOD/1/224/3221228314/index.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 
 
-咪咕,#genre#
+咪咕体育,#genre#
+百视通体育1,https://cntv.sbs/tv?auth=231013&id=sport1
+百视通体育2,https://cntv.sbs/tv?auth=231013&id=sport2
+百视通体育3,https://cntv.sbs/tv?auth=231013&id=sport3
+百视通体育4,https://cntv.sbs/tv?auth=231013&id=sport4
+百视通体育5,https://cntv.sbs/tv?auth=231013&id=sport5
+百视通体育6,https://cntv.sbs/tv?auth=231013&id=sport6
+百视通体育7,https://cntv.sbs/tv?auth=231013&id=sport7
+
 咪咕直播-1,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 咪咕直播-2,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
 咪咕直播-3,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
