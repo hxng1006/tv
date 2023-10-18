@@ -170,60 +170,111 @@ http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw329009742_-1392321549/ot
  
  
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png",上海新闻综合
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
+https://live.metshop.top/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/上海都市.png",上海都市
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
+https://live.metshop.top/bestv.php?id=dshd8m/8000000
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png",生活时尚
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
+https://live.metshop.top/bestv.php?id=shss8m/8000000
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png",纪实人文
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
+https://live.metshop.top/bestv.php?id=jspdhd/4000000
  
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png",金鹰纪实
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8 
+https://live.metshop.top/bestv.php?id=jyjs8m/8000000 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/法治天地.png",法治天地
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
+https://live.metshop.top/bestv.php?id=fztd8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/东方影视.png",东方影视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
+https://live.metshop.top/bestv.php?id=dfyshd8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",欢笑剧场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
+https://live.metshop.top/bestv.php?id=hxjc8m/8000000
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
+https://live.metshop.top/bestv.php?id=dsjc8m/8000000
+
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png",劲爆体育 
+https://live.metshop.top/bestv.php?id=jbtyhd8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png",快乐垂钓 
+https://live.metshop.top/bestv.php?id=klcd8m/8000000
  
-#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png",快乐垂钓
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8 
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/戏曲精选.png",戏曲精选 
+https://live.metshop.top/bestv.php?id=xqjx8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/第一财经.png",第一财经 
+https://live.metshop.top/bestv.php?id=dycjhd8m/8000000
  
-#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png",上海第一财经
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8?
-#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8 
-#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/上视外语.png",上视外语
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
-#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png",七彩戏剧
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
-#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/上海教育.png",上海教育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育 
+https://live.metshop.top/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/上视外语.png",上视外语 
+https://live.metshop.top/bestv.php?id=icshd8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png",七彩戏剧 
+https://live.metshop.top/bestv.php?id=qcxjhd8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/上海教育.png",上海教育 
+https://live.metshop.top/bestv.php?id=setvhd/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/乐游.png",乐游
+https://live.metshop.top/bestv.php?id=qjshd8m/8000000
  
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/新视觉.png",新视觉 
+https://live.metshop.top/bestv.php?id=xsjhd8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png",游戏风云 
+https://live.metshop.top/bestv.php?id=yxfy8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/热门综艺.png",热门综艺 
+https://live.metshop.top/bestv.php?id=rmzy8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/超级体育.png",超级体育 
+https://live.metshop.top/bestv.php?id=qcsj8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/健康养生.png",健康养生 
+https://live.metshop.top/bestv.php?id=jkys8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/百变课堂.png",百变课堂 
+https://live.metshop.top/bestv.php?id=bbkt8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/看天下精选.png",看天下精选 
+https://live.metshop.top/bestv.php?id=ktxjx8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/华语影院.png",华语影院 
+https://live.metshop.top/bestv.php?id=hyyy8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/电竞天堂.png",电竞天堂 
+https://live.metshop.top/bestv.php?id=djtt8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/青春动漫.png",青春动漫 
+https://live.metshop.top/bestv.php?id=qcdm8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/宝宝动画.png",宝宝动画 
+https://live.metshop.top/bestv.php?id=bbdh8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/星光影院.png",星光影院 
+https://live.metshop.top/bestv.php?id=xgyy8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/谍战剧场.png",谍战剧场 
+https://live.metshop.top/bestv.php?id=dzjc8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/全球大片.png",全球大片 
+https://live.metshop.top/bestv.php?id=qqdp8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/热门剧场.png",热门剧场 
+https://live.metshop.top/bestv.php?id=rmjc8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/陶瓷高清.png",陶瓷高清 
+https://live.metshop.top/bestv.php?id=taocihd/8000000
  
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="百视通",乐游
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8 
-#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/东方财经.png",东方财经
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
-#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png",金色学堂
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png",金鹰卡通
-http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225744/index.m3u8
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png",卡酷少儿 
+https://live.metshop.top/bestv.php?id=kkse8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/纪实科技.png",纪实科教 
+https://live.metshop.top/bestv.php?id=dajs8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/茶频道.png",茶频道 
+https://live.metshop.top/bestv.php?id=cpdhdavs8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/足球高清.png",足球高清 
+https://live.metshop.top/bestv.php?id=zqpd8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/炫动卡通.png",炫动卡通 
+https://live.metshop.top/bestv.php?id=hhxd8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/东方财经.png",东方财经 
+https://live.metshop.top/bestv.php?id=dfcjhd8m/8000000
  
-#EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/北京卡酷.png",北京卡酷
-http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png",动漫秀场 
+https://live.metshop.top/bestv.php?id=dmxc8m/8000000
+ 
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png",金色学堂 
+https://live.metshop.top/bestv.php?id=jingsepd8m/8000000
+#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png",魅力足球 
+https://live.metshop.top/bestv.php?id=mlyyhd8m/8000000
+
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png",嘉佳卡通
 http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226227/index.m3u8
- 
+
+#EXTINF:-1 tvg-id="浦东电视台" tvg-name="浦东电视台" tvg-logo="https://live.fanmingming.com/tv/浦东电视台.png" group-title="百视通",浦东电视台
+https://cntv.sbs/tv?auth=231013&id=pdtv 
  
 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8
+http://ott.mobaibox.com/TVOD/1/224/3221228524/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
+http://ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 http://ott.mobaibox.com/TVOD/1/224/3221228530/index.m3u8
 
@@ -369,11 +420,11 @@ http://39.134.18.65/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226462/index
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg",CHC高清电影
 http://39.134.18.65/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png",怀旧剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226972/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png",第一剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226959/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png",风云剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226950/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
 #EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="数字",发现之旅
 http://ott.mobaibox.com/TVOD/1/224/3221227030/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="https://live.fanmingming.com/tv/老故事.png",老故事
