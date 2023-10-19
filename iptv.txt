@@ -1,4 +1,4 @@
-Newbestv,#genre#
+Bestv,#genre#
 CCTV1 8M,https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000
 CCTV2 8M,https://live.metshop.top/bestv.php?id=cctv2hd8m/8000000
 CCTV3 8M,https://live.metshop.top/bestv.php?id=cctv38m/8000000
@@ -2862,5 +2862,3 @@ Blue胖你看得到我的腿吗,https://epg.112114.xyz/huya/11601963
 放心购,http://111.40.196.27:443/0000000000001000/1000000006000269003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000269003
 聚鲨环球精选,http://111.40.196.27:443/0000000000001000/1000000005000003651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000003651
 风尚购物,http://111.40.196.27:443/0000000000001000/1000000005000018408/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000018408
- 
-
