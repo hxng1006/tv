@@ -1,4 +1,4 @@
-央卫8M,#genre#
+Newbestv,#genre#
 CCTV1 8M,https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000
 CCTV2 8M,https://live.metshop.top/bestv.php?id=cctv2hd8m/8000000
 CCTV3 8M,https://live.metshop.top/bestv.php?id=cctv38m/8000000
