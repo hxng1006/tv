@@ -136,7 +136,7 @@ http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226234/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视
 http://ott.mobaibox.com/TVOD/1/224/3221227554/index.m3u8
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视",海峡卫视
-https://cntv.sbs/tv?auth=231013&id=hxws
+https://cntv.sbs/tv?auth=2310201855&id=hxws
 
 #EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/苏州新闻综合.png",苏州新闻综合
 https://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
@@ -268,7 +268,7 @@ https://live.metshop.top/bestv.php?id=mlyyhd8m/8000000
 http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226227/index.m3u8
 
 #EXTINF:-1 tvg-id="浦东电视台" tvg-name="浦东电视台" tvg-logo="https://live.fanmingming.com/tv/浦东电视台.png" group-title="百视通",浦东电视台
-https://cntv.sbs/tv?auth=231013&id=pdtv 
+https://cntv.sbs/tv?auth=2310201855&id=pdtv 
  
 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
@@ -279,13 +279,13 @@ http://ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
 http://ott.mobaibox.com/TVOD/1/224/3221228530/index.m3u8
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
-https://pi.0472.org/tv/fct.php?auth=231013
+https://pi.0472.org/tv/fct.php?auth=2310201855
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台",明珠台
-https://pi.0472.org/tv/mzt.php?auth=231013
+https://pi.0472.org/tv/mzt.php?auth=2310201855
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳台",澳视澳门
-https://pi.0472.org/tv/asam.php?auth=231013
+https://pi.0472.org/tv/asam.php?auth=2310201855
 #EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png" group-title="港澳台",澳亚卫视
-https://pi.0472.org/tv/aoya.php?auth=231013
+https://pi.0472.org/tv/aoya.php?auth=2310201855
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳台",RTHK32
@@ -646,3 +646,4 @@ http://cfss.cc/ds/bst.php?id=Cf-67
 
 #EXTINF:-1 group-title="数字" tvg-logo="https://live.fanmingming.com/tv/直播中国.png",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+
