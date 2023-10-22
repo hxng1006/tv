@@ -137,34 +137,51 @@ http://ott.mobaibox.com/TVOD/1/224/3221227554/index.m3u8
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视",海峡卫视
 https://cntv.sbs/tv?auth=2310201855&id=hxws
 
-#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/苏州新闻综合.png",苏州新闻综合
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/苏州新闻综合.png",苏州新闻综合
 https://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/苏州社会经济.png",苏州社会经济
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/苏州社会经济.png",苏州社会经济
 https://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/苏州文化生活.png",苏州文化生活
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/苏州文化生活.png",苏州文化生活
 https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/苏州电影娱乐.png",苏州电影娱乐
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/苏州电影娱乐.png",苏州电影娱乐
 https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8?zjiangsd
-#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/苏州生活咨讯.png",苏州生活资讯
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/苏州生活咨讯.png",苏州生活资讯
 https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png",苏州4K
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png",江苏城市 
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png",江苏城市 
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/TVOD/3/224/3221225929/index.m3u8?icpid=3&RTS=1669269073&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png",江苏综艺
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png",江苏综艺
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw105610815_-1378935043/ott.mobaibox.com/TVOD/3/224/3221225931/index.m3u8?icpid=3&RTS=1669269209&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png",江苏影视
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png",江苏影视
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw25164341_-1061241932/ott.mobaibox.com/TVOD/3/224/3221225937/index.m3u8?icpid=3&RTS=1669269129&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/江苏公共.png",江苏公共 
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏公共.png",江苏公共 
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw4180964299_994803683/ott.mobaibox.com/TVOD/3/224/3221225925/index.m3u8?icpid=3&RTS=1669268990&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/江苏体育.png",江苏体育休闲
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏体育.png",江苏体育休闲
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/TVOD/3/224/3221225935/index.m3u8?icpid=3&RTS=1669268931&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/江苏教育.png",江苏教育
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏教育.png",江苏教育
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw329009742_-1392321549/ott.mobaibox.com/TVOD/3/224/3221225923/index.m3u8?icpid=3&RTS=1669269433&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png",优漫卡通 
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png",优漫卡通 
 http://ott.mobaibox.com/TVOD/1/224/3221225933/index.m3u8
-#EXTINF:-1 group-title="江苏" tvg-logo="https://live.fanmingming.com/tv/江苏国际.png",江苏国际
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏国际.png",江苏国际
 http://lu1.cc/itv/php/migu.php?id=jsgj
+
+#EXTINF:-1 group-title="地方",南京新闻
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/TVOD/3/224/3221227213/index.m3u8
+#EXTINF:-1 group-title="地方",南京生活
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3530023629_201686832/ott.mobaibox.com/TVOD/4/224/3221227786/index.m3u8
+#EXTINF:-1 group-title="地方",南京教科
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3484211223_471033633/ott.mobaibox.com/TVOD/4/224/3221227194/index.m3u8
+#EXTINF:-1 group-title="地方",南京娱乐
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/TVOD/3/224/3221227722/index.m3u8
+#EXTINF:-1 group-title="地方",南京影视
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3614839407_-1644050596/ott.mobaibox.com/TVOD/4/224/3221227719/index.m3u8
+#EXTINF:-1 group-title="地方",南京十八
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/TVOD/4/224/3221227178/index.m3u8
+#EXTINF:-1 group-title="地方",南京少儿
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/TVOD/4/224/3221227733/index.m3u8
+#EXTINF:-1 group-title="地方",南京信息
+http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8?zjiangsd
 
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="地方",福建综合
 https://cntv.sbs/tv?auth=2310201855&id=fjzh
