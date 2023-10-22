@@ -42,8 +42,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212281
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8k.png",CCTV8K超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/TVOD/3/224/3221228165/index.m3u8
 
-
-
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",中国教育1台 
 http://ott.mobaibox.com/TVOD/1/224/3221225909/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CETV2.png",中国教育2台 
@@ -52,6 +50,7 @@ http://ott.mobaibox.com/TVOD/1/224/3221225850/index.m3u8
 http://ott.mobaibox.com/TVOD/1/224/3221227018/index.m3u8 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",中国教育4台 
 http://ott.mobaibox.com/TVOD/1/224/3221227028/index.m3u8
+
  
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
 http://ott.mobaibox.com/TVOD/3/224/3221227439/index.m3u8
@@ -229,10 +228,6 @@ https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b
 https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 #EXTINF:-1 tvg-id="内蒙古农牧" tvg-name="内蒙古农牧" tvg-logo="https://live.fanmingming.com/tv/内蒙古农牧.png" group-title="地方",内蒙古农牧频道
 https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
-#EXTINF:-1 tvg-id="内蒙古蒙语卫视" tvg-name="内蒙古蒙语卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语卫视.png" group-title="地方",内蒙古蒙语卫视
-https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
-#EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语文化.png" group-title="地方",内蒙古蒙语文化
-https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 
  
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png",上海新闻综合
@@ -254,17 +249,13 @@ https://live.metshop.top/bestv.php?id=dfyshd8m/8000000
 https://live.metshop.top/bestv.php?id=hxjc8m/8000000
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
 https://live.metshop.top/bestv.php?id=dsjc8m/8000000
-
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png",劲爆体育 
 https://live.metshop.top/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png",快乐垂钓 
-https://live.metshop.top/bestv.php?id=klcd8m/8000000
- 
+https://live.metshop.top/bestv.php?id=klcd8m/8000000 
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/戏曲精选.png",戏曲精选 
-https://live.metshop.top/bestv.php?id=xqjx8m/8000000
-#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/第一财经.png",第一财经 
-https://live.metshop.top/bestv.php?id=dycjhd8m/8000000
- 
+https://live.metshop.top/bestv.php?id=xqjx8m/8000000#EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/第一财经.png",第一财经 
+https://live.metshop.top/bestv.php?id=dycjhd8m/8000000 
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育 
 https://live.metshop.top/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/上视外语.png",上视外语 
@@ -274,8 +265,7 @@ https://live.metshop.top/bestv.php?id=qcxjhd8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/上海教育.png",上海教育 
 https://live.metshop.top/bestv.php?id=setvhd/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/乐游.png",乐游
-https://live.metshop.top/bestv.php?id=qjshd8m/8000000
- 
+https://live.metshop.top/bestv.php?id=qjshd8m/8000000 
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/新视觉.png",新视觉 
 https://live.metshop.top/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png",游戏风云 
@@ -307,8 +297,7 @@ https://live.metshop.top/bestv.php?id=qqdp8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/热门剧场.png",热门剧场 
 https://live.metshop.top/bestv.php?id=rmjc8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/陶瓷高清.png",陶瓷高清 
-https://live.metshop.top/bestv.php?id=taocihd/8000000
- 
+https://live.metshop.top/bestv.php?id=taocihd/8000000 
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png",卡酷少儿 
 https://live.metshop.top/bestv.php?id=kkse8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/纪实科技.png",纪实科教 
@@ -320,83 +309,113 @@ https://live.metshop.top/bestv.php?id=zqpd8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/炫动卡通.png",炫动卡通 
 https://live.metshop.top/bestv.php?id=hhxd8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/东方财经.png",东方财经 
-https://live.metshop.top/bestv.php?id=dfcjhd8m/8000000
- 
+https://live.metshop.top/bestv.php?id=dfcjhd8m/8000000 
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png",动漫秀场 
-https://live.metshop.top/bestv.php?id=dmxc8m/8000000
- 
+https://live.metshop.top/bestv.php?id=dmxc8m/8000000 
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png",金色学堂 
 https://live.metshop.top/bestv.php?id=jingsepd8m/8000000
 #EXTINF:-1 group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png",魅力足球 
 https://live.metshop.top/bestv.php?id=mlyyhd8m/8000000
-
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="百视通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png",嘉佳卡通
 http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226227/index.m3u8
-
 #EXTINF:-1 tvg-id="浦东电视台" tvg-name="浦东电视台" tvg-logo="https://live.fanmingming.com/tv/浦东电视台.png" group-title="百视通",浦东电视台
 https://cntv.sbs/tv?auth=2310201855&id=pdtv 
+
  
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png" group-title="歌华",歌华导视
-https://live.goodiptv.club/api/ghyx.php?id=GeHuadaoshiHD_6000 
-#EXTINF:-1,tvg-id="歌华歌华" tvg-name="歌华歌华" tvg-logo="https://epg.112114.xyz/logo/歌华歌华.png" group-title="歌华",歌华歌华BTV-1
+https://live.goodiptv.club/api/ghyx.php?id=GeHuadaoshiHD_6000
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="歌华",北京卫视BTV-1
 https://live.goodiptv.club/api/ghyx.php?id=BTV1HD_6000
-#EXTINF:-1,tvg-id="歌华文艺" tvg-name="歌华文艺" tvg-logo="https://epg.112114.xyz/logo/歌华文艺.png" group-title="歌华",歌华文艺BTV-2
+#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="歌华",北京文艺BTV-2
 https://live.goodiptv.club/api/ghyx.php?id=BTVwenyiHD_6000
-#EXTINF:-1,tvg-id="歌华科教" tvg-name="歌华科教" tvg-logo="https://epg.112114.xyz/logo/歌华科教.png" group-title="歌华",歌华科教BTV-3
-https://live.goodiptv.club/api/ghyx.php?id=BTVKeJiaoHD_6000
- 
-#EXTINF:-1,tvg-id="歌华影视" tvg-name="歌华影视" tvg-logo="https://epg.112114.xyz/logo/歌华影视.png" group-title="歌华",歌华影视BTV-4
+#EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="歌华",北京科教BTV-3
+https://live.goodiptv.club/api/ghyx.php?id=BTVKeJiaoHD_6000 
+#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="歌华",北京影视BTV-4
 https://live.goodiptv.club/api/ghyx.php?id=BTV4HD_6000
-#EXTINF:-1,tvg-id="歌华财经" tvg-name="歌华财经" tvg-logo="https://epg.112114.xyz/logo/歌华财经.png" group-title="歌华",歌华财经BTV-5
-https://live.goodiptv.club/api/ghyx.php?id=BTVCaiJingHD_6000
- 
-#EXTINF:-1,tvg-id="歌华体育" tvg-name="歌华体育" tvg-logo="https://epg.112114.xyz/logo/歌华体育.png" group-title="歌华",歌华体育休闲BTV-6
+#EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="歌华",北京财经BTV-5
+https://live.goodiptv.club/api/ghyx.php?id=BTVCaiJingHD_6000 
+#EXTINF:-1,tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="歌华",北京体育休闲BTV-6
 https://live.goodiptv.club/api/ghyx.php?id=BTVjishiHD_6000
-#EXTINF:-1,tvg-id="歌华生活" tvg-name="歌华生活" tvg-logo="https://epg.112114.xyz/logo/歌华生活.png" group-title="歌华",歌华生活BTV-7
-https://live.goodiptv.club/api/ghyx.php?id=BTVShengHuoHD_6000
- 
-#EXTINF:-1,tvg-id="歌华青年" tvg-name="歌华青年" tvg-logo="https://epg.112114.xyz/logo/歌华青年.png" group-title="歌华",歌华青年BTV-8
-https://live.goodiptv.club/api/ghyx.php?id=BTVQingNianHD_6000
- 
-#EXTINF:-1,tvg-id="歌华新闻" tvg-name="歌华新闻" tvg-logo="https://epg.112114.xyz/logo/歌华新闻.png" group-title="歌华",歌华新闻BTV-9
+#EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="歌华",北京生活BTV-7
+https://live.goodiptv.club/api/ghyx.php?id=BTVShengHuoHD_6000 
+#EXTINF:-1,tvg-id="北京青年" tvg-name="北京青年" tvg-logo="https://epg.112114.xyz/logo/北京青年.png" group-title="歌华",北京青年BTV-8
+https://live.goodiptv.club/api/ghyx.php?id=BTVQingNianHD_6000 
+#EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="歌华",北京新闻BTV-9
 https://live.goodiptv.club/api/ghyx.php?id=BTV9HD_6000
- 
-#EXTINF:-1,tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://epg.112114.xyz/logo/京视剧场.png" group-title="歌华",京视剧场 标清
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/北京卡酷BTV10.png" group-title="歌华",北京卡酷BTV-10 
+https://live.goodiptv.club/api/ghyx.php?id=BTV10HD_2000
+#EXTINF:-1,tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://epg.112114.xyz/logo/京视剧场.png" group-title="歌华",京视剧场 
 https://live.goodiptv.club/api/ghyx.php?id=JinShiJuChangHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/生态环境.png" group-title="歌华",生态环境 标清
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/生态环境.png" group-title="歌华",生态环境 
 https://live.goodiptv.club/api/ghyx.php?id=XinYuLeHD_2000
- 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="歌华",CETV3 标清
+#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="歌华",中国天气 
+https://live.goodiptv.club/api/ghyx.php?id=ChinaQiXiangPinDaoHD_2000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="歌华",乐游
+https://live.goodiptv.club/api/ghyx.php?id=QuanJiShiHD_6000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="歌华",CETV1
+https://live.goodiptv.club/api/ghyx.php?id=CETV1HD_6000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="歌华",CETV3 
 https://live.goodiptv.club/api/ghyx.php?id=CETV3HD_2000
- 
-#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="歌华",早期教育 标清
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="歌华",CETV4 
+https://live.goodiptv.club/api/ghyx.php?id=CETV4HD_2000
+#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="歌华",早期教育 
 https://live.goodiptv.club/api/ghyx.php?id=ZaoQiJiaoYuHD_2000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱家购物.png" group-title="歌华",爱家购物
 https://live.goodiptv.club/api/ghyx.php?id=AiJiaGouWuHD_6000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/时尚购物.png" group-title="歌华",时尚购物 标清
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/时尚购物.png" group-title="歌华",时尚购物 
 https://live.goodiptv.club/api/ghyx.php?id=ShiShangGouWuHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/优购物.png" group-title="歌华",优购物 标清
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/优购物.png" group-title="歌华",优购物 
 https://live.goodiptv.club/api/ghyx.php?id=YouGouWuHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/家有购物.png" group-title="歌华",家有购物 标清
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/家有购物.png" group-title="歌华",家有购物 
 https://live.goodiptv.club/api/ghyx.php?id=JiaYouGouWuHD_2000
- 
-#EXTINF:-1,tvg-id="置业" tvg-name="置业" tvg-logo="https://epg.112114.xyz/logo/置业.png" group-title="歌华",置业频道 标清
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="歌华",动漫秀场
+https://live.goodiptv.club/api/ghyx.php?id=DongManXiuChangHD_6000
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="歌华",游戏风云
+https://live.goodiptv.club/api/ghyx.php?id=YouXiFengYunHD_6000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/四海钓鱼.png" group-title="歌华",四海钓鱼 
+https://live.goodiptv.club/api/ghyx.php?id=SiHaiDiaoYuHD_2000
+#EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="歌华",法治天地 
+https://live.goodiptv.club/api/ghyx.php?id=FaZhiTianDiHD_2000
+#EXTINF:-1,tvg-id="置业" tvg-name="置业" tvg-logo="https://epg.112114.xyz/logo/置业.png" group-title="歌华",置业频道 
 https://live.goodiptv.club/api/ghyx.php?id=ZhiYePinDaoHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="歌华",中华美食 标清
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="歌华",中华美食 
 https://live.goodiptv.club/api/ghyx.php?id=ZhongHuaMeiShiHD_2000
-#EXTINF:-1,tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://epg.112114.xyz/logo/环球旅游.png" group-title="歌华",环球旅游 标清
+#EXTINF:-1,tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://epg.112114.xyz/logo/环球旅游.png" group-title="歌华",环球旅游 
 https://live.goodiptv.club/api/ghyx.php?id=HuanQiuLvYouHD_2000
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视购物 标清
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="歌华",中视购物 
 https://live.goodiptv.club/api/ghyx.php?id=ZhongShiGouWuHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/央广购物.png" group-title="歌华",央广购物 标清
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/央广购物.png" group-title="歌华",央广购物 
 https://live.goodiptv.club/api/ghyx.php?id=YangShiGouWuHD_2000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/聚鲨环球精选.png" group-title="歌华",聚鲨环球精选
 https://live.goodiptv.club/api/ghyx.php?id=GHSHD_6000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/动感音乐.png" group-title="歌华",动感音乐 标清
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/动感音乐.png" group-title="歌华",动感音乐 
 https://live.goodiptv.club/api/ghyx.php?id=DongGanYinYueHD_2000
-#EXTINF:-1,tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://epg.112114.xyz/logo/收藏天下.png" group-title="歌华",收藏天下 标清
+#EXTINF:-1,tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://epg.112114.xyz/logo/收藏天下.png" group-title="歌华",收藏天下 
 https://live.goodiptv.club/api/ghyx.php?id=ShouCangTianXiaHD_2000
- 
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="歌华",东方财经
+https://live.goodiptv.club/api/ghyx.php?id=DongFangCaiJingHD_6000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="歌华",中华特产 
+https://live.goodiptv.club/api/ghyx.php?id=KaoShiZaiXianHD_2000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/优优宝贝.png" group-title="歌华",优优宝贝 
+https://live.goodiptv.club/api/ghyx.php?id=YouYouBaoBeiHD_2000
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/弈坛春秋.png" group-title="歌华",弈坛春秋 
+https://live.goodiptv.club/api/ghyx.php?id=YiTanChunQiuHD_2000
+#EXTINF:-1,tvg-id="老故事" tvg-name="老故事" tvg-logo="https://epg.112114.xyz/logo/老故事.png" group-title="歌华",老故事 
+https://live.goodiptv.club/api/ghyx.php?id=LaoGuShiHD_2000
+#EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://epg.112114.xyz/logo/发现之旅.png" group-title="歌华",发现之旅 
+https://live.goodiptv.club/api/ghyx.php?id=FaXianZhiLvHD_2000
+#EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="歌华",财富天下 
+https://live.goodiptv.club/api/ghyx.php?id=CaiFuTianXiaHD_2000
+#EXTINF:-1,tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://epg.112114.xyz/logo/环球奇观.png" group-title="歌华",环球奇观 
+https://live.goodiptv.club/api/ghyx.php?id=HuanQiuQiGuanHD_2000
+#EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="歌华",天元围棋 
+https://live.goodiptv.club/api/ghyx.php?id=TianYuanWeiQiHD_2000
+#EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="歌华",书画频道 
+https://live.goodiptv.club/api/ghyx.php?id=ShuHuaPinDaoHD_2000
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="歌华",茶频道 
+https://live.goodiptv.club/api/ghyx.php?id=ChaPinDaoHD_2000
+#EXTINF:-1,tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="歌华",足球频道
+https://live.goodiptv.club/api/ghyx.php?id=ZuQiuHD_6000 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="歌华",中华特产 标清
 https://live.goodiptv.club/api/ghyx.php?id=KaoShiZaiXianHD_2000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/优优宝贝.png" group-title="歌华",优优宝贝 标清
@@ -419,6 +438,7 @@ https://live.goodiptv.club/api/ghyx.php?id=ShuHuaPinDaoHD_2000
 https://live.goodiptv.club/api/ghyx.php?id=ChaPinDaoHD_2000
 #EXTINF:-1,tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="歌华",足球频道
 https://live.goodiptv.club/api/ghyx.php?id=ZuQiuHD_6000
+
 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="港澳" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
 http://ott.mobaibox.com/TVOD/1/224/3221228524/index.m3u8
@@ -443,6 +463,7 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlay
 https://cntv.sbs/tv/lhws.php
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://live.fanmingming.com/tv/人间卫视.png" group-title="港澳",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+
 
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",CHC动作电影
 http://39.134.18.65/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226465/index.m3u8
@@ -667,9 +688,7 @@ https://live.goodiptv.club/api/cqyx.php?id=weiqi
 #EXTINF:-1,tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="数字",先锋乒羽
 https://live.goodiptv.club/api/sxg.php?id=xfpy_4000
 #EXTINF:-1,tvg-id="摄影" tvg-name="摄影" tvg-logo="https://live.fanmingming.com/tv/摄影.png" group-title="数字",摄影频道
-https://live.goodiptv.club/api/cqyx.php?id=sheying
-#EXTINF:-1,tvg-id="靓妆" tvg-name="靓妆" tvg-logo="https://live.fanmingming.com/tv/靓妆.png" group-title="江苏",靓妆
-https://live.goodiptv.club/api/cqyx.php?id=liang
+https://live.goodiptv.club/api/cqyx.php?id=sheying 
 #EXTINF:-1,tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="数字",汽摩
 https://live.goodiptv.club/api/cqyx.php?id=cqcarSD 
 #EXTINF:-1 group-title="数字" tvg-logo="https://live.fanmingming.com/tv/电竞天堂.png",电竞天堂
@@ -819,4 +838,3 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="国际",长城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
-
