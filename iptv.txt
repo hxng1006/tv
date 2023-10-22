@@ -320,26 +320,26 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/TVOD/3/224/3
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/TVOD/3/224/3221228165/index.m3u8?icpid=3&amp;RTS=1659435610&amp;from=40&amp;popid=40&amp;hms_devid=2039&amp;prioritypopid=40&amp;vqe=3
 CCTV8K,http://ott.mobaibox.com/TVOD/1/224/3221228165/index.m3u8
 
-CCTV1,https://cntv.sbs/tv?auth=231013&id=cctv1
-CCTV2,https://cntv.sbs/tv?auth=231013&id=cctv2
-CCTV3,https://cntv.sbs/tv?auth=231013&id=cctv3
-CCTV4,https://cntv.sbs/tv?auth=231013&id=cctv4
-CCTV5,https://cntv.sbs/tv?auth=231013&id=cctv5
-CCTV5+,https://cntv.sbs/tv?auth=231013&id=cctv5p
-CCTV6,https://cntv.sbs/tv?auth=231013&id=cctv6
-CCTV7,https://cntv.sbs/tv?auth=231013&id=cctv7
-CCTV8,https://cntv.sbs/tv?auth=231013&id=cctv8
-CCTV9,https://cntv.sbs/tv?auth=231013&id=cctv9
-CCTV10,https://cntv.sbs/tv?auth=231013&id=cctv10
-CCTV11,https://cntv.sbs/tv?auth=231013&id=cctv11
-CCTV12,https://cntv.sbs/tv?auth=231013&id=cctv12
-CCTV13,https://cntv.sbs/tv?auth=231013&id=cctv13
-CCTV14,https://cntv.sbs/tv?auth=231013&id=cctv14
-CCTV15,https://cntv.sbs/tv?auth=231013&id=cctv15
-CCTV16,https://cntv.sbs/tv?auth=231013&id=cctv16
-CCTV17,https://cntv.sbs/tv?auth=231013&id=cctv17
-CCTV4K,https://cntv.sbs/tv?auth=231013&id=cctv4k
-CCTV16,https://cntv.sbs/tv?auth=231013&id=cctv164k
+CCTV1,https://cntv.sbs/tv?auth=2310201855&id=cctv1
+CCTV2,https://cntv.sbs/tv?auth=2310201855&id=cctv2
+CCTV3,https://cntv.sbs/tv?auth=2310201855&id=cctv3
+CCTV4,https://cntv.sbs/tv?auth=2310201855&id=cctv4
+CCTV5,https://cntv.sbs/tv?auth=2310201855&id=cctv5
+CCTV5+,https://cntv.sbs/tv?auth=2310201855&id=cctv5p
+CCTV6,https://cntv.sbs/tv?auth=2310201855&id=cctv6
+CCTV7,https://cntv.sbs/tv?auth=2310201855&id=cctv7
+CCTV8,https://cntv.sbs/tv?auth=2310201855&id=cctv8
+CCTV9,https://cntv.sbs/tv?auth=2310201855&id=cctv9
+CCTV10,https://cntv.sbs/tv?auth=2310201855&id=cctv10
+CCTV11,https://cntv.sbs/tv?auth=2310201855&id=cctv11
+CCTV12,https://cntv.sbs/tv?auth=2310201855&id=cctv12
+CCTV13,https://cntv.sbs/tv?auth=2310201855&id=cctv13
+CCTV14,https://cntv.sbs/tv?auth=2310201855&id=cctv14
+CCTV15,https://cntv.sbs/tv?auth=2310201855&id=cctv15
+CCTV16,https://cntv.sbs/tv?auth=2310201855&id=cctv16
+CCTV17,https://cntv.sbs/tv?auth=2310201855&id=cctv17
+CCTV4K,https://cntv.sbs/tv?auth=2310201855&id=cctv4k
+CCTV16,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
@@ -364,9 +364,9 @@ CETV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u
 CETV2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
 CETV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 
-CETV1,https://cntv.sbs/tv?auth=231013&id=cetv1
-CETV2,https://cntv.sbs/tv?auth=231013&id=cetv2
-CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
+CETV1,https://cntv.sbs/tv?auth=2310201855&id=cetv1
+CETV2,https://cntv.sbs/tv?auth=2310201855&id=cetv2
+CETV4,https://cntv.sbs/tv?auth=2310201855&id=cetv4
 
 CETV1,http://ott.mobaibox.com/TVOD/1/224/3221225909/index.m3u8
 CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
@@ -383,10 +383,10 @@ CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 CETV4,https://sgx.xxray.cc/IPTV/xsxg.php?id=CETV-4H264_2000
 
-CETV1,https://cntv.sbs/tv?auth=231013&id=cetv1
-CETV2,https://cntv.sbs/tv?auth=231013&id=cetv2
+CETV1,https://cntv.sbs/tv?auth=2310201855&id=cetv1
+CETV2,https://cntv.sbs/tv?auth=2310201855&id=cetv2
 CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
-CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
+CETV4,https://cntv.sbs/tv?auth=2310201855&id=cetv4
 
  
 
@@ -616,43 +616,43 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 广西卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
 海南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8
 
-北京卫视,https://cntv.sbs/tv?auth=231013&id=bjws
-东方卫视,https://cntv.sbs/tv?auth=231013&id=dfws
-天津卫视,https://cntv.sbs/tv?auth=231013&id=tjws
-重庆卫视,https://cntv.sbs/tv?auth=231013&id=cqws
-黑龙江卫视,https://cntv.sbs/tv?auth=231013&id=hljws
-吉林卫视,https://cntv.sbs/tv?auth=231013&id=jlws
-辽宁卫视,https://cntv.sbs/tv?auth=231013&id=lnws
-内蒙古卫视,https://cntv.sbs/tv?auth=231013&id=nmws
-宁夏卫视,https://cntv.sbs/tv?auth=231013&id=nxws
-甘肃卫视,https://cntv.sbs/tv?auth=231013&id=gsws
-青海卫视,https://cntv.sbs/tv?auth=231013&id=qhws
-陕西卫视,https://cntv.sbs/tv?auth=231013&id=sxws
-河北卫视,https://cntv.sbs/tv?auth=231013&id=hbws
-山西卫视,https://cntv.sbs/tv?auth=231013&id=sxiws
-山东卫视,https://cntv.sbs/tv?auth=231013&id=sdws
-安徽卫视,https://cntv.sbs/tv?auth=231013&id=ahws
-河南卫视,https://cntv.sbs/tv?auth=231013&id=hnws
-湖北卫视,https://cntv.sbs/tv?auth=231013&id=hubws
-湖南卫视,https://cntv.sbs/tv?auth=231013&id=hunws
-江西卫视,https://cntv.sbs/tv?auth=231013&id=jxws
-江苏卫视,https://cntv.sbs/tv?auth=231013&id=jsws
-浙江卫视,https://cntv.sbs/tv?auth=231013&id=zjws
-东南卫视,https://cntv.sbs/tv?auth=231013&id=dnws
-厦门卫视,https://cntv.sbs/tv?auth=231013&id=xmws
-广东卫视,https://cntv.sbs/tv?auth=231013&id=gdws
-深圳卫视,https://cntv.sbs/tv?auth=231013&id=szws
-广西卫视,https://cntv.sbs/tv?auth=231013&id=gxws
-云南卫视,https://cntv.sbs/tv?auth=231013&id=ynws
-贵州卫视,https://cntv.sbs/tv?auth=231013&id=gzws
-四川卫视,https://cntv.sbs/tv?auth=231013&id=scws
-康巴卫视,https://cntv.sbs/tv?auth=231013&id=kbws
-新疆卫视,https://cntv.sbs/tv?auth=231013&id=xjws
-兵团卫视,https://cntv.sbs/tv?auth=231013&id=btws
-西藏卫视,https://cntv.sbs/tv?auth=231013&id=xzws
-海南卫视,https://cntv.sbs/tv?auth=231013&id=hinws
-三沙卫视,https://cntv.sbs/tv?auth=231013&id=ssws
-海峡卫视,https://cntv.sbs/tv?auth=231013&id=hxws
+北京卫视,https://cntv.sbs/tv?auth=2310201855&id=bjws
+东方卫视,https://cntv.sbs/tv?auth=2310201855&id=dfws
+天津卫视,https://cntv.sbs/tv?auth=2310201855&id=tjws
+重庆卫视,https://cntv.sbs/tv?auth=2310201855&id=cqws
+黑龙江卫视,https://cntv.sbs/tv?auth=2310201855&id=hljws
+吉林卫视,https://cntv.sbs/tv?auth=2310201855&id=jlws
+辽宁卫视,https://cntv.sbs/tv?auth=2310201855&id=lnws
+内蒙古卫视,https://cntv.sbs/tv?auth=2310201855&id=nmws
+宁夏卫视,https://cntv.sbs/tv?auth=2310201855&id=nxws
+甘肃卫视,https://cntv.sbs/tv?auth=2310201855&id=gsws
+青海卫视,https://cntv.sbs/tv?auth=2310201855&id=qhws
+陕西卫视,https://cntv.sbs/tv?auth=2310201855&id=sxws
+河北卫视,https://cntv.sbs/tv?auth=2310201855&id=hbws
+山西卫视,https://cntv.sbs/tv?auth=2310201855&id=sxiws
+山东卫视,https://cntv.sbs/tv?auth=2310201855&id=sdws
+安徽卫视,https://cntv.sbs/tv?auth=2310201855&id=ahws
+河南卫视,https://cntv.sbs/tv?auth=2310201855&id=hnws
+湖北卫视,https://cntv.sbs/tv?auth=2310201855&id=hubws
+湖南卫视,https://cntv.sbs/tv?auth=2310201855&id=hunws
+江西卫视,https://cntv.sbs/tv?auth=2310201855&id=jxws
+江苏卫视,https://cntv.sbs/tv?auth=2310201855&id=jsws
+浙江卫视,https://cntv.sbs/tv?auth=2310201855&id=zjws
+东南卫视,https://cntv.sbs/tv?auth=2310201855&id=dnws
+厦门卫视,https://cntv.sbs/tv?auth=2310201855&id=xmws
+广东卫视,https://cntv.sbs/tv?auth=2310201855&id=gdws
+深圳卫视,https://cntv.sbs/tv?auth=2310201855&id=szws
+广西卫视,https://cntv.sbs/tv?auth=2310201855&id=gxws
+云南卫视,https://cntv.sbs/tv?auth=2310201855&id=ynws
+贵州卫视,https://cntv.sbs/tv?auth=2310201855&id=gzws
+四川卫视,https://cntv.sbs/tv?auth=2310201855&id=scws
+康巴卫视,https://cntv.sbs/tv?auth=2310201855&id=kbws
+新疆卫视,https://cntv.sbs/tv?auth=2310201855&id=xjws
+兵团卫视,https://cntv.sbs/tv?auth=2310201855&id=btws
+西藏卫视,https://cntv.sbs/tv?auth=2310201855&id=xzws
+海南卫视,https://cntv.sbs/tv?auth=2310201855&id=hinws
+三沙卫视,https://cntv.sbs/tv?auth=2310201855&id=ssws
+海峡卫视,https://cntv.sbs/tv?auth=2310201855&id=hxws
 
 北京卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
@@ -826,50 +826,50 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 游戏风云,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
 纪实科教,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001231/index.m3u8
 
-上海新闻综合,https://cntv.sbs/tv?auth=231013&id=shxwzh
-上海都市,https://cntv.sbs/tv?auth=231013&id=shds
-生活时尚,https://cntv.sbs/tv?auth=231013&id=shss
-法治天地,https://cntv.sbs/tv?auth=231013&id=fztd
-欢笑剧场,https://cntv.sbs/tv?auth=231013&id=hxjc
-都市剧场,https://cntv.sbs/tv?auth=231013&id=dsjc
-纪实人文,https://cntv.sbs/tv?auth=231013&id=shjsrw
-纪实科教,https://cntv.sbs/tv?auth=231013&id=bjjskj
-五星体育,https://cntv.sbs/tv?auth=231013&id=wxty 
-劲爆体育,https://cntv.sbs/tv?auth=231013&id=jbty
-新视觉,https://cntv.sbs/tv?auth=231013&id=xsj
-魅力足球,https://cntv.sbs/tv?auth=231013&id=mlzq
-七彩戏剧,https://cntv.sbs/tv?auth=231013&id=qcxj
-戏曲精选,https://cntv.sbs/tv?auth=231013&id=xqjx
+上海新闻综合,https://cntv.sbs/tv?auth=2310201855&id=shxwzh
+上海都市,https://cntv.sbs/tv?auth=2310201855&id=shds
+生活时尚,https://cntv.sbs/tv?auth=2310201855&id=shss
+法治天地,https://cntv.sbs/tv?auth=2310201855&id=fztd
+欢笑剧场,https://cntv.sbs/tv?auth=2310201855&id=hxjc
+都市剧场,https://cntv.sbs/tv?auth=2310201855&id=dsjc
+纪实人文,https://cntv.sbs/tv?auth=2310201855&id=shjsrw
+纪实科教,https://cntv.sbs/tv?auth=2310201855&id=bjjskj
+五星体育,https://cntv.sbs/tv?auth=2310201855&id=wxty 
+劲爆体育,https://cntv.sbs/tv?auth=2310201855&id=jbty
+新视觉,https://cntv.sbs/tv?auth=2310201855&id=xsj
+魅力足球,https://cntv.sbs/tv?auth=2310201855&id=mlzq
+七彩戏剧,https://cntv.sbs/tv?auth=2310201855&id=qcxj
+戏曲精选,https://cntv.sbs/tv?auth=2310201855&id=xqjx
 梨园频道,https://pi.0472.org/tv/hn.php?id=154
-上海教育,https://cntv.sbs/tv?auth=231013&id=shjy
-中国天气,https://cntv.sbs/tv?auth=231013&id=zgtq
-东方财经,https://cntv.sbs/tv?auth=231013&id=dfcj
-第一财经,https://cntv.sbs/tv?auth=231013&id=dycj
-哈哈炫动,https://cntv.sbs/tv?auth=231013&id=hhxd
-上海外语,https://cntv.sbs/tv?auth=231013&id=shics
-动漫秀场,https://cntv.sbs/tv?auth=231013&id=dmxc
-游戏风云,https://cntv.sbs/tv?auth=231013&id=yxfy
-金色学堂,https://cntv.sbs/tv?auth=231013&id=jspd
-乐游,https://cntv.sbs/tv?auth=231013&id=qjs
-茶频道,https://cntv.sbs/tv?auth=231013&id=cpd
-快乐垂钓,https://cntv.sbs/tv?auth=231013&id=klcd
-金鹰纪实,https://cntv.sbs/tv?auth=231013&id=jyjs
-金鹰卡通,https://cntv.sbs/tv?auth=231013&id=jykt
-嘉佳卡通,https://cntv.sbs/tv?auth=231013&id=jjkt
-财富天下,https://cntv.sbs/tv?auth=231013&id=cftx
-看天下精选,https://cntv.sbs/tv?auth=231013&id=ktxjx
-华语影院,https://cntv.sbs/tv?auth=231013&id=hyyy
-电竞天堂,https://cntv.sbs/tv?auth=231013&id=djtt
-青春动漫,https://cntv.sbs/tv?auth=231013&id=qcdm
-星光影院,https://cntv.sbs/tv?auth=231013&id=xgyy
-谍战剧场,https://cntv.sbs/tv?auth=231013&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=231013&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=231013&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=231013&id=rmzy
-健康养生,https://cntv.sbs/tv?auth=231013&id=jkys
-百变课堂,https://cntv.sbs/tv?auth=231013&id=bbkt
-宝宝动画,https://cntv.sbs/tv?auth=231013&id=bbdh
-浦东电视台,https://cntv.sbs/tv?auth=231013&id=pdtv
+上海教育,https://cntv.sbs/tv?auth=2310201855&id=shjy
+中国天气,https://cntv.sbs/tv?auth=2310201855&id=zgtq
+东方财经,https://cntv.sbs/tv?auth=2310201855&id=dfcj
+第一财经,https://cntv.sbs/tv?auth=2310201855&id=dycj
+哈哈炫动,https://cntv.sbs/tv?auth=2310201855&id=hhxd
+上海外语,https://cntv.sbs/tv?auth=2310201855&id=shics
+动漫秀场,https://cntv.sbs/tv?auth=2310201855&id=dmxc
+游戏风云,https://cntv.sbs/tv?auth=2310201855&id=yxfy
+金色学堂,https://cntv.sbs/tv?auth=2310201855&id=jspd
+乐游,https://cntv.sbs/tv?auth=2310201855&id=qjs
+茶频道,https://cntv.sbs/tv?auth=2310201855&id=cpd
+快乐垂钓,https://cntv.sbs/tv?auth=2310201855&id=klcd
+金鹰纪实,https://cntv.sbs/tv?auth=2310201855&id=jyjs
+金鹰卡通,https://cntv.sbs/tv?auth=2310201855&id=jykt
+嘉佳卡通,https://cntv.sbs/tv?auth=2310201855&id=jjkt
+财富天下,https://cntv.sbs/tv?auth=2310201855&id=cftx
+看天下精选,https://cntv.sbs/tv?auth=2310201855&id=ktxjx
+华语影院,https://cntv.sbs/tv?auth=2310201855&id=hyyy
+电竞天堂,https://cntv.sbs/tv?auth=2310201855&id=djtt
+青春动漫,https://cntv.sbs/tv?auth=2310201855&id=qcdm
+星光影院,https://cntv.sbs/tv?auth=2310201855&id=xgyy
+谍战剧场,https://cntv.sbs/tv?auth=2310201855&id=dzjc
+全球大片,https://cntv.sbs/tv?auth=2310201855&id=qqdp
+热门剧场,https://cntv.sbs/tv?auth=2310201855&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=2310201855&id=rmzy
+健康养生,https://cntv.sbs/tv?auth=2310201855&id=jkys
+百变课堂,https://cntv.sbs/tv?auth=2310201855&id=bbkt
+宝宝动画,https://cntv.sbs/tv?auth=2310201855&id=bbdh
+浦东电视台,https://cntv.sbs/tv?auth=2310201855&id=pdtv
 
 上海新闻综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 上海新闻综合,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001014/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
@@ -890,13 +890,11 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 生活时尚,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001199/index.m3u8?IASHttpSessionId=RR8275420230310002030000839 
 生活时尚,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001199/index.m3u8? 
 生活时尚,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw2056154679_-1106666296/ott.mobaibox.com/TVOD/3/224/3221227707/index.m3u8?icpid=3&RTS=1674386466&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-生活时尚,https://cntv.sbs/live?auth=230612&id=shss 
 生活时尚,https://sgx.xxray.cc/IPTV/xsxg.php?id=shssH265_4000
 
 法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
 法治天地,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001195/index.m3u8? 
-法治天地,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001195/1.m3u8
-法治天地,https://cntv.sbs/live?auth=230612&id=fztd 
+法治天地,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001195/1.m3u8 
 法治天地,https://sgx.xxray.cc/IPTV/xsxg.php?id=fztx_4000
 
 纪实人文,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
@@ -905,16 +903,13 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 纪实人文,http://dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226230/1.m3u8
 
 金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8 
-金鹰纪实,http://dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226351/1.m3u8
-金鹰纪实,https://cntv.sbs/live?auth=230612&id=jyjs 
+金鹰纪实,http://dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226351/1.m3u8 
 金鹰纪实,https://sgx.xxray.cc/IPTV/xsxg.php?id=jyjsHDH265_4000
 
 金色学堂,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
 金色学堂,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001194/1.m3u8
 金色学堂,http://222.65.21.143:4022/udp/239.45.0.9:5140
-金色学堂,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8
-金色学堂,https://cntv.sbs/live?auth=230612&id=jspd
- 
+金色学堂,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8 
 
 东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8?
@@ -929,12 +924,10 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 都市剧场,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1933516814_1869702559/ott.mobaibox.com/TVOD/3/224/3221227710/index.m3u8?icpid=3&RTS=1674386343&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 都市剧场,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
 都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8 
-都市剧场,https://cntv.sbs/live?auth=230612&id=dsjc
 都市剧场,https://sgx.xxray.cc/IPTV/xsxg.php?id=yxfydsjcHDH265_4000
 
  
-欢笑剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-欢笑剧场,https://cntv.sbs/live?auth=230612&id=hxjc
+欢笑剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8 
 欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场,http://dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226582/1.m3u8 
  
@@ -952,21 +945,16 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 第一财经,http://58.34.204.67:9901/tsfile/live/1018_1.m3u8 
 第一财经,http://dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226966/1.m3u8
 第一财经,http://www.happyspace.party:4022/udp/239.45.3.211:5140
-第一财经,https://cntv.sbs/live?auth=230612&id=dycj
  
-
 东方财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
 东方财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8?
 东方财经,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001318/index.m3u8?IASHttpSessionId=RR8275420230310002030000839 
 东方财经,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001318/index.m3u8? 
-东方财经,https://cntv.sbs/live?auth=230612&id=dfcj
  
-
 上海教育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
 上海教育,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001268/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 上海教育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001053/index.m3u8?
-上海教育,http://222.65.21.143:4022/udp/239.45.0.13:5140
-上海教育,https://cntv.sbs/live?auth=230612&id=shjy 
+上海教育,http://222.65.21.143:4022/udp/239.45.0.13:5140 
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 
 上海外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
@@ -974,12 +962,11 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 上海外语,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
 上海外语,http://222.65.21.143:4022/udp/239.45.1.127:5140
 上海外语,http://58.34.204.67:9901/tsfile/live/1019_1.m3u8
-
-新视觉,https://cntv.sbs/tv?auth=231013&id=xsj
+ 
 新视觉,http://zb.688768.xyz/bst/bst.php?playurl=http://140.207.241.3:8080/keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,https://sgx.xxray.cc/IPTV/xsxg.php?id=ycxsjH265_4000
 
-劲爆体育,https://cntv.sbs/tv?auth=231013&id=jbty
+劲爆体育,https://cntv.sbs/tv?auth=2310201855&id=jbty
 劲爆体育, http://zb.688768.xyz/bst/bst.php?playurl=http://140.207.241.3:8080/keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 劲爆体育,https://sgx.xxray.cc/IPTV/xsxg.php?id=lqhxjcHDH265_4000
 
@@ -987,13 +974,11 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8? 
 五星体育,http://222.65.21.143:4022/udp/239.45.3.210:5140
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
-五星体育,http://www.happyspace.party:4022/udp/239.45.3.210:5140
-五星体育,https://cntv.sbs/live?auth=230612&id=wxty 
+五星体育,http://www.happyspace.party:4022/udp/239.45.3.210:5140 
 
 快乐垂钓,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8 
 快乐垂钓,http://dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226805/1.m3u8
-快乐垂钓,http://lu1.cc/itv/php/cqyx.php?id=klcd
-快乐垂钓,https://cntv.sbs/live?auth=230612&id=klcd 
+快乐垂钓,http://lu1.cc/itv/php/cqyx.php?id=klcd  
 快乐垂钓,https://sgx.xxray.cc/IPTV/xsxg.php?id=fyzqklcdHDH265_4000
 
 乐游,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
@@ -1003,12 +988,10 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 乐游,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 乐游,http://ainm.cc/a/play/php/gehua.php?id=ly2
 乐游,http://dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226580/1.m3u8
-乐游,http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8
-乐游,https://cntv.sbs/live?auth=230612&id=qjs
+乐游,http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226580/index.m3u8 
 乐游,https://sgx.xxray.cc/IPTV/xsxg.php?id=qjs-HDH265_4000
 
-魅力足球,http://lu1.cc/itv/php/cqyx.php?id=mlzq
-魅力足球,https://cntv.sbs/live?auth=230612&id=mlzq
+魅力足球,http://lu1.cc/itv/php/cqyx.php?id=mlzq 
 魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 魅力足球,https://sgx.xxray.cc/IPTV/xsxg.php?id=mlyy_4000
  
@@ -1017,8 +1000,7 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 游戏风云,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
 游戏风云,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1933215962_-1472477943/ott.mobaibox.com/TVOD/3/224/3221227713/index.m3u8?icpid=3&RTS=1674386343&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3 
 游戏风云,http://dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226579/1.m3u8
-游戏风云,https://cntv.sbs/live?auth=230612&id=yxfy 
-
+ 
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8
 
 哒啵赛事,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw561250760_-677742974/ott.mobaibox.com/TVOD/3/224/3221225539/index.m3u8?icpid=3&RTS=1674380676&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
@@ -1026,13 +1008,11 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 
 茶频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 茶频道,http://dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226808/1.m3u8 
-茶频道,https://cntv.sbs/live?auth=230612&id=cpd 
 茶频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/1.m3u8 
 
 谍战剧场,http://cfss.cc/ds/bst.php?id=Cf-71
 
-华语影院,http://cfss.cc/ds/bst.php?id=Cf-66
-华语影院,https://cntv.sbs/live?auth=230612&id=hyyy 
+华语影院,http://cfss.cc/ds/bst.php?id=Cf-66 
 
 明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/TVOD/3/224/3221227594/index.m3u8
 
@@ -1046,9 +1026,7 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 梨园频道,https://sgx.xxray.cc/IPTV/xsxg.php?id=ly_4000 
 
 七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8 
-七彩戏剧,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001308/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
-七彩戏剧,https://cntv.sbs/tv?auth=231013&id=qcxj
-七彩戏剧,https://cntv.sbs/live?auth=230612&id=qcxj 
+七彩戏剧,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001308/index.m3u8?IASHttpSessionId=RR8275420230310002030000839 
 七彩戏剧,https://sgx.xxray.cc/IPTV/xsxg.php?id=qcxj_2000
 
 热门综艺,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
@@ -1068,18 +1046,7 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 
 证劵服务,https://sgx.xxray.cc/IPTV/xsxg.php?id=jz_2000
 
-中国天气,https://sgx.xxray.cc/IPTV/xsxg.php?id=zgqx_4000
-
-中国天气,https://cntv.sbs/tv?auth=231013&id=zgtq
-华语影院,https://cntv.sbs/tv?auth=231013&id=hyyy
-电竞天堂,https://cntv.sbs/tv?auth=231013&id=djtt
-青春动漫,https://cntv.sbs/tv?auth=231013&id=qcdm
-星光影院,https://cntv.sbs/tv?auth=231013&id=xgyy
-谍战剧场,https://cntv.sbs/tv?auth=231013&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=231013&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=231013&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=231013&id=rmzy
- 
+中国天气,https://sgx.xxray.cc/IPTV/xsxg.php?id=zgqx_4000 
 
 歌华,#genre#
 歌华导视,https://live.goodiptv.club/api/ghyx.php?id=GeHuadaoshiHD_6000
@@ -1186,10 +1153,10 @@ CETV4,https://live.goodiptv.club/api/ghyx.php?id=CETV4HD_2000
 
 金砖电视,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
-翡翠台,https://pi.0472.org/tv/fct.php?auth=231013
-明珠台,https://pi.0472.org/tv/mzt.php?auth=231013
-澳视澳门,https://pi.0472.org/tv/asam.php?auth=231013
-澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=231013
+翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
+明珠台,https://pi.0472.org/tv/mzt.php?auth=2310201855
+澳视澳门,https://pi.0472.org/tv/asam.php?auth=2310201855
+澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=2310201855
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 莲花卫视,https://cntv.sbs/tv/lhws.php
@@ -1430,21 +1397,21 @@ CCTV5,http://ott.mobaibox.com/TVOD/1/224/3221228502/index.m3u8
 CCTV5+,http://ott.mobaibox.com/TVOD/1/224/3221228076/index.m3u8
 CCTV16,http://ott.mobaibox.com/TVOD/1/224/3221228314/index.m3u8
 
-劲爆体育,https://cntv.sbs/tv?auth=231013&id=jbty
+劲爆体育,https://cntv.sbs/tv?auth=2310201855&id=jbty
 劲爆体育,http://live.aptvapp.com/ghyx.php?id=JinBaoTiYuHD_6000
 劲爆体育,http://live.aptvapp.com/sxg.php?id=lqhxjcHDH265_4000
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
 劲爆体育,https://tv.fanmingming.com/api/v6.php?id=lqhxjcHDH265
 
-五星体育,https://cntv.sbs/tv?auth=231013&id=wxty
+五星体育,https://cntv.sbs/tv?auth=2310201855&id=wxty
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001018/1.m3u8
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 
-新视觉,https://cntv.sbs/tv?auth=231013&id=xsj
+新视觉,https://cntv.sbs/tv?auth=2310201855&id=xsj
 新视觉,https://tv.fanmingming.com/api/v6.php?id=ycxsjH265
 
-魅力足球,https://cntv.sbs/tv?auth=231013&id=mlzq 
+魅力足球,https://cntv.sbs/tv?auth=2310201855&id=mlzq 
 魅力足球,https://tv.fanmingming.com/api/v6.php?id=mlyy
 
 江苏体育休闲,http://ott.mobaibox.com/TVOD/1/224/3221225935/index.m3u8
@@ -1466,13 +1433,13 @@ CCTV16,http://ott.mobaibox.com/TVOD/1/224/3221228314/index.m3u8
 
 
 咪咕体育,#genre#
-百视通体育1,https://cntv.sbs/tv?auth=231013&id=sport1
-百视通体育2,https://cntv.sbs/tv?auth=231013&id=sport2
-百视通体育3,https://cntv.sbs/tv?auth=231013&id=sport3
-百视通体育4,https://cntv.sbs/tv?auth=231013&id=sport4
-百视通体育5,https://cntv.sbs/tv?auth=231013&id=sport5
-百视通体育6,https://cntv.sbs/tv?auth=231013&id=sport6
-百视通体育7,https://cntv.sbs/tv?auth=231013&id=sport7
+百视通体育1,https://cntv.sbs/tv?auth=2310201855&id=sport1
+百视通体育2,https://cntv.sbs/tv?auth=2310201855&id=sport2
+百视通体育3,https://cntv.sbs/tv?auth=2310201855&id=sport3
+百视通体育4,https://cntv.sbs/tv?auth=2310201855&id=sport4
+百视通体育5,https://cntv.sbs/tv?auth=2310201855&id=sport5
+百视通体育6,https://cntv.sbs/tv?auth=2310201855&id=sport6
+百视通体育7,https://cntv.sbs/tv?auth=2310201855&id=sport7
 
 咪咕直播-1,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 咪咕直播-2,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
@@ -2146,3 +2113,4 @@ Blue胖你看得到我的腿吗,https://epg.112114.xyz/huya/11601963
 放心购,http://111.40.196.27:443/0000000000001000/1000000006000269003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000269003
 聚鲨环球精选,http://111.40.196.27:443/0000000000001000/1000000005000003651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000003651
 风尚购物,http://111.40.196.27:443/0000000000001000/1000000005000018408/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000018408
+ 
