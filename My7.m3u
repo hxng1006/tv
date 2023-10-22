@@ -181,7 +181,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/o
 #EXTINF:-1 group-title="地方",南京少儿
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/TVOD/4/224/3221227733/index.m3u8
 #EXTINF:-1 group-title="地方",南京信息
-http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8?zjiangsd
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="地方",福建综合
 https://cntv.sbs/tv?auth=2310201855&id=fjzh
