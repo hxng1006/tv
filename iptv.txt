@@ -772,6 +772,13 @@ CETV4,https://cntv.sbs/tv?auth=2310201855&id=cetv4
 南京少儿,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/TVOD/4/224/3221227733/index.m3u8
 南京信息,http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8?zjiangsd
 
+北京新闻,https://cntv.sbs/tv/gh.php?id=bjxw 
+北京文艺,https://cntv.sbs/tv/gh.php?id=bjwy 
+北京影视,https://cntv.sbs/tv/gh.php?id=bjys 
+北京体育休闲,https://cntv.sbs/tv/gh.php?id=bjtyxx 
+北京财经,https://cntv.sbs/tv/gh.php?id=bjcj2 
+北京生活,https://cntv.sbs/tv/gh.php?id=bjsh2
+
 福建综合,https://cntv.sbs/tv?auth=2310201855&id=fjzh
 福建新闻,https://cntv.sbs/tv?auth=2310201855&id=fjxw
 福建电视剧,https://cntv.sbs/tv?auth=2310201855&id=fjdsj
@@ -798,6 +805,10 @@ CETV4,https://cntv.sbs/tv?auth=2310201855&id=cetv4
 茶友频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 快乐垂钓,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 嘉佳卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
+云南影视,http://mqiptv.com:8014/ch/custom20/mqlive.m3u8 
+云南娱乐,http://mqiptv.com:8014/ch/custom22/mqlive.m3u8 
+云南都市,http://mqiptv.com:8014/ch/custom25/mqlive.m3u8 
+云南康旅,http://mqiptv.com:8014/ch/custom23/mqlive.m3u8
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 内蒙古少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
