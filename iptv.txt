@@ -730,70 +730,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 财富天下,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
 纯享超清,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 中国天气,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
-
-CCTV-1 综合,https://cntv.lat/tv/zb.php?auth=231122&id=cctv1
-CCTV-2 财经,https://cntv.lat/tv/zb.php?auth=231122&id=cctv2
-CCTV-3 综艺,https://cntv.lat/tv/zb.php?auth=231122&id=cctv3
-CCTV-4 中文国际,https://cntv.lat/tv/zb.php?auth=231122&id=cctv4
-CCTV-5 体育,https://cntv.lat/tv/zb.php?auth=231122&id=cctv5
-CCTV-5+ 体育赛事,https://cntv.lat/tv/zb.php?auth=231122&id=cctv5p
-CCTV-6 电影,https://cntv.lat/tv/zb.php?auth=231122&id=cctv6
-CCTV-7 国防军事,https://cntv.lat/tv/zb.php?auth=231122&id=cctv7
-CCTV-8 电视剧,https://cntv.lat/tv/zb.php?auth=231122&id=cctv8
-CCTV-9 纪录,https://cntv.lat/tv/zb.php?auth=231122&id=cctv9
-CCTV-10 科教,https://cntv.lat/tv/zb.php?auth=231122&id=cctv10
-CCTV-11 戏曲,https://cntv.lat/tv/zb.php?auth=231122&id=cctv11
-CCTV-12 社会与法,https://cntv.lat/tv/zb.php?auth=231122&id=cctv12
-CCTV-13 新闻,https://cntv.lat/tv/zb.php?auth=231122&id=CCTV13
-CCTV-14 少儿,https://cntv.lat/tv/zb.php?auth=231122&id=cctv14
-CCTV-15 音乐,https://cntv.lat/tv/zb.php?auth=231122&id=cctv15
-CCTV-16 奥林匹克,https://cntv.lat/tv/zb.php?auth=231122&id=cctv16
-CCTV-17 农业农村,https://cntv.lat/tv/zb.php?auth=231122&id=cctv17
-CGTN,https://cntv.lat/tv/zb.php?auth=231122&id=cgtn
-北京卫视,https://cntv.lat/tv/zb.php?auth=231122&id=bjws
-东方卫视,https://cntv.lat/tv/zb.php?auth=231122&id=dfws
-浙江卫视,https://cntv.lat/tv/zb.php?auth=231122&id=zjws
-江苏卫视,https://cntv.lat/tv/zb.php?auth=231122&id=jsws
-湖南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hnws
-深圳卫视,https://cntv.lat/tv/zb.php?auth=231122&id=szws
-天津卫视,https://cntv.lat/tv/zb.php?auth=231122&id=tjws
-广东卫视,https://cntv.lat/tv/zb.php?auth=231122&id=gdws
-黑龙江卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hljws
-安徽卫视,https://cntv.lat/tv/zb.php?auth=231122&id=ahws
-辽宁卫视,https://cntv.lat/tv/zb.php?auth=231122&id=lnws
-四川卫视,https://cntv.lat/tv/zb.php?auth=231122&id=scws
-重庆卫视,https://cntv.lat/tv/zb.php?auth=231122&id=cqws
-贵州卫视,https://cntv.lat/tv/zb.php?auth=231122&id=gzws
-江西卫视,https://cntv.lat/tv/zb.php?auth=231122&id=jxws
-东南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=dnws
-湖北卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hbws
-河南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=henws
-山东卫视,https://cntv.lat/tv/zb.php?auth=231122&id=sdws
-海南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hainws
-广西卫视,https://cntv.lat/tv/zb.php?auth=231122&id=gxws
-吉林卫视,https://cntv.lat/tv/zb.php?auth=231122&id=jlws
-陕西卫视,https://cntv.lat/tv/zb.php?auth=231122&id=shxws
-内蒙古卫视,https://cntv.lat/tv/zb.php?auth=231122&id=nmws
-西藏卫视,https://cntv.lat/tv/zb.php?auth=231122&id=xzws
-河北卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hebws
-青海卫视,https://cntv.lat/tv/zb.php?auth=231122&id=qhws
-宁夏卫视,https://cntv.lat/tv/zb.php?auth=231122&id=nxws
-云南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=ynws
-山西卫视,https://cntv.lat/tv/zb.php?auth=231122&id=sxws
-甘肃卫视,https://cntv.lat/tv/zb.php?auth=231122&id=gsws
-新疆卫视,https://cntv.lat/tv/zb.php?auth=231122&id=xjws
-兵团卫视,https://cntv.lat/tv/zb.php?auth=231122&id=btws
-CETV-1,https://cntv.lat/tv/zb.php?auth=231122&id=cetv1
-CETV-4,https://cntv.lat/tv/zb.php?auth=231122&id=cetv4
-山东教育卫视,https://cntv.lat/tv/zb.php?auth=231122&id=sdjy
-北京纪实科教,https://cntv.lat/tv/zb.php?auth=231122&id=bjjskj
-卡酷少儿,https://cntv.lat/tv/zb.php?auth=231122&id=bjkkse
-纪实人文,https://cntv.lat/tv/zb.php?auth=231122&id=shjsrw
-金鹰卡通,https://cntv.lat/tv/zb.php?auth=231122&id=jykt
-金鹰纪实,https://cntv.lat/tv/zb.php?auth=231122&id=jyjs
-家庭理财,https://cntv.lat/tv/zb.php?auth=231122&id=jtlc
-中国天气,https://cntv.lat/tv/zb.php?auth=231122&id=zgqx
-嘉佳卡通,https://cntv.lat/tv/zb.php?auth=231122&id=jjkt
+ 
 浙江公共新闻,https://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -942,24 +879,17 @@ VB,https://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 东方影视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8? 
 东方影视,http://111.40.196.28/wh7f454c46tw1127318098_1235980081/PLTV/88888888/224/3221225615/index.m3u8
  
-
- 
 都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8?
 都市剧场,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 都市剧场,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1933516814_1869702559/ott.mobaibox.com/TVOD/3/224/3221227710/index.m3u8?icpid=3&RTS=1674386343&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 都市剧场,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
 都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8 
-都市剧场,https://sgx.xxray.cc/IPTV/xsxg.php?id=yxfydsjcHDH265_4000
-
- 
+都市剧场,https://sgx.xxray.cc/IPTV/xsxg.php?id=yxfydsjcHDH265_4000 
   
 欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-欢笑剧场,http://dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226582/1.m3u8 
- 
-
+欢笑剧场,http://dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226582/1.m3u8
   
 动漫秀场,https://sgx.xxray.cc/IPTV/xsxg.php?id=yybb-dmxc-H265_4000
-
  
 第一财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8?
 第一财经,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001017/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
@@ -1072,8 +1002,7 @@ VB,https://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 中国天气,https://sgx.xxray.cc/IPTV/xsxg.php?id=zgqx_4000
 
  
-数字,#genre# 
-
+数字,#genre#
 CHC高清电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
