@@ -141,327 +141,109 @@ http://ott.mobaibox.com/TVOD/1/224/3221228524/index.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
 http://ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
-http://ott.mobaibox.com/TVOD/1/224/3221228530/index.m3u8
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
-https://pi.0472.org/tv/fct.php?auth=231122
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台",明珠台
-https://pi.0472.org/tv/mzt.php?auth=231122
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳台",澳视澳门
-https://pi.0472.org/tv/asam.php?auth=231122
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳台",星空卫视
-https://pi.0472.org/tv/startv.php?auth=231122
-#EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png" group-title="港澳台",澳亚卫视
-https://pi.0472.org/tv/aoya.php?auth=231122
-#EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="港澳台",耀才财经
-https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳台",莲花卫视
-https://cntv.lat/tv/lhws.php
-
-#EXTINF:-1 group-title="港澳台",TVB星河
-http://113.117.74.12:8081/hls/135/index.m3u8
-#EXTINF:-1 group-title="港澳台",面包台
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 group-title="港澳台",RTHK32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-#EXTINF:-1 group-title="港澳台",RTHK32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 group-title="港澳台",澳亚卫视
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 group-title="港澳台",新加坡中文台
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-#EXTINF:-1 group-title="港澳台",新加坡国际
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS新闻台
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS亚洲
-http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS亚洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS亚洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",东森新闻美洲台
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视新闻台",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视新闻台",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻
-http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",中视新闻
-http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视台湾台",民视台湾台
-http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视台湾台",民视台湾台
-http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视台湾台",民视台湾台
-http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视台湾台",民视台湾台
-http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-#EXTINF:-1 group-title="港澳台",靖天国际台
-http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/八大戏剧台",八大戏剧台
-http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/八大戏剧台",八大戏剧台
-http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/八大综合台",八大综合台
-http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-#EXTINF:-1 group-title="港澳台",东森戏剧
-http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东森超视",东森超视
-http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-#EXTINF:-1 group-title="港澳台",TVBS欢乐台
-http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-#EXTINF:-1 group-title="港澳台",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1 group-title="港澳台",耀才财经
-https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",番薯
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1 group-title="港澳台",番薯
-http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1 group-title="港澳台",大立电视
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="港澳台",华语电视
-http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",长城精品
-http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",Music TV
-http://198.16.100.90:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869&ct=19225&tsum=25aeb843227531bfab3d9fde062323b2
-#EXTINF:-1 group-title="港澳台",HBO
-http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-#EXTINF:-1 group-title="港澳台",CINEMAX
-http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
-#EXTINF:-1 group-title="港澳台",TLC旅游生活
-http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
-#EXTINF:-1 group-title="港澳台",好消息综合台
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-#EXTINF:-1 group-title="港澳台",时尚台FTV
-http://80.94.54.42/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",国家地理野生
-http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
-#EXTINF:-1 group-title="港澳台",探索频道
-http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-#EXTINF:-1 group-title="港澳台",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",FOX新闻
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png",BBC World News
-http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-#EXTINF:-1 group-title="港澳台",BBC1
-http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
-#EXTINF:-1 group-title="港澳台",BBC2
-http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png",Bloomberg
-http://50.7.238.114:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png",CBS News
-http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/CNA.png",CNA
-http://50.7.238.114:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/CNBCHONGKONG.png",CNBC
-http://50.7.238.114:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/EYETV旅遊.png",EYETV旅遊
-http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/EYETV戲劇.png",EYETV戲劇
-http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
-#EXTINF:-1 group-title="港澳台",GOODTVCH02真理台
-http://198.16.100.90:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/RHK32.png",RHK32
-http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
-#EXTINF:-1 group-title="港澳台",RTHK32
-http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/TVBS.png",TVBS歡樂台
-http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/TVBS.png",TVBS新聞
-http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/阿里郎ARIRANG.png",阿里郎 Arirang
-http://50.7.238.114:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/八大第一台.png",八大第一台
-http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/八大綜合.png",八大綜合
-http://50.7.238.114:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
-#EXTINF:-1 group-title="港澳台",八大綜合
-http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
-#EXTINF:-1 group-title="港澳台",博斯高球1
-http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/博斯高球2台.png",博斯高球2
-http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/博斯魅力网.png",博斯魅力
-http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/博斯網球.png",博斯網球
-http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-#EXTINF:-1 group-title="港澳台",博斯網球
-http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-#EXTINF:-1 group-title="港澳台",博斯網球
-http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-#EXTINF:-1 group-title="港澳台",博斯運動2
-http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/大愛電視.png",大愛電視
-http://50.7.238.114:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
-#EXTINF:-1 group-title="港澳台",東森電影
-http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/東森洋片.png",東森洋片
-http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/東森洋片.png",東森洋片
-http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/动物星球.png",动物星球
-http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-#EXTINF:-1 group-title="港澳台",動物星球
-http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-#EXTINF:-1 group-title="港澳台",星河台
-http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
-#EXTINF:-1 group-title="港澳台",翡翠台
-http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-#EXTINF:-1 group-title="港澳台",公視
-http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/國家地理野生.png",國家地理野生
-http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-#EXTINF:-1 group-title="港澳台",國家地理野生
-http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-#EXTINF:-1 group-title="港澳台",靖天國際台
-http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
-#EXTINF:-1 group-title="港澳台",靖天卡通
-http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/民視臺灣.png",民視臺灣
-http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-#EXTINF:-1 group-title="港澳台",三立戏剧台
-http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
-#EXTINF:-1 group-title="港澳台",台視
-http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png",探索頻道
-http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-#EXTINF:-1 group-title="港澳台",探索亞洲
-http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-#EXTINF:-1 group-title="港澳台",探索亞洲
-http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
-#EXTINF:-1 group-title="港澳台",衛視中文台
-http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbe8cfeb43cc7
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png",中天娛樂
-http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-#EXTINF:-1 group-title="港澳台",中天娛樂
-http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
-#EXTINF:-1 group-title="港澳台",中天綜合
-http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
-#EXTINF:-1 group-title="港澳台",耀才财经
-https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+http://ott.mobaibox.com/TVOD/1/224/3221228530/index.m3u8 
+ 
 #EXTINF:-1 group-title="港澳台",AXN 台灣
 http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-#EXTINF:-1 group-title="港澳台",BBC Earth
-http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
-#EXTINF:-1 group-title="港澳台",BBC1
-http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
-#EXTINF:-1 group-title="港澳台",BBC2
-http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
-#EXTINF:-1 group-title="港澳台",Bloomberg
-http://50.7.238.114:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
-#EXTINF:-1 group-title="港澳台",CBS News
-http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-#EXTINF:-1 group-title="港澳台",CNA
-http://50.7.238.114:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
-#EXTINF:-1 group-title="港澳台",CNBC
-http://50.7.238.114:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
-#EXTINF:-1 group-title="港澳台",ELEVEN 體育1台
-http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+#EXTINF:-1 group-title="港澳台",CINEMAX
+http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 #EXTINF:-1 group-title="港澳台",EYETV旅遊
 http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
 #EXTINF:-1 group-title="港澳台",EYETV戲劇
 http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
-#EXTINF:-1 group-title="港澳台",GOODTVCH02真理台
-http://198.16.100.90:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
-#EXTINF:-1 group-title="港澳台",MusicTV
+#EXTINF:-1 group-title="港澳台",EYETV戲劇
+http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
+#EXTINF:-1 group-title="港澳台",HBO
+http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+#EXTINF:-1 group-title="港澳台",Music TV
 http://198.16.100.90:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869&ct=19225&tsum=25aeb843227531bfab3d9fde062323b2
-#EXTINF:-1 group-title="港澳台",RHK32
-http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
-#EXTINF:-1 group-title="港澳台",RTHK32
-http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 #EXTINF:-1 group-title="港澳台",TLC旅遊生活
 http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 #EXTINF:-1 group-title="港澳台",TV8
 http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-#EXTINF:-1 group-title="港澳台",TVBS歡樂台
+#EXTINF:-1 group-title="港澳台",TVBS欢乐台
+http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+#EXTINF:-1 group-title="港澳台",TVBS欢乐台
 http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+#EXTINF:-1 group-title="港澳台",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台",阿里郎 Arirang
 http://50.7.238.114:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
 #EXTINF:-1 group-title="港澳台",八大第一台
 http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-#EXTINF:-1 group-title="港澳台",八大戲劇
+#EXTINF:-1 group-title="港澳台",八大戏剧
 http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-#EXTINF:-1 group-title="港澳台",八大戲劇
+#EXTINF:-1 group-title="港澳台",八大戏剧
 http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
+#EXTINF:-1 group-title="港澳台",八大综合
+http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 #EXTINF:-1 group-title="港澳台",八大綜合
 http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
-#EXTINF:-1 group-title="港澳台",博斯高球1
-http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
-#EXTINF:-1 group-title="港澳台",博斯高球2
-http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
-#EXTINF:-1 group-title="港澳台",博斯魅力
-http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
-#EXTINF:-1 group-title="港澳台",博斯網球
-http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-#EXTINF:-1 group-title="港澳台",博斯網球
-http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-#EXTINF:-1 group-title="港澳台",博斯網球
-http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-#EXTINF:-1 group-title="港澳台",博斯運動2
-http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+#EXTINF:-1 group-title="港澳台",东森超视
+http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+#EXTINF:-1 group-title="港澳台",东森戏剧
+http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 #EXTINF:-1 group-title="港澳台",東森電影
 http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 #EXTINF:-1 group-title="港澳台",東森洋片
 http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+#EXTINF:-1 group-title="港澳台",東森洋片
+http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 #EXTINF:-1 group-title="港澳台",动物星球
 http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+#EXTINF:-1 group-title="港澳台",动物星球
+http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 #EXTINF:-1 group-title="港澳台",公視
 http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
-#EXTINF:-1 group-title="港澳台",靖天國際台
+#EXTINF:-1 group-title="港澳台",國家地理野生
+http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+#EXTINF:-1 group-title="港澳台",國家地理野生
+http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+#EXTINF:-1 group-title="港澳台",靖天国际
+http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+#EXTINF:-1 group-title="港澳台",靖天国际
+http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+#EXTINF:-1 group-title="港澳台",靖天国际
 http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
 #EXTINF:-1 group-title="港澳台",靖天卡通
 http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-#EXTINF:-1 group-title="港澳台",民視臺灣
+#EXTINF:-1 group-title="港澳台",民视台湾
+http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
+#EXTINF:-1 group-title="港澳台",民視台湾
 http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-#EXTINF:-1 group-title="港澳台",探索頻道
-http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+#EXTINF:-1 group-title="港澳台",三立戏剧台
+http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
+#EXTINF:-1 group-title="港澳台",时尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",台視
+http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 #EXTINF:-1 group-title="港澳台",探索頻道
 http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+#EXTINF:-1 group-title="港澳台",探索頻道
+http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 #EXTINF:-1 group-title="港澳台",探索亞洲
 http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 #EXTINF:-1 group-title="港澳台",探索亞洲
 http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
 #EXTINF:-1 group-title="港澳台",緯來日本
 http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+#EXTINF:-1 group-title="港澳台",未知电影之旅
+http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230435/1.m3u8
+#EXTINF:-1 group-title="港澳台",衛視中文台
+http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbe8cfeb43cc7
+#EXTINF:-1 group-title="港澳台",享受文学声音
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231174/1.m3u8
+#EXTINF:-1 group-title="港澳台",星河台
+http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
 #EXTINF:-1 group-title="港澳台",中視經典
 http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+#EXTINF:-1 group-title="港澳台",中天娛樂
+http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 #EXTINF:-1 group-title="港澳台",中天娛樂
 http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 #EXTINF:-1 group-title="港澳台",中天綜合
 http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
-#EXTINF:-1 group-title="港澳台",未知电影之旅
-http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230435/1.m3u8
-#EXTINF:-1 group-title="港澳台",欢快集体舞蹈
-http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221231236/1.m3u8
-#EXTINF:-1 group-title="港澳台",享受文学声音
-http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231174/1.m3u8
-#EXTINF:-1 group-title="港澳台",LOL 全球总决赛「S13」
-https://tv.iill.top//bilibili/10
-#EXTINF:-1 group-title="港澳台",Deluxe Lounge HD「自然」
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips&checkedby:iptvcat.com
-#EXTINF:-1 group-title="港澳台",Red Bull TV「体育」
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8 
+ 
 
 
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/苏州新闻综合.png",苏州新闻综合
@@ -1025,4 +807,3 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000032106/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://gitee.com/mamicheal/playlist/raw/master/MG/mgty.png" group-title="咪咕",咪咕直播-2-4K
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-
