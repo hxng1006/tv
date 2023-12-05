@@ -1525,10 +1525,24 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 中天娛樂,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
  
-中天綜合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca 
+中天綜合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 
 
- 
+MTV,#genre#
+LIVE STREAM,http://61.221.215.25:8800/hls/49/index.m3u8
+radio m2o,https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
+CMC,https://cmc-ono.amagi.tv/playlist.m3u8
+M2TV,https://live.m2.tv/hls3/stream.m3u8
+LOVETV,https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+Frist Music,http://rtmp.one.by:1200
+Ru Frist Music,http://rtmp.one.by:2200
+Company,https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+NORBA,https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+joomusic,https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+Canale51,http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+
+
+
 咪咕 体育,#genre#
 BesTV-1,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001148/index.m3u8?
 BesTV-2,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001149/index.m3u8?
