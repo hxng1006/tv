@@ -375,6 +375,10 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="百视通",五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="百视通",新视觉
+http://alltzy.cn/dl/bestv.php?id=xsjhd8m/8000000
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png" group-title="百视通",劲爆体育
+http://alltzy.cn/dl/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://epg.112114.xyz/logo/上视外语.png" group-title="百视通",上视外语
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 #EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="百视通",七彩戏剧
