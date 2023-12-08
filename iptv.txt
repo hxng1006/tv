@@ -1054,7 +1054,7 @@ CCTV-17,http://121.60.151.9/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3
 新视觉,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8 
 新视觉,http://42.81.252.22/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 新视觉,http://49.235.110.121:9090/daili/小果.php?id=ycxsjH265_4000&Cf.m3u8
-新视觉HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=xinshijueHD_7000&/PLTV/hls.smil.m3u8
+新视觉,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=xinshijueHD_7000&/PLTV/hls.smil.m3u8
 新视觉,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=xsjhd8m/8000000
 新视觉,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
 
@@ -1540,19 +1540,98 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中天綜合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 
 
-MTV,#genre#
-LIVE STREAM,http://61.221.215.25:8800/hls/49/index.m3u8
-radio m2o,https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
-CMC,https://cmc-ono.amagi.tv/playlist.m3u8
-M2TV,https://live.m2.tv/hls3/stream.m3u8
-LOVETV,https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
-Frist Music,http://rtmp.one.by:1200
-Ru Frist Music,http://rtmp.one.by:2200
-Company,https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-NORBA,https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
-joomusic,https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-Canale51,http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
-
+bestv,#genre#
+CCTV16-4K,http://alltzy.cn/dl/bestv.php?id=cctv16hd8m4k/15000000
+CCTV-4K,http://alltzy.cn/dl/bestv.php?id=cctv4k/15000000
+欢笑剧场4k,http://alltzy.cn/dl/bestv.php?id=hxjc4k/15000000 
+CCTV1,http://alltzy.cn/dl/bestv.php?id=cctv1hd8m/8000000       
+CCTV2,http://alltzy.cn/dl/bestv.php?id=cctv2hd8m/8000000
+CCTV3,http://alltzy.cn/dl/bestv.php?id=cctv3/8000000
+CCTV4,http://alltzy.cn/dl/bestv.php?id=cctv4hd8m/8000000
+CCTV5,http://alltzy.cn/dl/bestv.php?id=cctv5/8000000
+CCTV5+,http://alltzy.cn/dl/bestv.php?id=cctv5phd8m/8000000
+CCTV6,http://alltzy.cn/dl/bestv.php?id=cctv6hd8m/8000000
+CCTV7,http://alltzy.cn/dl/bestv.php?id=cctv7hd8m/8000000
+CCTV8,http://alltzy.cn/dl/bestv.php?id=cctv8hd8m/8000000
+CCTV9,http://alltzy.cn/dl/bestv.php?id=cctv9hd8m/8000000
+CCTV10,http://alltzy.cn/dl/bestv.php?id=cctv10hd8m/8000000
+CCTV11,http://alltzy.cn/dl/bestv.php?id=cctv11hd8m/8000000
+CCTV12,http://alltzy.cn/dl/bestv.php?id=cctv12hd8m/8000000
+CCTV13,http://alltzy.cn/dl/bestv.php?id=cctv13xwhd8m/8000000
+CCTV14,http://alltzy.cn/dl/bestv.php?id=cctvsehd8m/8000000
+CCTV15,http://alltzy.cn/dl/bestv.php?id=cctv15hd8m/8000000
+CCTV16,http://alltzy.cn/dl/bestv.php?id=cctv16hd8m/8000000
+CCTV17,http://alltzy.cn/dl/bestv.php?id=cctv17hd8m/8000000
+江苏卫视,http://alltzy.cn/dl/bestv.php?id=jswshd8m/8000000
+广西卫视,http://alltzy.cn/dl/bestv.php?id=gxwshd8m/8000000
+四川卫视,http://alltzy.cn/dl/bestv.php?id=scwshd8m/8000000
+湖南卫视,http://alltzy.cn/dl/bestv.php?id=hunanwshd8m/8000000
+浙江卫视,http://alltzy.cn/dl/bestv.php?id=zjwshd8m/8000000
+东方卫视,http://alltzy.cn/dl/bestv.php?id=dfwshd8m/8000000
+北京卫视,http://alltzy.cn/dl/bestv.php?id=bjwshd8m/8000000
+天津卫视,http://alltzy.cn/dl/bestv.php?id=tjwshd8m/8000000
+辽宁卫视,http://alltzy.cn/dl/bestv.php?id=lnwshd8m/8000000
+安徽卫视,http://alltzy.cn/dl/bestv.php?id=ahwshd8m/8000000
+黑龙江卫视,http://alltzy.cn/dl/bestv.php?id=hljwshd8m/8000000
+广东卫视,http://alltzy.cn/dl/bestv.php?id=gdwshd8m/8000000
+深圳卫视,http://alltzy.cn/dl/bestv.php?id=szwshd8m/8000000
+湖北卫视,http://alltzy.cn/dl/bestv.php?id=hubeiws/8000000
+吉林卫视,http://alltzy.cn/dl/bestv.php?id=jlwshd8m/8000000
+山东卫视,http://alltzy.cn/dl/bestv.php?id=sdws/8000000
+江西卫视,http://alltzy.cn/dl/bestv.php?id=jxws/8000000
+河南卫视,http://alltzy.cn/dl/bestv.php?id=hnwshd8m/8000000
+河北卫视,http://alltzy.cn/dl/bestv.php?id=hbwshd8m/8000000
+甘肃卫视,http://alltzy.cn/dl/bestv.php?id=gswshd8m/8000000
+重庆卫视,http://alltzy.cn/dl/bestv.php?id=cqws/8000000
+东南卫视,http://alltzy.cn/dl/bestv.php?id=dnwshd8m/8000000
+云南卫视,http://alltzy.cn/dl/bestv.php?id=ynwshd8m/8000000
+贵州卫视,http://alltzy.cn/dl/bestv.php?id=gzwshd8m/8000000
+海南卫视,http://alltzy.cn/dl/bestv.php?id=hainanwshd8m/8000000
+欢笑剧场,http://alltzy.cn/dl/bestv.php?id=hxjc/8000000
+劲爆体育,http://alltzy.cn/dl/bestv.php?id=jbtyhd8m/8000000
+快乐垂钓,http://alltzy.cn/dl/bestv.php?id=klcd/8000000
+金鹰纪实,http://alltzy.cn/dl/bestv.php?id=jyjs/8000000
+戏曲精选,http://alltzy.cn/dl/bestv.php?id=xqjx/8000000
+上海第一财经,http://alltzy.cn/dl/bestv.php?id=dycjhd8m/8000000
+上视新闻,http://alltzy.cn/dl/bestv.php?id=xwzhhd8m/8000000
+上海都市,http://alltzy.cn/dl/bestv.php?id=dshd8m/8000000
+上海纪实,http://alltzy.cn/dl/bestv.php?id=jspdhd8m/4000000
+东方影视,http://alltzy.cn/dl/bestv.php?id=dfyshd8m/8000000
+五星体育,http://alltzy.cn/dl/bestv.php?id=wxtyhd8m/8000000
+上视外语,http://alltzy.cn/dl/bestv.php?id=icshd8m/8000000
+七彩戏剧,http://alltzy.cn/dl/bestv.php?id=qcxjhd8m/8000000
+上海教育,http://alltzy.cn/dl/bestv.php?id=setvhd8m/8000000
+全纪实,http://alltzy.cn/dl/bestv.php?id=qjshd8m/8000000
+生活时尚,http://alltzy.cn/dl/bestv.php?id=shss/8000000
+新视觉,http://alltzy.cn/dl/bestv.php?id=xsjhd8m/8000000
+游戏风云,http://alltzy.cn/dl/bestv.php?id=yxfy/8000000
+热门综艺,http://alltzy.cn/dl/bestv.php?id=rmzy/8000000
+超级体育,http://alltzy.cn/dl/bestv.php?id=qcsj/8000000
+健康养生,http://alltzy.cn/dl/bestv.php?id=jkys/8000000
+百变课堂,http://alltzy.cn/dl/bestv.php?id=bbkt/8000000
+看天下精选,http://alltzy.cn/dl/bestv.php?id=ktxjx/8000000
+华语影院,http://alltzy.cn/dl/bestv.php?id=hyyy/8000000
+电竞天堂,http://alltzy.cn/dl/bestv.php?id=djtt/8000000
+青春动漫,http://alltzy.cn/dl/bestv.php?id=qcdm/8000000
+宝宝动画,http://alltzy.cn/dl/bestv.php?id=bbdh/8000000
+星光影院,http://alltzy.cn/dl/bestv.php?id=xgyy/8000000
+谍战剧场,http://alltzy.cn/dl/bestv.php?id=dzjc/8000000
+全球大片,http://alltzy.cn/dl/bestv.php?id=qqdp/8000000
+热门剧场,http://alltzy.cn/dl/bestv.php?id=rmjc/8000000
+陶瓷高清,http://alltzy.cn/dl/bestv.php?id=taocihd8m/8000000
+中国教育-1,http://alltzy.cn/dl/bestv.php?id=zgjy1t/8000000
+中国教育-4,http://alltzy.cn/dl/bestv.php?id=zgjy4hd8m/8000000
+卡酷少儿,http://alltzy.cn/dl/bestv.php?id=kkse/8000000
+纪实科教,http://alltzy.cn/dl/bestv.php?id=dajs/8000000
+茶频道,http://alltzy.cn/dl/bestv.php?id=cpdhd8mavs/8000000
+足球高清,http://alltzy.cn/dl/bestv.php?id=zqpd/8000000
+炫动卡通,http://alltzy.cn/dl/bestv.php?id=hhxd/8000000
+东方财经,http://alltzy.cn/dl/bestv.php?id=dfcjhd8m/8000000
+都市剧场,http://alltzy.cn/dl/bestv.php?id=dsjc/8000000
+动漫秀场,http://alltzy.cn/dl/bestv.php?id=dmxc/8000000
+法治天地,http://alltzy.cn/dl/bestv.php?id=fztd/8000000
+金色学堂,http://alltzy.cn/dl/bestv.php?id=jingsepd/8000000
+魅力足球,http://alltzy.cn/dl/bestv.php?id=mlyyhd8m/8000000
 
 
 咪咕 体育,#genre#
