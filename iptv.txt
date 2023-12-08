@@ -1043,6 +1043,7 @@ CCTV-17,http://121.60.151.9/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3
 上海外语,http://222.65.21.143:4022/udp/239.45.1.127:5140
 上海外语,http://58.34.204.67:9901/tsfile/live/1019_1.m3u8
 
+新视觉,http://alltzy.cn/dl/bestv.php?id=xsjhd8m/8000000
 新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
 新视觉,http://zb.688768.xyz/bst/bst.php?playurl=http://140.207.241.3:8080/keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,https://sgx.xxray.cc/IPTV/xsxg.php?id=ycxsjH265_4000
