@@ -1045,15 +1045,13 @@ CCTV-17,http://121.60.151.9/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3
 
 新视觉,http://alltzy.cn/dl/bestv.php?id=xsjhd8m/8000000
 新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
+新视觉,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43082/index.m3u8
 新视觉,http://zb.688768.xyz/bst/bst.php?playurl=http://140.207.241.3:8080/keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,https://sgx.xxray.cc/IPTV/xsxg.php?id=ycxsjH265_4000
-新视觉,http://171.110.42.48:8181/tsfile/live/1064_1.m3u8
-新视觉,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43082/index.m3u8
+新视觉,http://171.110.42.48:8181/tsfile/live/1064_1.m3u8 
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8 
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-新视觉,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-新视觉,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43082/index.m3u8
-新视觉,http://223.109.210.41:8088/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
+新视觉,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8 
 新视觉,http://42.81.252.22/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 新视觉,http://49.235.110.121:9090/daili/小果.php?id=ycxsjH265_4000&Cf.m3u8
 新视觉HD,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=xinshijueHD_7000&/PLTV/hls.smil.m3u8
