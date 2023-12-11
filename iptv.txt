@@ -995,16 +995,13 @@ CHC家庭影院,http://192.168.2.131:45267/mg.php?id=chcjtyy
 
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8 
  
-
-江苏综艺,http://lu1.cc/c/tv/jstv/jstv.php?id=jszy 
-江苏城市,http://lu1.cc/c/tv/jstv/jstv.php?id=jscs 
-江苏教育,http://lu1.cc/c/tv/jstv/jstv.php?id=jsjy 
-江苏公共,http://lu1.cc/c/tv/jstv/jstv.php?id=jsgg 
-江苏体育休闲,http://lu1.cc/c/tv/jstv/jstv.php?id=jsty 
-江苏国际,http://lu1.cc/c/tv/jstv/jstv.php?id=jsgj
-江苏国际,http://lu1.cc/itv/php/migu.php?id=jsgj
-江苏影视,http://lu1.cc/c/tv/jstv/jstv.php?id=jsys 
-优漫卡通,http://lu1.cc/c/tv/jstv/jstv.php?id=ymkt
+江苏城市,http://117.83.104.205:7777/rtp/239.49.8.107:8000
+江苏综艺,http://117.83.104.205:7777/rtp/239.49.8.108:8000
+江苏体育休闲,http://117.83.104.205:7777/rtp/239.49.8.117:8000
+江苏影视,http://117.83.104.205:7777/rtp/239.49.8.118:8000
+优漫卡通,http://117.83.104.205:7777/rtp/239.49.8.119:8000
+江苏公共,http://117.83.104.205:7777/rtp/239.49.8.120:8000
+江苏教育,http://117.83.104.205:7777/rtp/239.49.8.122:8000
 
 江苏教育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1391469469_704234273/ott.mobaibox.com/PLTV/88888890/224/3221225923/index.m3u8?icpid=88888890&RTS=1687953603&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 江苏公共,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1421596867_-1892329265/ott.mobaibox.com/PLTV/88888890/224/3221225925/index.m3u8?icpid=88888890&RTS=1687953633&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
@@ -1022,7 +1019,17 @@ CHC家庭影院,http://192.168.2.131:45267/mg.php?id=chcjtyy
 
 江苏体育休闲,http://ott.mobaibox.com/TVOD/1/224/3221225935/index.m3u8
 江苏影视 ,http://ott.mobaibox.com/TVOD/1/224/3221225937/index.m3u8
-江苏综艺 ,http://ott.mobaibox.com/TVOD/1/224/3221225931/index.m3u8 
+江苏综艺 ,http://ott.mobaibox.com/TVOD/1/224/3221225931/index.m3u8
+
+江苏综艺,http://lu1.cc/c/tv/jstv/jstv.php?id=jszy 
+江苏城市,http://lu1.cc/c/tv/jstv/jstv.php?id=jscs 
+江苏教育,http://lu1.cc/c/tv/jstv/jstv.php?id=jsjy 
+江苏公共,http://lu1.cc/c/tv/jstv/jstv.php?id=jsgg 
+江苏体育休闲,http://lu1.cc/c/tv/jstv/jstv.php?id=jsty 
+江苏国际,http://lu1.cc/c/tv/jstv/jstv.php?id=jsgj
+江苏国际,http://lu1.cc/itv/php/migu.php?id=jsgj
+江苏影视,http://lu1.cc/c/tv/jstv/jstv.php?id=jsys 
+优漫卡通,http://lu1.cc/c/tv/jstv/jstv.php?id=ymkt
 
 南京新闻,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/TVOD/3/224/3221227213/index.m3u8
 南京教科,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3484211223_471033633/ott.mobaibox.com/TVOD/4/224/3221227194/index.m3u8
