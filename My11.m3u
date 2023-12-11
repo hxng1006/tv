@@ -293,19 +293,19 @@ https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png",江苏城市 
-http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/TVOD/3/224/3221225929/index.m3u8?icpid=3&RTS=1669269073&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+http://117.83.104.205:7777/rtp/239.49.8.107:8000
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png",江苏综艺
-http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw105610815_-1378935043/ott.mobaibox.com/TVOD/3/224/3221225931/index.m3u8?icpid=3&RTS=1669269209&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+http://117.83.104.205:7777/rtp/239.49.8.108:8000
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png",江苏影视
-http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw25164341_-1061241932/ott.mobaibox.com/TVOD/3/224/3221225937/index.m3u8?icpid=3&RTS=1669269129&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+http://117.83.104.205:7777/rtp/239.49.8.118:8000
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏公共.png",江苏公共 
-http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw4180964299_994803683/ott.mobaibox.com/TVOD/3/224/3221225925/index.m3u8?icpid=3&RTS=1669268990&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+http://117.83.104.205:7777/rtp/239.49.8.120:8000
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏体育.png",江苏体育休闲
-http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/TVOD/3/224/3221225935/index.m3u8?icpid=3&RTS=1669268931&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+http://117.83.104.205:7777/rtp/239.49.8.117:8000
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏教育.png",江苏教育
-http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw329009742_-1392321549/ott.mobaibox.com/TVOD/3/224/3221225923/index.m3u8?icpid=3&RTS=1669269433&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+http://117.83.104.205:7777/rtp/239.49.8.122:8000
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png",优漫卡通 
-http://ott.mobaibox.com/TVOD/1/224/3221225933/index.m3u8
+http://117.83.104.205:7777/rtp/239.49.8.119:8000
  
 
 #EXTINF:-1 group-title="地方",南京新闻
