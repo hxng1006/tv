@@ -139,51 +139,51 @@ http://ott.mobaibox.com/TVOD/1/224/3221227554/index.m3u8
 http://192.168.2.131:45267/1905.php?id=1905a
 #EXTINF:-1 group-title="PHP",1905国内电影
 http://192.168.2.131:45267/1905.php?id=1905b
-#EXTINF:-1 group-title="PHP",CCTV-6
+#EXTINF:-1 group-title="PHP",CCTV6
 http://192.168.2.131:45267/1905.php?id=cctv6
-#EXTINF:-1 group-title="PHP",CCTV-1
+#EXTINF:-1 group-title="PHP",CCTV1
 http://192.168.2.131:45267/mg.php?id=cctv1
-#EXTINF:-1 group-title="PHP",CCTV-1
+#EXTINF:-1 group-title="PHP",CCTV1
 http://192.168.2.131:45267/mg.php?id=cctv1b
-#EXTINF:-1 group-title="PHP",CCTV-2
+#EXTINF:-1 group-title="PHP",CCTV2
 http://192.168.2.131:45267/mg.php?id=cctv2
-#EXTINF:-1 group-title="PHP",CCTV-3
+#EXTINF:-1 group-title="PHP",CCTV3
 http://192.168.2.131:45267/mg.php?id=cctv3
-#EXTINF:-1 group-title="PHP",CCTV-4
+#EXTINF:-1 group-title="PHP",CCTV4
 http://192.168.2.131:45267/mg.php?id=cctv4
-#EXTINF:-1 group-title="PHP",CCTV-4欧洲
+#EXTINF:-1 group-title="PHP",CCTV4欧洲
 http://192.168.2.131:45267/mg.php?id=cctv4o
-#EXTINF:-1 group-title="PHP",CCTV-4美洲
+#EXTINF:-1 group-title="PHP",CCTV4美洲
 http://192.168.2.131:45267/mg.php?id=cctv4a
-#EXTINF:-1 group-title="PHP",CCTV-5
+#EXTINF:-1 group-title="PHP",CCTV5
 http://192.168.2.131:45267/mg.php?id=cctv5
-#EXTINF:-1 group-title="PHP",CCTV-5
+#EXTINF:-1 group-title="PHP",CCTV5
 http://192.168.2.131:45267/mg.php?id=cctv5b
-#EXTINF:-1 group-title="PHP",CCTV-5+
+#EXTINF:-1 group-title="PHP",CCTV5+
 http://192.168.2.131:45267/mg.php?id=cctv5p
-#EXTINF:-1 group-title="PHP",CCTV-5+
+#EXTINF:-1 group-title="PHP",CCTV5+
 http://192.168.2.131:45267/mg.php?id=cctv5p2
-#EXTINF:-1 group-title="PHP",CCTV-6
+#EXTINF:-1 group-title="PHP",CCTV6
 http://192.168.2.131:45267/mg.php?id=cctv6
-#EXTINF:-1 group-title="PHP",CCTV-7
+#EXTINF:-1 group-title="PHP",CCTV7
 http://192.168.2.131:45267/mg.php?id=cctv7
-#EXTINF:-1 group-title="PHP",CCTV-8
+#EXTINF:-1 group-title="PHP",CCTV8
 http://192.168.2.131:45267/mg.php?id=cctv8
-#EXTINF:-1 group-title="PHP",CCTV-9
+#EXTINF:-1 group-title="PHP",CCTV9
 http://192.168.2.131:45267/mg.php?id=cctv9
-#EXTINF:-1 group-title="PHP",CCTV-10
+#EXTINF:-1 group-title="PHP",CCTV10
 http://192.168.2.131:45267/mg.php?id=cctv10
-#EXTINF:-1 group-title="PHP",CCTV-11
+#EXTINF:-1 group-title="PHP",CCTV11
 http://192.168.2.131:45267/mg.php?id=cctv11
-#EXTINF:-1 group-title="PHP",CCTV-12
+#EXTINF:-1 group-title="PHP",CCTV12
 http://192.168.2.131:45267/mg.php?id=cctv12
-#EXTINF:-1 group-title="PHP",CCTV-13
+#EXTINF:-1 group-title="PHP",CCTV13
 http://192.168.2.131:45267/mg.php?id=cctv13
-#EXTINF:-1 group-title="PHP",CCTV-14
+#EXTINF:-1 group-title="PHP",CCTV14
 http://192.168.2.131:45267/mg.php?id=cctv14
-#EXTINF:-1 group-title="PHP",CCTV-15
+#EXTINF:-1 group-title="PHP",CCTV15
 http://192.168.2.131:45267/mg.php?id=cctv15
-#EXTINF:-1 group-title="PHP",CCTV-17
+#EXTINF:-1 group-title="PHP",CCTV17
 http://192.168.2.131:45267/mg.php?id=cctv17
 #EXTINF:-1 group-title="PHP",CHC家庭影院
 http://192.168.2.131:45267/mg.php?id=chcjtyy
@@ -298,7 +298,7 @@ http://117.83.104.205:7777/rtp/239.49.8.107:8000
 http://117.83.104.205:7777/rtp/239.49.8.108:8000
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png",江苏影视
 http://117.83.104.205:7777/rtp/239.49.8.118:8000
-#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏公共.png",江苏公共 
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏公共新闻.png",江苏公共新闻 
 http://117.83.104.205:7777/rtp/239.49.8.120:8000
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/江苏体育.png",江苏体育休闲
 http://117.83.104.205:7777/rtp/239.49.8.117:8000
