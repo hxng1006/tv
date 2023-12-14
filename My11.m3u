@@ -414,6 +414,8 @@ http://192.168.2.131:45267/js.php?id=jsgj
 http://192.168.2.131:45267/js.php?id=hxgw
 #EXTINF:-1 group-title="PHP",优漫卡通
 http://192.168.2.131:45267/js.php?id=ymkt
+#EXTINF:-1 group-title="PHP",莲华卫视
+http://192.168.2.131:45267/lianhua.php
  
 
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/苏州新闻综合.png",苏州新闻综合
