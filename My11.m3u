@@ -1150,5 +1150,16 @@ http://lzlive.vojs.cn/pL6NkZo/92/live.m3u8
 http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
 #EXTINF:-1 group-title="广播",江苏财经广播
 http://lzlive.vojs.cn/caijing/92/live.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/苏州综合广播.png" group-title="广播",苏州新闻综合广播
+http://live.cooltv.top/tv/ytradio.php?id=694
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/sso/198/1631607649319_Vd7ueakoB.jpeg" group-title="广播",苏州交通经济广播
+http://live.cooltv.top/tv/ytradio.php?id=698
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/szyygb.png" group-title="广播",苏州音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=697
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/苏州生活广播.png" group-title="广播",苏州生活广播
+http://live.cooltv.top/tv/ytradio.php?id=696
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/苏州儿童广播.png" group-title="广播",苏州儿童广播
+http://live.cooltv.top/tv/ytradio.php?id=695 
 #EXTINF:-1 group-title="广播",江苏健康广播
 http://satellitepull.cnr.cn/live/wx32jsjkgb/playlist.m3u8
