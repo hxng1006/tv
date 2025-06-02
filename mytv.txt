@@ -383,7 +383,7 @@ CETV4,http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
  
 
-🌷江苏频道,#genre#
+🌷地方频道,#genre#
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
@@ -436,6 +436,14 @@ CETV4,http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
 苏州生活资讯,rtmp://liveshowbak2.kan0512.com/norecord/norecord_sbs5 
 
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+
+
+上海新闻综合,https://www.freetv.top/migu/651632657.m3u8?migutoken=5581b41b98477935ed3c69b4be1ab8140296abd48968ef22c86d8a00035db4b00a3b74eaa0a9922e47324f33a2f1e7ff5ff72af4e823ea35a794e3d4ec03bd855f090a9fd7f8913253da129d60
+东方影视,https://www.freetv.top/migu/617290047.m3u8?migutoken=bb3d9dd2986f70b9ba5fb2edd4bb589000cd913e83319f64f9278bfa30b231152a92b1f1d56c4707445aa8ff070ed97ec8096c187928e2e7317481e9093f3fc6dea83fd54958a305ea37a92c3b
+第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=17feca9f17cb391f1ca9385b564d4ca42c1554fd63615167898bef2c72e764f041e0a6493938f73047e69a42317661e149e416b7c796fcd16355326de9a396eca8e44d2dbb62585fba9249ee47
+
+
+
  
 江苏新闻,http://ott.mobaibox.com/TVOD/3/224/3221228743/index.m3u8
 江苏城市,http://ott.mobaibox.com/TVOD/3/224/3221228734/index.m3u8
