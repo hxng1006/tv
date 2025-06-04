@@ -56,7 +56,8 @@ http://ott.mobaibox.com/TVOD/1/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-id="154" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.cn/tv/中国教育4台.png" group-title="⚛️ 央视频道",中国教育4台
 http://ott.mobaibox.com/TVOD/1/224/3221227028/index.m3u8 
 
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="⚛️ 央视频道",重温经典http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="⚛️ 央视频道",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="🥮 卫视频道",江苏卫视
