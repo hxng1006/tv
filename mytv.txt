@@ -383,7 +383,7 @@ CETV4,http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
  
 
-🌷地方频道,#genre#
+🌷江苏频道,#genre#
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
@@ -436,14 +436,6 @@ CETV4,http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
 苏州生活资讯,rtmp://liveshowbak2.kan0512.com/norecord/norecord_sbs5 
 
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
-
-
-上海新闻综合,https://www.freetv.top/migu/651632657.m3u8?migutoken=5581b41b98477935ed3c69b4be1ab8140296abd48968ef22c86d8a00035db4b00a3b74eaa0a9922e47324f33a2f1e7ff5ff72af4e823ea35a794e3d4ec03bd855f090a9fd7f8913253da129d60
-东方影视,https://www.freetv.top/migu/617290047.m3u8?migutoken=bb3d9dd2986f70b9ba5fb2edd4bb589000cd913e83319f64f9278bfa30b231152a92b1f1d56c4707445aa8ff070ed97ec8096c187928e2e7317481e9093f3fc6dea83fd54958a305ea37a92c3b
-第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=17feca9f17cb391f1ca9385b564d4ca42c1554fd63615167898bef2c72e764f041e0a6493938f73047e69a42317661e149e416b7c796fcd16355326de9a396eca8e44d2dbb62585fba9249ee47
-
-
-
  
 江苏新闻,http://ott.mobaibox.com/TVOD/3/224/3221228743/index.m3u8
 江苏城市,http://ott.mobaibox.com/TVOD/3/224/3221228734/index.m3u8
@@ -575,8 +567,8 @@ CETV4,http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/TVOD/1/224/3221228530/1.m3u8
 
- 
-翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+
+
 翡翠台,https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
@@ -604,12 +596,6 @@ RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
-凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
 Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
 Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
@@ -618,14 +604,24 @@ Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 
 
+澳视澳门,http://119.32.12.17:2901/udp/224.1.100.12:11111
+澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+澳亚卫视,https://stream1.freetv.fun/ao-ya-wei-shi-1.ctv
+莲花卫视,http://8.138.7.223/tv/lotustv.m3u8
+莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+莲花卫视,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
+
+莲花卫视,http://192.168.2.130/lianhua.php
+
+
 
  
 
 🔰数字频道,#genre#
-CHC动作电影,https://migu.777189.xyz/?migutoken=6a15a61798bff9441461eaf316d1b565&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
-CHC影迷电影,https://migu.777189.xyz/?migutoken=9cb104b754ad7379055317670ce20d1c&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
-CHC家庭影院,https://migu.777189.xyz/?migutoken=262e2be987078f5cd08fbd0416ebdbd9&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
-CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=781a047a25b03b3efb5eadb27e905cd7fb866fbe4821ac3ec3ac0cc7e6c16cfca86ff567f212d6bf4263987e8de24a6421e5198959f32709d78a00cba967ee12e0819791072a0d30f531787a23
+CHC动作电影,https://migu.777189.xyz/?migutoken=f1311ca2a12c375446b083a9a37eeb98&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
+CHC影迷电影,https://migu.777189.xyz/?migutoken=b48f851b8f38b068afa94265e0a494cf&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
+CHC家庭影院,https://migu.777189.xyz/?migutoken=1bc27b8c3655577c0e3aa2b61d4b0009&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
+
 
 CHC影迷电影,https://www.freetv.top/migu/952383261.m3u8?migutoken=0f03f8a6f21f3e880b2ed92692fbe91d8dfce085abaada08b765403bb02ba21efe24ac5dfc6309d458109e6269008dda7a81bf1db4a96cdd7f6a515525d70c5c0bd48cff6a5c04883f4bb888b7
 
