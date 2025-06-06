@@ -158,8 +158,9 @@ CCTV8K,http://hwltc.tv.cdn.zj.chinamobile.com/TVOD/88888888/224/3221236272/index
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/TVOD/3/224/3221228165/index.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/TVOD/3/224/3221228165/index.m3u8?icpid=3&amp;RTS=1659435610&amp;from=40&amp;popid=40&amp;hms_devid=2039&amp;prioritypopid=40&amp;vqe=3
 
-CCTV4欧洲,https://migu.777189.xyz/?migutoken=d2724fd9cb235781586684452999a550&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
-CCTV4美洲,https://migu.777189.xyz/?migutoken=bf3e91f58d7584aaeba4120144d3c58b&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+CCTV4欧洲,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8?IAS
+CCTV4美洲,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8?IAS
+
 
 CETV1,http://ott.mobaibox.com/TVOD/1/224/3221225909/index.m3u8
 CETV2,http://ott.mobaibox.com/TVOD/1/224/3221225850/index.m3u8
@@ -175,6 +176,7 @@ CETV3,http://223.110.241.139:6610/gitv/live1/G_CETV-3/G_CETV-3/
 CETV4,http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
   
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?IAS
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,https://migu.777189.xyz/?migutoken=96ac639cd65f1df76e493ef4670a7edc&id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&pp=1
 重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
@@ -561,7 +563,10 @@ CETV4,http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
 凤凰香港,http://ott.mobaibox.com/TVOD/1/224/3221228530/index.m3u8
 凤凰资讯,http://ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8
 凤凰中文,http://ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
-凤凰香港,http://ott.mobaibox.com/TVOD/3/224/3221228530/index.m3u8 
+凤凰香港,http://ott.mobaibox.com/TVOD/3/224/3221228530/index.m3u8
+
+凤凰中文,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8?IAS
+凤凰资讯,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8?IAS 
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8
@@ -569,20 +574,24 @@ CETV4,http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
 
 
 
-翡翠台,https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
+翡翠台,https://012v4.pendy.dpdns.org/hls/3672252c-bea6-40ce-b186-e2072a0fd9f9/playlist.m3u8
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+美亞電影台,https://011v4.pendy.dpdns.org/stream/tvb/cmam/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+美亞電影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
+美亞電影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+PopC,https://011v4.pendy.dpdns.org/stream/tvb/popc/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
-美亚电影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
-天映频道(印尼),https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
+明珠台,https://011v4.pendy.dpdns.org/stream/tvb/pearl/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+TVB Plus,https://011v4.pendy.dpdns.org/stream/tvb/tvbplus/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 TVB Plus,https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
+TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+天映频道(印尼),https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
 Animax,https://live.tvfix.org/live/animax/index.m3u8
 华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-明珠台,https://live.tvfix.org/live/pearl/index.m3u8
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVBS,https://live.tvfix.org/live/tvbs/index.m3u8
 TVBS新闻台,https://live.tvfix.org/live/tvbsnews/index.m3u8
-TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 亚洲新闻台,https://live.tvfix.org/live/newsasia/index.m3u8
@@ -593,7 +602,6 @@ ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
 八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
@@ -603,7 +611,6 @@ Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 
-
 澳视澳门,http://119.32.12.17:2901/udp/224.1.100.12:11111
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳亚卫视,https://stream1.freetv.fun/ao-ya-wei-shi-1.ctv
@@ -611,7 +618,7 @@ Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 莲花卫视,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
 
-莲花卫视,http://192.168.2.130/lianhua.php
+莲花卫视,http://192.168.2.130:8022/lianhua.php
 
 
 
@@ -696,6 +703,9 @@ CCTV卫生健康,http://192.168.2.130:5000/ysp/cctv-weishengjiankang
 老故事,http://ott.mobaibox.com/TVOD/3/224/3221227043/index.m3u8
 中学生,http://ott.mobaibox.com/TVOD/3/224/3221228704/index.m3u8
 早期教育,http://ott.mobaibox.com/TVOD/3/224/3221228692/index.m3u8
+
+欢笑剧场,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8?IAS
+都市剧场,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/1/index.m3u8?IAS
 
  
 纪实科教,http://ott.mobaibox.com/TVOD/3/224/3221227699/index.m3u8
@@ -809,8 +819,24 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 精品体育,http://ott.mobaibox.com/PLTV/4/224/3221227615/index.m3u8
 军旅剧场,http://ott.mobaibox.com/PLTV/4/224/3221227603/index.m3u8
 军事评论,http://ott.mobaibox.com/PLTV/4/224/3221227544/index.m3u8
-咪咕体育1,http://ott.mobaibox.com/PLTV/4/224/3221227533/index.m3u8
-咪咕体育2,http://ott.mobaibox.com/PLTV/4/224/3221228193/index.m3u8
+
+爱浪漫,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/1/index.m3u8?IAS
+爱院线,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?IAS
+爱喜剧,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8?IAS
+爱科幻,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?IAS
+爱赛车,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8?IAS
+爱旅行,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8?IAS
+爱谍战,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8?IAS
+爱悬疑,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8?IAS
+爱历史,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8?IAS
+爱经典,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8?IAS
+爱体育,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8?IAS
+爱科学,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/1/index.m3u8?IAS
+爱奇谈,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/1/index.m3u8?IAS
+爱幼教,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/1/index.m3u8?IAS
+爱玩具,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/1/index.m3u8?IAS
+爱动漫,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/index.m3u8?IAS
+
 
 优漫卡通,http://ott.mobaibox.com/TVOD/3/224/3221225933/index.m3u8
 卡酷少儿,http://ott.mobaibox.com/TVOD/3/224/3221226305/index.m3u8
@@ -828,6 +854,26 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 卡通2,http://ott.mobaibox.com/PLTV/4/224/3221228579/index.m3u8
 卡通3,http://ott.mobaibox.com/PLTV/4/224/3221228603/index.m3u8
 卡通4,http://ott.mobaibox.com/PLTV/4/224/3221228638/index.m3u8
+
+•YouTube,#genre#
+CCTV4,https://youtube.pendy.dpdns.org/video?id=SdzewdkJa-o
+凤凰资讯,https://youtube.pendy.dpdns.org/video?id=HFib76ySpbU
+中天新闻,https://youtube.pendy.dpdns.org/video?id=vr3XyVCR4T0
+公视新闻,https://youtube.pendy.dpdns.org/video?id=quwqlazU-c8
+民视新闻,https://youtube.pendy.dpdns.org/video?id=ylYJSBUgaMA
+台视新闻,https://youtube.pendy.dpdns.org/video?id=xL0ch83RAK8
+中视新闻,https://youtube.pendy.dpdns.org/video?id=TCnaIE_SAtM
+华视新闻,https://youtube.pendy.dpdns.org/video?id=wM0g8EoUZ_E
+TVBS新闻,http://223.16.133.25:35455/youtube/m_dhMSvUCIc?quality=1080
+TVBS,https://youtube.pendy.dpdns.org/video?id=d1jUeoc3pio
+三立新闻,https://youtube.pendy.dpdns.org/video?id=MV9mI0GChwo
+三立 iNEWS,https://youtube.pendy.dpdns.org/video?id=BlKaF8og0jo
+东森新闻,https://youtube.pendy.dpdns.org/video?id=E0zhe2gkXBs
+东森财经新闻,https://youtube.pendy.dpdns.org/video?id=1I2iq41Akmo
+寰宇新闻,https://youtube.pendy.dpdns.org/video?id=6IquAgfvYmc
+寰宇财经新闻,https://youtube.pendy.dpdns.org/video?id=WTRQiVWK1jY
+镜新闻,https://youtube.pendy.dpdns.org/video?id=5n0y6b0Q25o
+中视经典综艺,https://youtube.pendy.dpdns.org/video?id=ADDSmXoPDY8
  
 
 ✨广播频道,#genre#
