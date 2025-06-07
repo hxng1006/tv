@@ -283,7 +283,7 @@ http://ott.mobaibox.com/TVOD/3/224/3221227819/index.m3u8
 http://ott.mobaibox.com/TVOD/1/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="🙃 港澳频道",凤凰中文
 http://ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="🙃 港澳频道",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="🙃 港澳频道",凤凰香港
 http://ott.mobaibox.com/TVOD/1/224/3221228530/index.m3u8
 
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🙃 港澳频道",翡翠台
@@ -488,51 +488,51 @@ http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://live.fanmingming.cn/tv/江苏8K测试.png" group-title="🔰 数字频道",江苏8K测试
 http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
  
-#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://live.fanmingming.cn/tv/NewTV爱情喜剧.png" group-title="🔰 数字频道",爱情喜剧
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://epg.iill.top/logo/NewTV爱情喜剧.png" group-title="🔰 数字频道",爱情喜剧
 http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://live.fanmingming.cn/tv/NewTV潮妈辣婆.png" group-title="🔰 数字频道",潮妈辣婆
+#EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://epg.iill.top/logo/NewTV潮妈辣婆.png" group-title="🔰 数字频道",潮妈辣婆
 http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://live.fanmingming.cn/tv/NewTV动作电影.png" group-title="🔰 数字频道",动作电影
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://epg.iill.top/logo/NewTV动作电影.png" group-title="🔰 数字频道",动作电影
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://live.fanmingming.cn/tv/NewTV家庭剧场.png" group-title="🔰 数字频道",家庭剧场
+#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://epg.iill.top/logo/NewTV家庭剧场.png" group-title="🔰 数字频道",家庭剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://live.fanmingming.cn/tv/NewTV古装剧场.png" group-title="🔰 数字频道",古装剧场
+#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://epg.iill.top/logo/NewTV古装剧场.png" group-title="🔰 数字频道",古装剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
-#EXTINF:-1 tvg-id="海外剧场" tvg-name="海外剧场" tvg-logo="https://live.fanmingming.cn/tv/NewTV海外剧场.png" group-title="🔰 数字频道",海外剧场
+#EXTINF:-1 tvg-id="海外剧场" tvg-name="海外剧场" tvg-logo="https://epg.iill.top/logo/NewTV海外剧场.png" group-title="🔰 数字频道",海外剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
-#EXTINF:-1 tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://live.fanmingming.cn/tv/NewTV金牌综艺.png" group-title="🔰 数字频道",金牌综艺
+#EXTINF:-1 tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://epg.iill.top/logo/NewTV金牌综艺.png" group-title="🔰 数字频道",金牌综艺
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
-#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://live.fanmingming.cn/tv/NewTV惊悚悬疑.png" group-title="🔰 数字频道",惊悚悬疑
+#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://epg.iill.top/logo/NewTV惊悚悬疑.png" group-title="🔰 数字频道",惊悚悬疑
 http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-#EXTINF:-1 tvg-id="精品记录" tvg-name="精品记录" tvg-logo="https://live.fanmingming.cn/tv/NewTV精品记录.png" group-title="🔰 数字频道",精品记录
+#EXTINF:-1 tvg-id="精品记录" tvg-name="精品记录" tvg-logo="https://epg.iill.top/logo/NewTV精品记录.png" group-title="🔰 数字频道",精品记录
 http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 tvg-id="精品剧场" tvg-name="精品剧场" tvg-logo="https://live.fanmingming.cn/tv/NewTV精品大剧.png" group-title="🔰 数字频道",精品剧场
+#EXTINF:-1 tvg-id="精品剧场" tvg-name="精品剧场" tvg-logo="https://epg.iill.top/logo/NewTV精品大剧.png" group-title="🔰 数字频道",精品剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://live.fanmingming.cn/tv/NewTV精品萌宠.png" group-title="🔰 数字频道",精品萌宠
+#EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://epg.iill.top/logo/NewTV精品萌宠.png" group-title="🔰 数字频道",精品萌宠
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
-#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://live.fanmingming.cn/tv/NewTV精品体育.png" group-title="🔰 数字频道",精品体育
+#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://epg.iill.top/logo/NewTV精品体育.png" group-title="🔰 数字频道",精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 tvg-id="精选影视" tvg-name="精选影视" tvg-logo="https://live.fanmingming.cn/tv/NewTV精品电影.png" group-title="🔰 数字频道",精选影视
+#EXTINF:-1 tvg-id="精选影视" tvg-name="精选影视" tvg-logo="https://epg.iill.top/logo/NewTV精品电影.png" group-title="🔰 数字频道",精选影视
 http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.cn/tv/NewTV军旅剧场.png" group-title="🔰 数字频道",军旅剧场
+#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://epg.iill.top/logo/NewTV军旅剧场.png" group-title="🔰 数字频道",军旅剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://live.fanmingming.cn/tv/NewTV军事评论.png" group-title="🔰 数字频道",军事评论
+#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://epg.iill.top/logo/NewTV军事评论.png" group-title="🔰 数字频道",军事评论
 http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://live.fanmingming.cn/tv/NewTV明星大片.png" group-title="🔰 数字频道",明星大片
+#EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://epg.iill.top/logo/NewTV明星大片.png" group-title="🔰 数字频道",明星大片
 http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 tvg-id="农业致富" tvg-name="农业致富" tvg-logo="https://live.fanmingming.cn/tv/NewTV农业致富.png" group-title="🔰 数字频道",农业致富
+#EXTINF:-1 tvg-id="农业致富" tvg-name="农业致富" tvg-logo="https://epg.iill.top/logo/NewTV农业致富.png" group-title="🔰 数字频道",农业致富
 http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1 tvg-id="热播精选" tvg-name="热播精选" tvg-logo="https://live.fanmingming.cn/tv/NewTV热播精选.png" group-title="🔰 数字频道",热播精选
+#EXTINF:-1 tvg-id="热播精选" tvg-name="热播精选" tvg-logo="https://epg.iill.top/logo/NewTV热播精选.png" group-title="🔰 数字频道",热播精选
 http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
-#EXTINF:-1 tvg-id="武搏世界" tvg-name="武搏世界" tvg-logo="https://live.fanmingming.cn/tv/NewTV武搏世界.png" group-title="🔰 数字频道",武搏世界
+#EXTINF:-1 tvg-id="武搏世界" tvg-name="武搏世界" tvg-logo="https://epg.iill.top/logo/NewTV武搏世界.png" group-title="🔰 数字频道",武搏世界
 http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="https://live.fanmingming.cn/tv/NewTV炫舞未来.png" group-title="🔰 数字频道",炫舞未来
+#EXTINF:-1 tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="https://epg.iill.top/logo/NewTV炫舞未来.png" group-title="🔰 数字频道",炫舞未来
 http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-#EXTINF:-1 tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="https://live.fanmingming.cn/tv/NewTV怡伴健康.png" group-title="🔰 数字频道",怡伴健康
+#EXTINF:-1 tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="https://epg.iill.top/logo/NewTV怡伴健康.png" group-title="🔰 数字频道",怡伴健康
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
-#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://live.fanmingming.cn/tv/NewTV中国功夫.png" group-title="🔰 数字频道",中国功夫
+#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://epg.iill.top/logo/NewTV中国功夫.png" group-title="🔰 数字频道",中国功夫
 http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://live.fanmingming.cn/tv/NewTV军事评论.png" group-title="🔰 数字频道",军事评论
+#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://epg.iill.top/logo/NewTV军事评论.png" group-title="🔰 数字频道",军事评论
 http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
   
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.cn/tv/哒啵赛事.png" group-title="🔰 数字频道",哒啵赛事
@@ -544,37 +544,37 @@ http://ott.mobaibox.com/PLTV/4/224/3221225567/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221225555/index.m3u8
 
 
-#EXTINF:-1,tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://live.fanmingming.cn/tv/爱浪漫.png" group-title="🔰 数字频道",爱浪漫
+#EXTINF:-1,tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://epg.iill.top/logo/iHOT爱浪漫.png" group-title="🔰 数字频道",爱浪漫
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/1/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://live.fanmingming.cn/tv/爱院线.png" group-title="🔰 数字频道",爱院线
+#EXTINF:-1,tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://epg.iill.top/logo/iHOT爱院线.png" group-title="🔰 数字频道",爱院线
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://live.fanmingming.cn/tv/爱喜剧.png" group-title="🔰 数字频道",爱喜剧
+#EXTINF:-1,tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.iill.top/logo/iHOT爱喜剧.png" group-title="🔰 数字频道",爱喜剧
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://live.fanmingming.cn/tv/爱科幻.png" group-title="🔰 数字频道",爱科幻
+#EXTINF:-1,tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://epg.iill.top/logo/iHOT爱科幻.png" group-title="🔰 数字频道",爱科幻
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://live.fanmingming.cn/tv/爱赛车.png" group-title="🔰 数字频道",爱赛车
+#EXTINF:-1,tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://epg.iill.top/logo/iHOT爱赛车.png" group-title="🔰 数字频道",爱赛车
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://live.fanmingming.cn/tv/爱旅行.png" group-title="🔰 数字频道",爱旅行
+#EXTINF:-1,tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://epg.iill.top/logo/iHOT爱旅行.png" group-title="🔰 数字频道",爱旅行
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://live.fanmingming.cn/tv/爱谍战.png" group-title="🔰 数字频道",爱谍战
+#EXTINF:-1,tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://epg.iill.top/logo/iHOT爱谍战.png" group-title="🔰 数字频道",爱谍战
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://live.fanmingming.cn/tv/爱悬疑.png" group-title="🔰 数字频道",爱悬疑
+#EXTINF:-1,tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://epg.iill.top/logo/iHOT爱悬疑.png" group-title="🔰 数字频道",爱悬疑
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://live.fanmingming.cn/tv/爱历史.png" group-title="🔰 数字频道",爱历史
+#EXTINF:-1,tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://epg.iill.top/logo/iHOT爱历史.png" group-title="🔰 数字频道",爱历史
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱经典" tvg-name="爱经典" tvg-logo="https://live.fanmingming.cn/tv/爱经典.png" group-title="🔰 数字频道",爱经典
+#EXTINF:-1,tvg-id="爱经典" tvg-name="爱经典" tvg-logo="https://epg.iill.top/logo/iHOT爱经典.png" group-title="🔰 数字频道",爱经典
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://live.fanmingming.cn/tv/爱体育.png" group-title="🔰 数字频道",爱体育
+#EXTINF:-1,tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.iill.top/logo/iHOT爱体育.png" group-title="🔰 数字频道",爱体育
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://live.fanmingming.cn/tv/爱科学.png" group-title="🔰 数字频道",爱科学
+#EXTINF:-1,tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://epg.iill.top/logo/iHOT爱科学.png" group-title="🔰 数字频道",爱科学
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/1/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://live.fanmingming.cn/tv/爱奇谈.png" group-title="🔰 数字频道",爱奇谈
+#EXTINF:-1,tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://epg.iill.top/logo/iHOT爱奇谈.png" group-title="🔰 数字频道",爱奇谈
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/1/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://live.fanmingming.cn/tv/爱幼教.png" group-title="🔰 数字频道",爱幼教
+#EXTINF:-1,tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://epg.iill.top/logo/iHOT爱幼教.png" group-title="🔰 数字频道",爱幼教
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/1/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://live.fanmingming.cn/tv/爱玩具.png" group-title="🔰 数字频道",爱玩具
+#EXTINF:-1,tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://epg.iill.top/logo/iHOT爱玩具.png" group-title="🔰 数字频道",爱玩具
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/1/index.m3u8?IAS
-#EXTINF:-1,tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://live.fanmingming.cn/tv/爱动漫.png" group-title="🔰 数字频道",爱动漫
+#EXTINF:-1,tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://epg.iill.top/logo/iHOT爱动漫.png" group-title="🔰 数字频道",爱动漫
 http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/index.m3u8?IAS
 
 #EXTINF:-1 tvg-name="直播中国" tvg-logo="https://live.fanmingming.cn/tv/直播中国.png" group-title="🔰 数字频道",直播中国
@@ -611,53 +611,53 @@ http://ott.mobaibox.com/TVOD/4/224/3221228603/index.m3u8
 http://ott.mobaibox.com/TVOD/4/224/3221228638/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Judy" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",CCTV4 中文國際
+#EXTINF:-1 tvg-id="Judy" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",CCTV4 中文國際
 https://youtube.pendy.dpdns.org/video?id=SdzewdkJa-o
-#EXTINF:-1 tvg-id="Judy" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",鳳凰衛視資訊
+#EXTINF:-1 tvg-id="Judy" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",鳳凰衛視資訊
 https://youtube.pendy.dpdns.org/video?id=HFib76ySpbU
-#EXTINF:-1 tvg-id="Judy" tvg-name="中天新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",中天新聞台
+#EXTINF:-1 tvg-id="Judy" tvg-name="中天新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",中天新聞台
 https://youtube.pendy.dpdns.org/video?id=vr3XyVCR4T0
-#EXTINF:-1 tvg-id="Judy" tvg-name="公视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",公視新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="公视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",公視新聞
 https://youtube.pendy.dpdns.org/video?id=quwqlazU-c8
-#EXTINF:-1 tvg-id="Judy" tvg-name="民视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",民視新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="民视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",民視新聞
 https://youtube.pendy.dpdns.org/video?id=ylYJSBUgaMA
-#EXTINF:-1 tvg-id="Judy" tvg-name="台视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",台視新聞台
+#EXTINF:-1 tvg-id="Judy" tvg-name="台视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",台視新聞台
 https://youtube.pendy.dpdns.org/video?id=xL0ch83RAK8
-#EXTINF:-1 tvg-id="Judy" tvg-name="中视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",中視新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="中视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",中視新聞
 https://youtube.pendy.dpdns.org/video?id=TCnaIE_SAtM
-#EXTINF:-1 tvg-id="Judy" tvg-name="华视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",華視新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="华视新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",華視新聞
 https://youtube.pendy.dpdns.org/video?id=wM0g8EoUZ_E
-#EXTINF:-1 tvg-id="Judy" tvg-name="TVBSNEWS" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",TVBS NEWS
+#EXTINF:-1 tvg-id="Judy" tvg-name="TVBSNEWS" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",TVBS NEWS
 http://223.16.133.25:35455/youtube/m_dhMSvUCIc?quality=1080
-#EXTINF:-1 tvg-id="Judy" tvg-name="TVBS选新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",TVBS 選新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="TVBS选新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",TVBS 選新聞
 https://youtube.pendy.dpdns.org/video?id=d1jUeoc3pio
-#EXTINF:-1 tvg-id="Judy" tvg-name="三立新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",三立新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="三立新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",三立新聞
 https://youtube.pendy.dpdns.org/video?id=MV9mI0GChwo
-#EXTINF:-1 tvg-id="Judy" tvg-name="三立iNEWS" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",三立 iNEWS
+#EXTINF:-1 tvg-id="Judy" tvg-name="三立iNEWS" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",三立 iNEWS
 https://youtube.pendy.dpdns.org/video?id=BlKaF8og0jo
-#EXTINF:-1 tvg-id="Judy" tvg-name="东森新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",東森新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="东森新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",東森新聞
 https://youtube.pendy.dpdns.org/video?id=E0zhe2gkXBs
-#EXTINF:-1 tvg-id="Judy" tvg-name="东森财经新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",東森財經新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="东森财经新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",東森財經新聞
 https://youtube.pendy.dpdns.org/video?id=1I2iq41Akmo
-#EXTINF:-1 tvg-id="Judy" tvg-name="寰宇新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",寰宇新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="寰宇新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",寰宇新聞
 https://youtube.pendy.dpdns.org/video?id=6IquAgfvYmc
-#EXTINF:-1 tvg-id="Judy" tvg-name="寰宇财经新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",寰宇財經新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="寰宇财经新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",寰宇財經新聞
 https://youtube.pendy.dpdns.org/video?id=WTRQiVWK1jY
-#EXTINF:-1 tvg-id="Judy" tvg-name="镜新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",鏡新聞
+#EXTINF:-1 tvg-id="Judy" tvg-name="镜新闻" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",鏡新聞
 https://youtube.pendy.dpdns.org/video?id=5n0y6b0Q25o
-#EXTINF:-1 tvg-id="Judy" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",FRANCE 24
+#EXTINF:-1 tvg-id="Judy" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",FRANCE 24
 https://youtube.pendy.dpdns.org/video?id=l8PMl7tUDIE
-#EXTINF:-1 tvg-id="Judy" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",ANN NEWS
+#EXTINF:-1 tvg-id="Judy" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",ANN NEWS
 https://youtube.pendy.dpdns.org/video?id=coYw-eVU0Ks
-#EXTINF:-1 tvg-id="Judy" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",NHK WORLD
+#EXTINF:-1 tvg-id="Judy" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",NHK WORLD
 https://youtube.pendy.dpdns.org/video?id=f0lYkdA-Gtw
-#EXTINF:-1 tvg-id="Judy" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",TBS NEWS
+#EXTINF:-1 tvg-id="Judy" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",TBS NEWS
 https://youtube.pendy.dpdns.org/video?id=ohI356mwBp8
-#EXTINF:-1 tvg-id="Judy" tvg-name="大愛一台" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",大愛電視
+#EXTINF:-1 tvg-id="Judy" tvg-name="大愛一台" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",大愛電視
 https://youtube.pendy.dpdns.org/video?id=MIqUplvSRWA
-#EXTINF:-1 tvg-id="Judy" tvg-name="大愛一台" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",大愛電視2
+#EXTINF:-1 tvg-id="Judy" tvg-name="大愛一台" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",大愛電視2
 https://youtube.pendy.dpdns.org/video?id=DTNkEm6jaqQ
-#EXTINF:-1 tvg-id="Judy" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「P」",中視經典綜藝
+#EXTINF:-1 tvg-id="Judy" tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="⭐️YouTube",中視經典綜藝
 https://youtube.pendy.dpdns.org/video?id=ADDSmXoPDY8
 
 
