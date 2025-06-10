@@ -1,4 +1,4 @@
-♻️央视频道,#genre#
+央视频道,#genre#
 CCTV1,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-1-CQ/1.m3u8?m3u8_level=2
 CCTV2,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-2-CQ/1.m3u8?m3u8_level=2
 CCTV3,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-3-CQ/1.m3u8?m3u8_level=2
@@ -17,6 +17,41 @@ CCTV14,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-14-CQ/1.m3u8?
 CCTV15,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-15-HQ/1.m3u8?m3u8_level=2
 CCTV16,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-16-CQ/1.m3u8?m3u8_level=2
 CCTV17,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-17-CQ/1.m3u8?m3u8_level=2
+
+CCTV-1 综合,https://migu.777189.xyz/?migutoken=2b2f394a31c7853be7da6a476a4d2266&id=CCTV1&pp=1
+CCTV-2 财经,https://migu.777189.xyz/?migutoken=83bf5aa61b2630289472710150872e82&id=CCTV2&pp=1
+CCTV-3 综艺,https://migu.777189.xyz/?migutoken=362d8b0d136279375274b893aea1af37&id=CCTV3&pp=1
+CCTV-4 中文国际,https://migu.777189.xyz/?migutoken=7b6d607e5c2b1c75ca3ced645c0ca132&id=CCTV4&pp=1
+CCTV-5 体育,https://migu.777189.xyz/?migutoken=3c53a5a778ca418b10e6cf4b235978b2&id=CCTV5&pp=1
+CCTV-5+ 体育赛事,https://migu.777189.xyz/?migutoken=dbb0bfb7d402b5396addf5fca0d0b2f8&id=CCTV5p&pp=1
+CCTV-6 电影,https://migu.777189.xyz/?migutoken=b50597da3b5e7f11c645826abc440013&id=CCTV6&pp=1
+CCTV-7 国防军事,https://migu.777189.xyz/?migutoken=53cb319b3b2aab1f231dd11142c15e87&id=CCTV7&pp=1
+CCTV-8 电视剧,https://migu.777189.xyz/?migutoken=55a7adafea5fbafc32641f0d1da601b9&id=CCTV8&pp=1
+CCTV-9 纪录,https://migu.777189.xyz/?migutoken=01337bac20bfedaeee1cae76210efe74&id=CCTV9&pp=1
+CCTV-10 科教,https://migu.777189.xyz/?migutoken=ecc3de1c39588d39940e14bec367ef02&id=CCTV10&pp=1
+CCTV-11 戏曲,https://migu.777189.xyz/?migutoken=365e21708e34cec276022d5fd19e359a&id=CCTV11&pp=1
+CCTV-12 社会与法,https://migu.777189.xyz/?migutoken=3147ef0d3f12330be81aac1a2621bef4&id=CCTV12&pp=1
+CCTV-13 新闻,https://migu.777189.xyz/?migutoken=f8cfc5a52b92546cbd921fe874cfa568&id=CCTV13&pp=1
+CCTV-14 少儿,https://migu.777189.xyz/?migutoken=7de0b9fb52fcfac166851a97de97f264&id=CCTV14&pp=1
+CCTV-15 音乐,https://migu.777189.xyz/?migutoken=53fa7076d2ee2ab3734905076af1e1c9&id=CCTV15&pp=1
+CCTV-17 农业农村,https://migu.777189.xyz/?migutoken=16c3e56212159f9940298c21def1533b&id=CCTV17&pp=1
+
+CCTV-1 综合,http://39.137.75.230/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=no
+CCTV-2 财经,http://39.137.75.232/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=no
+CCTV-4 中文国际,http://39.137.75.229/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=no
+CCTV-5+ 体育赛事,http://39.137.75.234/000000001000/reallive-cctv5plus/1.m3u8?livemode=1&stbId=no&channel-id=ystenlive&Contentid=reallive-cctv5plus
+CCTV-7 国防军事,http://39.137.75.234/000000001000/1000000005000265007/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=no
+CCTV-9 纪录,http://39.137.75.234/000000001000/1000000005000265009/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=no
+CCTV-10 科教,http://39.137.75.230/000000001000/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=no
+CCTV-11 戏曲,http://39.137.75.230/000000001000/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=no
+CCTV-12 社会与法,http://39.137.75.234/000000001000/1000000005000265012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=no
+CCTV-13 新闻,http://39.137.75.229/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=no
+CCTV-14 少儿,http://39.137.75.234/000000001000/1000000001000021349/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=no
+CCTV-15 音乐,http://39.137.75.234/000000001000/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=no
+CCTV-16 奥林匹克,http://39.137.75.230/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=no
+CCTV-17 农业农村,http://39.137.75.234/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=no
+
+
  
 CCTV4k,ttp://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-4K-HD/1.m3u8?m3u8_level=2
 
@@ -25,12 +60,9 @@ CETV2,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CETV-2/1.m3u8?m3u8_
 CETV3,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CETV-3/1.m3u8?m3u8_level=2
 CETV4,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CETV-4/1.m3u8?m3u8_level=2
 
-重温经典,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CWJD-HQ/1.m3u8?m3u8_level=2
 
- ♻️卫视频道,#genre#
-凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
-凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 
+ 卫视频道,#genre#
 北京卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_BEIJING-MD/1.m3u8?m3u8_level=2
 东方卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_DONGFANG-MD/1.m3u8?m3u8_level=2
 江苏卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JIANGSU-CQ/1.m3u8?m3u8_level=2
@@ -66,3 +98,99 @@ CETV4,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CETV-4/1.m3u8?m3u8_
 三沙卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_SANSHA-HQ/1.m3u8?m3u8_level=2
 吉林卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JILIN-CQ/1.m3u8?m3u8_level=2
 大湾区卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_NANFANG/1.m3u8?m3u8_level=2
+
+浙江卫视,https://migu.777189.xyz/?migutoken=850cf4d146b21d6197baa3a83d2c1961&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+江苏卫视,https://migu.777189.xyz/?migutoken=9f7bc28b3d319bd1ddba6515658664ca&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&pp=1
+东方卫视,https://migu.777189.xyz/?migutoken=6031a8b85754153dbdaf7c0edb4b9428&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&pp=1
+北京卫视,https://migu.777189.xyz/?migutoken=431ebb12eed4c53106967106bda2c5b3&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
+广东卫视,https://migu.777189.xyz/?migutoken=4309cedb13e9bedadd41637adaefe7db&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
+东南卫视,https://migu.777189.xyz/?migutoken=728cdc2fd8b53eb1391d635687764720&id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&pp=1
+湖北卫视,https://migu.777189.xyz/?migutoken=13b30efb6c17e3c47fb8217b35028bcd&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1
+江西卫视,https://migu.777189.xyz/?migutoken=a9e06cf2311a4eeffedcf5c612fcb1c3&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
+陕西卫视,https://migu.777189.xyz/?migutoken=fd22a4797463362dcd3e1fd656bd9231&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
+内蒙古卫视,https://migu.777189.xyz/?migutoken=6b591053ba26b264748ce3e71b9788a8&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+新疆卫视,https://migu.777189.xyz/?migutoken=be873fc67bdd2b7e1d36368ac9df8bae&id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&pp=1
+西藏卫视,https://migu.777189.xyz/?migutoken=426da46a839ec7416953797e490ef6d3&id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&pp=1
+
+湖南卫视,http://39.137.75.234/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=no
+浙江卫视,http://39.137.75.229/000000001000/1000000005000265031/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=no
+江苏卫视,http://39.137.75.232/000000001000/1000000001000004684/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=no
+东方卫视,http://39.137.75.229/000000001000/1000000001000030202/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=no
+北京卫视,http://39.137.75.230/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=no
+深圳卫视,http://39.137.75.234/000000001000/1000000005000265028/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=no
+广东卫视,http://39.137.75.230/000000001000/1000000001000028357/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=no
+东南卫视,http://39.137.75.230/000000001000/1000000002000009263/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=no
+安徽卫视,http://39.137.75.234/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=no
+天津卫视,http://39.137.75.230/000000001000/1000000001000003475/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=no
+四川卫视,http://39.137.75.234/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=no
+山东卫视,http://39.137.75.230/000000001000/1000000002000004097/index.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=no
+江西卫视,http://39.137.75.229/000000001000/1000000005000265032/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=no
+河北卫视,http://39.137.75.234/000000001000/1000000002000017118/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=no
+河南卫视,http://39.137.75.230/000000001000/1000000002000027731/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=no
+广西卫视,http://39.137.75.230/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=no
+海南卫视,http://39.137.75.229/000000001000/1000000002000023773/index.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=no
+湖北卫视,http://39.137.75.230/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=no
+贵州卫视,http://39.137.75.234/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=no
+辽宁卫视,http://39.137.75.230/000000001000/1000000002000024033/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=no
+重庆卫视,http://39.137.75.234/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=no
+黑龙江卫视,http://39.137.75.230/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=no
+吉林卫视,http://39.137.75.229/000000001000/1000000002000027730/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=no
+甘肃卫视,http://39.137.75.234/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=no
+云南卫视,http://39.137.75.232/000000001000/1000000002000024694/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=no
+青海卫视,http://39.137.75.229/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=no
+
+
+数字频道,#genre#
+重温经典,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CWJD-HQ/1.m3u8?m3u8_level=2
+重温经典,https://migu.777189.xyz/?migutoken=992416665552f0eda4852f2467a44f29&id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&pp=1
+
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
+凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8 
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
+CHC家庭影院,https://migu.777189.xyz/?migutoken=b33cddcca0ef792f2e0e3a41cf0d39ce&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
+CHC动作电影,https://migu.777189.xyz/?migutoken=54001101eb1ebc9235e1ca71b31216bc&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
+CHC影迷电影,https://migu.777189.xyz/?migutoken=e2a472b030398f6677e42b46212e08c0&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
+
+卡酷少儿,http://39.137.75.230/000000001000/1000000002000002413/index.m3u8?channel-id=ystenlive&Contentid=1000000002000002413&livemode=1&stbId=no
+金鹰卡通,http://39.137.75.234/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=no
+金鹰纪实,http://39.137.75.229/000000001000/1000000002000011724/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=no
+优漫卡通,http://39.137.75.230/000000001000/1000000002000010063/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=no
+哈哈炫动,http://39.137.75.229/000000001000/1000000002000000172/index.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=no
+黑莓动画,http://39.137.75.230/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=no
+睛彩竞技,http://39.137.75.229/000000001000/1000000006000270001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=no
+睛彩篮球,http://39.137.75.229/000000001000/1000000006000270002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=no
+纪实科教,http://39.137.75.230/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=no
+纪实人文,http://39.137.75.230/000000001000/1000000001000016545/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=no
+黑莓电影,http://39.137.75.230/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=no
+动作电影,http://39.137.75.229/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=no
+家庭剧场,http://39.137.75.230/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=no
+超级体育,http://39.137.75.230/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=no
+超级电影,http://39.137.75.230/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=no
+超级电视剧,http://39.137.75.230/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=no
+惊悚悬疑,http://39.137.75.229/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=no
+精品体育,http://39.137.75.230/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=no
+精品纪录,http://39.137.75.229/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=no
+精品综合,http://39.137.75.229/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=no
+精品大剧,http://39.137.75.229/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=no
+精品萌宠,http://39.137.75.230/000000001000/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=no
+超级综艺,http://39.137.75.234/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=no
+金牌综艺,http://39.137.75.229/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=no
+炫舞未来,http://39.137.75.230/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=no
+
+本地频道,#genre#
+江苏新闻,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSGG/1.m3u8?m3u8_level=2
+江苏城市,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSCS/1.m3u8?m3u8_level=2
+江苏综艺,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSZY/1.m3u8?m3u8_level=2
+江苏影视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSYS/1.m3u8?m3u8_level=2
+江苏教育,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSJY/1.m3u8?m3u8_level=2
+江苏体育休闲,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSTY/1.m3u8?m3u8_level=2
+
+苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
