@@ -1,38 +1,4 @@
 央视频道,#genre#
-CCTV1,http://php.666230.xyz/gzyx.php?channel=CCTV1_1
-CCTV1,http://php.666230.xyz/gzyx.php?channel=CCTV1_2
-CCTV2,http://php.666230.xyz/gzyx.php?channel=CCTV2_1
-CCTV2,http://php.666230.xyz/gzyx.php?channel=CCTV2_2
-CCTV3,http://php.666230.xyz/gzyx.php?channel=CCTV3_1
-CCTV3,http://php.666230.xyz/gzyx.php?channel=CCTV3_2
-CCTV4,http://php.666230.xyz/gzyx.php?channel=CCTV4_1
-CCTV4,http://php.666230.xyz/gzyx.php?channel=CCTV4_2
-CCTV5,http://php.666230.xyz/gzyx.php?channel=CCTV5_1
-CCTV5,http://php.666230.xyz/gzyx.php?channel=CCTV5_2
-CCTV5+,http://php.666230.xyz/gzyx.php?channel=CCTV5P_1
-CCTV5+,http://php.666230.xyz/gzyx.php?channel=CCTV5P_2
-CCTV6,http://php.666230.xyz/gzyx.php?channel=CCTV6_1
-CCTV6,http://php.666230.xyz/gzyx.php?channel=CCTV6_2
-CCTV7,http://php.666230.xyz/gzyx.php?channel=CCTV7_1
-CCTV7,http://php.666230.xyz/gzyx.php?channel=CCTV7_2
-CCTV8,http://php.666230.xyz/gzyx.php?channel=CCTV8_1
-CCTV8,http://php.666230.xyz/gzyx.php?channel=CCTV8_2
-CCTV9,http://php.666230.xyz/gzyx.php?channel=CCTV9_1
-CCTV9,http://php.666230.xyz/gzyx.php?channel=CCTV9_2
-CCTV10,http://php.666230.xyz/gzyx.php?channel=CCTV10_1
-CCTV10,http://php.666230.xyz/gzyx.php?channel=CCTV10_2
-CCTV11,http://php.666230.xyz/gzyx.php?channel=CCTV11_1
-CCTV11,http://php.666230.xyz/gzyx.php?channel=CCTV11_2
-CCTV12,http://php.666230.xyz/gzyx.php?channel=CCTV12_1
-CCTV12,http://php.666230.xyz/gzyx.php?channel=CCTV12_2
-CCTV13,http://php.666230.xyz/gzyx.php?channel=CCTV13_1
-CCTV13,http://php.666230.xyz/gzyx.php?channel=CCTV13_2
-CCTV14,http://php.666230.xyz/gzyx.php?channel=CCTV14_1
-CCTV14,http://php.666230.xyz/gzyx.php?channel=CCTV14_2
-CCTV15,http://php.666230.xyz/gzyx.php?channel=CCTV15_1
-CCTV15,http://php.666230.xyz/gzyx.php?channel=CCTV15_2
-CCTV17,http://php.666230.xyz/gzyx.php?channel=CCTV17_1 
-
 CCTV-1 综合,https://migu.777189.xyz/?migutoken=2b2f394a31c7853be7da6a476a4d2266&id=CCTV1&pp=1
 CCTV-2 财经,https://migu.777189.xyz/?migutoken=83bf5aa61b2630289472710150872e82&id=CCTV2&pp=1
 CCTV-3 综艺,https://migu.777189.xyz/?migutoken=362d8b0d136279375274b893aea1af37&id=CCTV3&pp=1
@@ -66,66 +32,8 @@ CCTV-15 音乐,http://39.137.75.234/000000001000/1000000005000265014/index.m3u8?
 CCTV-16 奥林匹克,http://39.137.75.230/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=no
 CCTV-17 农业农村,http://39.137.75.234/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=no
  
-CETV1,http://php.666230.xyz/gzyx.php?channel=CETV1_1
-CETV1,http://php.666230.xyz/gzyx.php?channel=CETV1_2
-CETV4,http://php.666230.xyz/gzyx.php?channel=CETV4_1
-
- 卫视频道,#genre#
-北京卫视,http://php.666230.xyz/gzyx.php?channel=BJWS
-北京卫视,http://php.666230.xyz/gzyx.php?channel=BJWS2
-广东卫视,http://php.666230.xyz/gzyx.php?channel=GDSW
-广东卫视,http://php.666230.xyz/gzyx.php?channel=GDSW2
-大湾区卫视,http://php.666230.xyz/gzyx.php?channel=DQBSW
-大湾区卫视,http://php.666230.xyz/gzyx.php?channel=DQBSW2
-湖南卫视,http://php.666230.xyz/gzyx.php?channel=HNSW
-湖南卫视,http://php.666230.xyz/gzyx.php?channel=HNSW2
-海南卫视,http://php.666230.xyz/gzyx.php?channel=HNSW3  
-海南卫视,http://php.666230.xyz/gzyx.php?channel=HNSW4  
-河北卫视,http://php.666230.xyz/gzyx.php?channel=HBWS  
-河北卫视,http://php.666230.xyz/gzyx.php?channel=HBWS2  
-云南卫视,http://php.666230.xyz/gzyx.php?channel=YNSW  
-云南卫视,http://php.666230.xyz/gzyx.php?channel=YNSW2  
-深圳卫视,http://php.666230.xyz/gzyx.php?channel=SZSW  
-深圳卫视,http://php.666230.xyz/gzyx.php?channel=SZSW2 
- 江苏卫视,http://php.666230.xyz/gzyx.php?channel=JSWS  
-江苏卫视,http://php.666230.xyz/gzyx.php?channel=JSWS2  
-东方卫视,http://php.666230.xyz/gzyx.php?channel=DFWS  
-东方卫视,http://php.666230.xyz/gzyx.php?channel=DFWS2  
-山东卫视,http://php.666230.xyz/gzyx.php?channel=SDWS  
-山东卫视,http://php.666230.xyz/gzyx.php?channel=SDWS2  
-浙江卫视,http://php.666230.xyz/gzyx.php?channel=ZJWS  
-浙江卫视,http://php.666230.xyz/gzyx.php?channel=ZJWS2  
-江西卫视,http://php.666230.xyz/gzyx.php?channel=JXWS 
-江西卫视,http://php.666230.xyz/gzyx.php?channel=JXWS2 
-贵州卫视,http://php.666230.xyz/gzyx.php?channel=GZWS  
-贵州卫视,http://php.666230.xyz/gzyx.php?channel=GZWS2  
-吉林卫视,http://php.666230.xyz/gzyx.php?channel=JLWS  
-吉林卫视,http://php.666230.xyz/gzyx.php?channel=JLWS2  
-天津卫视,http://php.666230.xyz/gzyx.php?channel=TJWS  天
-津卫视,http://php.666230.xyz/gzyx.php?channel=TJWS2  
-安徽卫视,http://php.666230.xyz/gzyx.php?channel=AHWS  
-安徽卫视,http://php.666230.xyz/gzyx.php?channel=AHWS2  
-湖北卫视,http://php.666230.xyz/gzyx.php?channel=HBWS  
-湖北卫视,http://php.666230.xyz/gzyx.php?channel=HBWS2  
-四川卫视,http://php.666230.xyz/gzyx.php?channel=SCWS  
-四川卫视,http://php.666230.xyz/gzyx.php?channel=SCWS2  
-河南卫视,http://php.666230.xyz/gzyx.php?channel=HNWS  
-辽宁卫视,http://php.666230.xyz/gzyx.php?channel=LNWS  
-辽宁卫视,http://php.666230.xyz/gzyx.php?channel=LNWS2 
- 重庆卫视,http://php.666230.xyz/gzyx.php?channel=CQWS  
-重庆卫视,http://php.666230.xyz/gzyx.php?channel=CQWS2 
- 广西卫视,http://php.666230.xyz/gzyx.php?channel=GXWS  
-广西卫视,http://php.666230.xyz/gzyx.php?channel=GXWS2  
-青海卫视,http://php.666230.xyz/gzyx.php?channel=QHWS  
-黑龙江卫视,http://php.666230.xyz/gzyx.php?channel=HLJWS  
-三沙卫视,http://php.666230.xyz/gzyx.php?channel=SSWS  
-甘肃卫视,http://php.666230.xyz/gzyx.php?channel=GSWS  
-宁夏卫视,http://php.666230.xyz/gzyx.php?channel=NXWS  
-西藏卫视,http://php.666230.xyz/gzyx.php?channel=XZWS  
-新疆卫视,http://php.666230.xyz/gzyx.php?channel=XJWS  
-兵团卫视,http://php.666230.xyz/gzyx.php?channel=BTWS  
-山西卫视,http://php.666230.xyz/gzyx.php?channel=SXWS 
-
+ 
+卫视频道,#genre#
 浙江卫视,https://migu.777189.xyz/?migutoken=850cf4d146b21d6197baa3a83d2c1961&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 江苏卫视,https://migu.777189.xyz/?migutoken=9f7bc28b3d319bd1ddba6515658664ca&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&pp=1
 东方卫视,https://migu.777189.xyz/?migutoken=6031a8b85754153dbdaf7c0edb4b9428&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&pp=1
@@ -170,7 +78,7 @@ CETV4,http://php.666230.xyz/gzyx.php?channel=CETV4_1
 数字频道,#genre#
 重温经典,https://migu.777189.xyz/?migutoken=992416665552f0eda4852f2467a44f29&id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&pp=1
 
-凤凰中文,http://php.666230.xyz/gzyx.php?channel=FHZW
+ 
 
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
