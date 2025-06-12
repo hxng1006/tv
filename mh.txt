@@ -1,22 +1,37 @@
 央视频道,#genre#
-CCTV1,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-1-CQ/1.m3u8?m3u8_level=2
-CCTV2,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-2-CQ/1.m3u8?m3u8_level=2
-CCTV3,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-3-CQ/1.m3u8?m3u8_level=2
-CCTV4,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-4-CQ/1.m3u8?m3u8_level=2
-CCTV5,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-5-CQ/1.m3u8?m3u8_level=2
-CCTV5+,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-5PLUS-CQ/1.m3u8?m3u8_level=2
-CCTV6,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-6-CQ/1.m3u8?m3u8_level=2
-CCTV7,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-7-CQ/1.m3u8?m3u8_level=2
-CCTV8,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-8-CQ/1.m3u8?m3u8_level=2
-CCTV9,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-9-CQ/1.m3u8?m3u8_level=2
-CCTV10,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-10-CQ/1.m3u8?m3u8_level=2
-CCTV11,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-11-HQ/1.m3u8?m3u8_level=2
-CCTV12,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-12-CQ/1.m3u8?m3u8_level=2
-CCTV13,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-13-CQ/1.m3u8?m3u8_level=2
-CCTV14,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-14-CQ/1.m3u8?m3u8_level=2
-CCTV15,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-15-HQ/1.m3u8?m3u8_level=2
-CCTV16,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-16-CQ/1.m3u8?m3u8_level=2
-CCTV17,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-17-CQ/1.m3u8?m3u8_level=2
+CCTV1,http://php.666230.xyz/gzyx.php?channel=CCTV1_1
+CCTV1,http://php.666230.xyz/gzyx.php?channel=CCTV1_2
+CCTV2,http://php.666230.xyz/gzyx.php?channel=CCTV2_1
+CCTV2,http://php.666230.xyz/gzyx.php?channel=CCTV2_2
+CCTV3,http://php.666230.xyz/gzyx.php?channel=CCTV3_1
+CCTV3,http://php.666230.xyz/gzyx.php?channel=CCTV3_2
+CCTV4,http://php.666230.xyz/gzyx.php?channel=CCTV4_1
+CCTV4,http://php.666230.xyz/gzyx.php?channel=CCTV4_2
+CCTV5,http://php.666230.xyz/gzyx.php?channel=CCTV5_1
+CCTV5,http://php.666230.xyz/gzyx.php?channel=CCTV5_2
+CCTV5+,http://php.666230.xyz/gzyx.php?channel=CCTV5P_1
+CCTV5+,http://php.666230.xyz/gzyx.php?channel=CCTV5P_2
+CCTV6,http://php.666230.xyz/gzyx.php?channel=CCTV6_1
+CCTV6,http://php.666230.xyz/gzyx.php?channel=CCTV6_2
+CCTV7,http://php.666230.xyz/gzyx.php?channel=CCTV7_1
+CCTV7,http://php.666230.xyz/gzyx.php?channel=CCTV7_2
+CCTV8,http://php.666230.xyz/gzyx.php?channel=CCTV8_1
+CCTV8,http://php.666230.xyz/gzyx.php?channel=CCTV8_2
+CCTV9,http://php.666230.xyz/gzyx.php?channel=CCTV9_1
+CCTV9,http://php.666230.xyz/gzyx.php?channel=CCTV9_2
+CCTV10,http://php.666230.xyz/gzyx.php?channel=CCTV10_1
+CCTV10,http://php.666230.xyz/gzyx.php?channel=CCTV10_2
+CCTV11,http://php.666230.xyz/gzyx.php?channel=CCTV11_1
+CCTV11,http://php.666230.xyz/gzyx.php?channel=CCTV11_2
+CCTV12,http://php.666230.xyz/gzyx.php?channel=CCTV12_1
+CCTV12,http://php.666230.xyz/gzyx.php?channel=CCTV12_2
+CCTV13,http://php.666230.xyz/gzyx.php?channel=CCTV13_1
+CCTV13,http://php.666230.xyz/gzyx.php?channel=CCTV13_2
+CCTV14,http://php.666230.xyz/gzyx.php?channel=CCTV14_1
+CCTV14,http://php.666230.xyz/gzyx.php?channel=CCTV14_2
+CCTV15,http://php.666230.xyz/gzyx.php?channel=CCTV15_1
+CCTV15,http://php.666230.xyz/gzyx.php?channel=CCTV15_2
+CCTV17,http://php.666230.xyz/gzyx.php?channel=CCTV17_1 
 
 CCTV-1 综合,https://migu.777189.xyz/?migutoken=2b2f394a31c7853be7da6a476a4d2266&id=CCTV1&pp=1
 CCTV-2 财经,https://migu.777189.xyz/?migutoken=83bf5aa61b2630289472710150872e82&id=CCTV2&pp=1
@@ -50,54 +65,66 @@ CCTV-14 少儿,http://39.137.75.234/000000001000/1000000001000021349/index.m3u8?
 CCTV-15 音乐,http://39.137.75.234/000000001000/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=no
 CCTV-16 奥林匹克,http://39.137.75.230/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=no
 CCTV-17 农业农村,http://39.137.75.234/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=no
-
-
  
-CCTV4k,ttp://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CCTV-4K-HD/1.m3u8?m3u8_level=2
-
-CETV1,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CETV-1-HQ/1.m3u8?m3u8_level=2
-CETV2,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CETV-2/1.m3u8?m3u8_level=2
-CETV3,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CETV-3/1.m3u8?m3u8_level=2
-CETV4,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CETV-4/1.m3u8?m3u8_level=2
-
-
+CETV1,http://php.666230.xyz/gzyx.php?channel=CETV1_1
+CETV1,http://php.666230.xyz/gzyx.php?channel=CETV1_2
+CETV4,http://php.666230.xyz/gzyx.php?channel=CETV4_1
 
  卫视频道,#genre#
-北京卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_BEIJING-MD/1.m3u8?m3u8_level=2
-东方卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_DONGFANG-MD/1.m3u8?m3u8_level=2
-江苏卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JIANGSU-CQ/1.m3u8?m3u8_level=2
-浙江卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_ZHEJIANG-CQ/1.m3u8?m3u8_level=2
-湖南卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_HUNAN-CQ/1.m3u8?m3u8_level=2
-辽宁卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_LIAONING-MD/1.m3u8?m3u8_level=2
-天津卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_TIANJIN-HD-265-8M/1.m3u8?m3u8_level=2
-深圳卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_SHENZHEN-MD/1.m3u8?m3u8_level=2
-安徽卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_ANHUI-HD-265-8M/1.m3u8?m3u8_level=2
-广东卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_GUANGDONG-MD/1.m3u8?m3u8_level=2
-山东卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_SHANDONG-HD-265-8M/1.m3u8?m3u8_level=2
-贵州卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_GUIZHOU-CQ/1.m3u8?m3u8_level=2
-黑龙江卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_HEILONGJIANG-MD/1.m3u8?m3u8_level=2
-河北卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_HEBEI-CQ/1.m3u8?m3u8_level=2
-东南卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_DONGNAN-HQ/1.m3u8?m3u8_level=2
-湖北卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_HUBEI-HD-265-8M/1.m3u8?m3u8_level=2
-重庆卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CHONGQING-CQ/1.m3u8?m3u8_level=2
-云南卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_YUNNAN-HQ/1.m3u8?m3u8_level=2
-海南卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_HAINAN-HQ/1.m3u8?m3u8_level=2
-陕西卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_SHANXI/1.m3u8?m3u8_level=2
-青海卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_QINGHAI/1.m3u8?m3u8_level=2
-河南卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_HENAN-CQ/1.m3u8?m3u8_level=2
-山西卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/SXWS/1.m3u8?m3u8_level=2
-内蒙古卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_NEIMENGGU/1.m3u8?m3u8_level=2
-江西卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JIANGXI-CQ/1.m3u8?m3u8_level=2
-广西卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_GUANGXI-HQ/1.m3u8?m3u8_level=2
-西藏卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_XIZANG/1.m3u8?m3u8_level=2
-四川卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_SICHUAN-CQ/1.m3u8?m3u8_level=2
-兵团卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_BINGTUAN/1.m3u8?m3u8_level=2
-甘肃卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_GANSU-HQ/1.m3u8?m3u8_level=2
-新疆卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_XINJIANG/1.m3u8?m3u8_level=2
-宁夏卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_NINGXIA/1.m3u8?m3u8_level=2
-三沙卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_SANSHA-HQ/1.m3u8?m3u8_level=2
-吉林卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JILIN-CQ/1.m3u8?m3u8_level=2
-大湾区卫视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_NANFANG/1.m3u8?m3u8_level=2
+北京卫视,http://php.666230.xyz/gzyx.php?channel=BJWS
+北京卫视,http://php.666230.xyz/gzyx.php?channel=BJWS2
+广东卫视,http://php.666230.xyz/gzyx.php?channel=GDSW
+广东卫视,http://php.666230.xyz/gzyx.php?channel=GDSW2
+大湾区卫视,http://php.666230.xyz/gzyx.php?channel=DQBSW
+大湾区卫视,http://php.666230.xyz/gzyx.php?channel=DQBSW2
+湖南卫视,http://php.666230.xyz/gzyx.php?channel=HNSW
+湖南卫视,http://php.666230.xyz/gzyx.php?channel=HNSW2
+海南卫视,http://php.666230.xyz/gzyx.php?channel=HNSW3  
+海南卫视,http://php.666230.xyz/gzyx.php?channel=HNSW4  
+河北卫视,http://php.666230.xyz/gzyx.php?channel=HBWS  
+河北卫视,http://php.666230.xyz/gzyx.php?channel=HBWS2  
+云南卫视,http://php.666230.xyz/gzyx.php?channel=YNSW  
+云南卫视,http://php.666230.xyz/gzyx.php?channel=YNSW2  
+深圳卫视,http://php.666230.xyz/gzyx.php?channel=SZSW  
+深圳卫视,http://php.666230.xyz/gzyx.php?channel=SZSW2 
+ 江苏卫视,http://php.666230.xyz/gzyx.php?channel=JSWS  
+江苏卫视,http://php.666230.xyz/gzyx.php?channel=JSWS2  
+东方卫视,http://php.666230.xyz/gzyx.php?channel=DFWS  
+东方卫视,http://php.666230.xyz/gzyx.php?channel=DFWS2  
+山东卫视,http://php.666230.xyz/gzyx.php?channel=SDWS  
+山东卫视,http://php.666230.xyz/gzyx.php?channel=SDWS2  
+浙江卫视,http://php.666230.xyz/gzyx.php?channel=ZJWS  
+浙江卫视,http://php.666230.xyz/gzyx.php?channel=ZJWS2  
+江西卫视,http://php.666230.xyz/gzyx.php?channel=JXWS 
+江西卫视,http://php.666230.xyz/gzyx.php?channel=JXWS2 
+贵州卫视,http://php.666230.xyz/gzyx.php?channel=GZWS  
+贵州卫视,http://php.666230.xyz/gzyx.php?channel=GZWS2  
+吉林卫视,http://php.666230.xyz/gzyx.php?channel=JLWS  
+吉林卫视,http://php.666230.xyz/gzyx.php?channel=JLWS2  
+天津卫视,http://php.666230.xyz/gzyx.php?channel=TJWS  天
+津卫视,http://php.666230.xyz/gzyx.php?channel=TJWS2  
+安徽卫视,http://php.666230.xyz/gzyx.php?channel=AHWS  
+安徽卫视,http://php.666230.xyz/gzyx.php?channel=AHWS2  
+湖北卫视,http://php.666230.xyz/gzyx.php?channel=HBWS  
+湖北卫视,http://php.666230.xyz/gzyx.php?channel=HBWS2  
+四川卫视,http://php.666230.xyz/gzyx.php?channel=SCWS  
+四川卫视,http://php.666230.xyz/gzyx.php?channel=SCWS2  
+河南卫视,http://php.666230.xyz/gzyx.php?channel=HNWS  
+辽宁卫视,http://php.666230.xyz/gzyx.php?channel=LNWS  
+辽宁卫视,http://php.666230.xyz/gzyx.php?channel=LNWS2 
+ 重庆卫视,http://php.666230.xyz/gzyx.php?channel=CQWS  
+重庆卫视,http://php.666230.xyz/gzyx.php?channel=CQWS2 
+ 广西卫视,http://php.666230.xyz/gzyx.php?channel=GXWS  
+广西卫视,http://php.666230.xyz/gzyx.php?channel=GXWS2  
+青海卫视,http://php.666230.xyz/gzyx.php?channel=QHWS  
+黑龙江卫视,http://php.666230.xyz/gzyx.php?channel=HLJWS  
+三沙卫视,http://php.666230.xyz/gzyx.php?channel=SSWS  
+甘肃卫视,http://php.666230.xyz/gzyx.php?channel=GSWS  
+宁夏卫视,http://php.666230.xyz/gzyx.php?channel=NXWS  
+西藏卫视,http://php.666230.xyz/gzyx.php?channel=XZWS  
+新疆卫视,http://php.666230.xyz/gzyx.php?channel=XJWS  
+兵团卫视,http://php.666230.xyz/gzyx.php?channel=BTWS  
+山西卫视,http://php.666230.xyz/gzyx.php?channel=SXWS 
 
 浙江卫视,https://migu.777189.xyz/?migutoken=850cf4d146b21d6197baa3a83d2c1961&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 江苏卫视,https://migu.777189.xyz/?migutoken=9f7bc28b3d319bd1ddba6515658664ca&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&pp=1
@@ -141,8 +168,9 @@ CETV4,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CETV-4/1.m3u8?m3u8_
 
 
 数字频道,#genre#
-重温经典,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_CWJD-HQ/1.m3u8?m3u8_level=2
 重温经典,https://migu.777189.xyz/?migutoken=992416665552f0eda4852f2467a44f29&id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&pp=1
+
+凤凰中文,http://php.666230.xyz/gzyx.php?channel=FHZW
 
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
@@ -182,13 +210,6 @@ CHC影迷电影,https://migu.777189.xyz/?migutoken=e2a472b030398f6677e42b46212e0
 炫舞未来,http://39.137.75.230/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=no
 
 本地频道,#genre#
-江苏新闻,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSGG/1.m3u8?m3u8_level=2
-江苏城市,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSCS/1.m3u8?m3u8_level=2
-江苏综艺,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSZY/1.m3u8?m3u8_level=2
-江苏影视,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSYS/1.m3u8?m3u8_level=2
-江苏教育,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSJY/1.m3u8?m3u8_level=2
-江苏体育休闲,http://yinhelive.zhongping.jsinfo.net:6060/gitv_live/G_JSTY/1.m3u8?m3u8_level=2
-
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
