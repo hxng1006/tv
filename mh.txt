@@ -136,10 +136,10 @@ CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 
-体育休闲频道,http://xcymail.cn:35455/mgtv/626064707.m3u8
+江苏体育休闲频道,http://xcymail.cn:35455/mgtv/626064707.m3u8
 江苏城市频道,http://xcymail.cn:35455/mgtv/626064714.m3u8
 江苏国际,http://xcymail.cn:35455/mgtv/626064674.m3u8
 江苏教育,http://xcymail.cn:35455/mgtv/628008321.m3u8
 江苏影视频道,http://xcymail.cn:35455/mgtv/626064697.m3u8
 江苏综艺频道,http://xcymail.cn:35455/mgtv/626065193.m3u8
-公共新闻频道,http://xcymail.cn:35455/mgtv/626064693.m3u8
+江苏新闻频道,http://xcymail.cn:35455/mgtv/626064693.m3u8
