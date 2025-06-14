@@ -56,9 +56,6 @@ CCTV15,http://119.125.130.142:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-CHC家庭影院,https://migu.777189.xyz/?migutoken=b33cddcca0ef792f2e0e3a41cf0d39ce&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
-CHC动作电影,https://migu.777189.xyz/?migutoken=54001101eb1ebc9235e1ca71b31216bc&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
-CHC影迷电影,https://migu.777189.xyz/?migutoken=e2a472b030398f6677e42b46212e08c0&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
 
 卡酷少儿,http://39.137.75.230/000000001000/1000000002000002413/index.m3u8?channel-id=ystenlive&Contentid=1000000002000002413&livemode=1&stbId=no
 金鹰卡通,http://39.137.75.234/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=no
