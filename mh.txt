@@ -19,6 +19,7 @@ CCTV14,http://xcymail.cn:35455/mgtv/624878440.m3u8
 CCTV15,http://xcymail.cn:35455/mgtv/673168223.m3u8
 CCTV16,http://xcymail.cn:35455/nptv/cctv16.m3u8
 CCTV17,http://xcymail.cn:35455/mgtv/673168256.m3u8
+
 CETV1,http://xcymail.cn:35455/mgtv/923287154.m3u8
 CETV2,http://xcymail.cn:35455/mgtv/923287211.m3u8
 CETV4,http://xcymail.cn:35455/mgtv/923287339.m3u8
@@ -41,9 +42,7 @@ CCTV14,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
 CCTV15,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
 CCTV16,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
 CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
-CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
-CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
-CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
+ 
 
 卫视频道,#genre#
 东方卫视,http://xcymail.cn:35455/mgtv/651632648.m3u8
