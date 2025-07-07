@@ -225,5 +225,3 @@ CETV1,http://227w9f5104.zicp.fun:35455/nptv/cetv1.m3u8
 宜兴新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/955227996.m3u8
 苏州新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/639731952.m3u8
 溧水新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/639737327.m3u8
- 
- 
