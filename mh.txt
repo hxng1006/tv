@@ -1,4 +1,24 @@
 央视,#genre#
+CCTV-1 综合,https://migu.188766.xyz/?migutoken=03dcb84665dd964a888e4a3e6e6774d2&id=CCTV1&pp=1
+CCTV-2 财经,https://migu.188766.xyz/?migutoken=4ff173bb5388bd54abdbbccbc7a36a7d&id=CCTV2&pp=1
+CCTV-3 综艺,https://migu.188766.xyz/?migutoken=e3cb5bd401fd76262d23b96cea6acd8b&id=CCTV3&pp=1
+CCTV-4 中文国际,https://migu.188766.xyz/?migutoken=bb0289b15c669dd3f93430f10776e8df&id=CCTV4&pp=1
+CCTV-5 体育,https://migu.188766.xyz/?migutoken=6c7b1a3abfca70d71074056e161456a8&id=CCTV5&pp=1
+CCTV-5+ 体育赛事,https://migu.188766.xyz/?migutoken=c0782695129cad5146408a8187461945&id=CCTV5p&pp=1
+CCTV-6 电影,https://migu.188766.xyz/?migutoken=140d6c77590db934c05c7af4f51e7fcc&id=CCTV6&pp=1
+CCTV-7 国防军事,https://migu.188766.xyz/?migutoken=43dfb95bec8f50088f3bbae19ac1df21&id=CCTV7&pp=1
+CCTV-8 电视剧,https://migu.188766.xyz/?migutoken=96526647191d736e7d690f165e1b58ce&id=CCTV8&pp=1
+CCTV-9 纪录,https://migu.188766.xyz/?migutoken=626c9f34e92df332c81f1dc6a1196009&id=CCTV9&pp=1
+CCTV-10 科教,https://migu.188766.xyz/?migutoken=dce6e0600f9b24bad9bc10bf5f96e54b&id=CCTV10&pp=1
+CCTV-11 戏曲,https://migu.188766.xyz/?migutoken=0ac0d59e15d79590768977ee2c9efcb1&id=CCTV11&pp=1
+CCTV-12 社会与法,https://migu.188766.xyz/?migutoken=0b4e490b299b6ad84eda0c3f0f951871&id=CCTV12&pp=1
+CCTV-13 新闻,https://migu.188766.xyz/?migutoken=e6bcb58606392b897575b175e59699f8&id=CCTV13&pp=1
+CCTV-14 少儿,https://migu.188766.xyz/?migutoken=5d4b884bb146b42f39ff25a18b9f64c6&id=CCTV14&pp=1
+CCTV-15 音乐,https://migu.188766.xyz/?migutoken=53a998d446e8e143135d05bb5b3d4e9d&id=CCTV15&pp=1
+CCTV-16 奥林匹克,https://migu.188766.xyz/?migutoken=af3a2c1d9f4cfb3b56a9c0ebf00a359a&id=CCTV16&pp=1
+CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=c2f29f87f8b1699fdd667d8a9bf29059&id=CCTV17&pp=1
+
+
 CCTV1综合,http://222.186.39.21:35466/mgtv/608807420.m3u8
 CCTV2财经,http://222.186.39.21:35466/mgtv/631780532.m3u8
 CCTV3综艺,http://222.186.39.21:35466/mgtv/624878271.m3u8
@@ -71,6 +91,22 @@ CETV1,http://227w9f5104.zicp.fun:35455/nptv/cetv1.m3u8
 
 
 卫视,#genre#
+湖南卫视,https://migu.188766.xyz/?migutoken=41fd4c1c931cdac01b83141474adb06b&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&pp=1
+浙江卫视,https://migu.188766.xyz/?migutoken=2d468b3ae66f13d09edc6b18e14d2506&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+江苏卫视,https://migu.188766.xyz/?migutoken=72420aab3a2bf931f546764762007c31&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+东方卫视,https://migu.188766.xyz/?migutoken=3f3d1c245705951e0efe5bb44443c495&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&pp=1
+北京卫视,https://migu.188766.xyz/?migutoken=a58373c86608af80dc9f29c836014f0b&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
+深圳卫视,https://migu.188766.xyz/?migutoken=748d3d983664413fd5616138b2f826b4&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+广东卫视,https://migu.188766.xyz/?migutoken=9111cb22ca0924f887d6cd1d5c672c61&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
+内蒙古卫视,https://migu.188766.xyz/?migutoken=cd22d465c16dcc602fd0b0220e9f4294&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+东南卫视,https://migu.188766.xyz/?migutoken=05e971198798f0a69838b65df622adbc&id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+江西卫视,https://migu.188766.xyz/?migutoken=c23110b61b6452dae3e509fe3813173f&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
+陕西卫视,https://migu.188766.xyz/?migutoken=ab5bf625839ece239bb00382823465bb&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
+湖北卫视,https://migu.188766.xyz/?migutoken=eca934594f3f6921c02b09c72d38fae1&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1
+海峡卫视,https://migu.188766.xyz/?migutoken=a1502bc1028ae838fb6ec164b3399aed&id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&type=yy
+新疆卫视,https://migu.188766.xyz/?migutoken=1f1256c2bd05173fda863b1f9b165a28&id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&pp=1
+西藏卫视,https://migu.188766.xyz/?migutoken=7116e6b1e344d32f0001af86053004ed&id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&pp=1
+
 东方卫视,http://222.186.39.21:35466/mgtv/651632648.m3u8
 江苏卫视,http://222.186.39.21:35466/mgtv/623899368.m3u8
 广东卫视,http://222.186.39.21:35466/mgtv/608831231.m3u8
@@ -167,6 +203,11 @@ CETV1,http://227w9f5104.zicp.fun:35455/nptv/cetv1.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 香港频道,#genre#
+凤凰中文,https://migu.188766.xyz/?migutoken=6326b712b385626555d80bf9ed121a6d&id=fhzw&pp=1
+凤凰资讯,https://migu.188766.xyz/?migutoken=fa19cf994431c8340f4dd12a60045ce0&id=fhzx&pp=1
+凤凰香港,https://migu.188766.xyz/?migutoken=f55a92a685ecb499ce72a52b77dc20da&id=fhhk&pp=1
+翡翠台,https://migu.188766.xyz/?migutoken=e29bf20117643e62f90866ab07cb17bc&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
+
 翡翠台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
 凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
