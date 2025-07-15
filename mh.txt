@@ -1,48 +1,43 @@
 央视,#genre#
-CCTV-1 综合,https://migu.188766.xyz/?migutoken=03dcb84665dd964a888e4a3e6e6774d2&id=CCTV1&pp=1
-CCTV-2 财经,https://migu.188766.xyz/?migutoken=4ff173bb5388bd54abdbbccbc7a36a7d&id=CCTV2&pp=1
-CCTV-3 综艺,https://migu.188766.xyz/?migutoken=e3cb5bd401fd76262d23b96cea6acd8b&id=CCTV3&pp=1
-CCTV-4 中文国际,https://migu.188766.xyz/?migutoken=bb0289b15c669dd3f93430f10776e8df&id=CCTV4&pp=1
-CCTV-5 体育,https://migu.188766.xyz/?migutoken=6c7b1a3abfca70d71074056e161456a8&id=CCTV5&pp=1
-CCTV-5+ 体育赛事,https://migu.188766.xyz/?migutoken=c0782695129cad5146408a8187461945&id=CCTV5p&pp=1
-CCTV-6 电影,https://migu.188766.xyz/?migutoken=140d6c77590db934c05c7af4f51e7fcc&id=CCTV6&pp=1
-CCTV-7 国防军事,https://migu.188766.xyz/?migutoken=43dfb95bec8f50088f3bbae19ac1df21&id=CCTV7&pp=1
-CCTV-8 电视剧,https://migu.188766.xyz/?migutoken=96526647191d736e7d690f165e1b58ce&id=CCTV8&pp=1
-CCTV-9 纪录,https://migu.188766.xyz/?migutoken=626c9f34e92df332c81f1dc6a1196009&id=CCTV9&pp=1
-CCTV-10 科教,https://migu.188766.xyz/?migutoken=dce6e0600f9b24bad9bc10bf5f96e54b&id=CCTV10&pp=1
-CCTV-11 戏曲,https://migu.188766.xyz/?migutoken=0ac0d59e15d79590768977ee2c9efcb1&id=CCTV11&pp=1
-CCTV-12 社会与法,https://migu.188766.xyz/?migutoken=0b4e490b299b6ad84eda0c3f0f951871&id=CCTV12&pp=1
-CCTV-13 新闻,https://migu.188766.xyz/?migutoken=e6bcb58606392b897575b175e59699f8&id=CCTV13&pp=1
-CCTV-14 少儿,https://migu.188766.xyz/?migutoken=5d4b884bb146b42f39ff25a18b9f64c6&id=CCTV14&pp=1
-CCTV-15 音乐,https://migu.188766.xyz/?migutoken=53a998d446e8e143135d05bb5b3d4e9d&id=CCTV15&pp=1
-CCTV-16 奥林匹克,https://migu.188766.xyz/?migutoken=af3a2c1d9f4cfb3b56a9c0ebf00a359a&id=CCTV16&pp=1
-CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=c2f29f87f8b1699fdd667d8a9bf29059&id=CCTV17&pp=1
+CCTV-1,http://59.174.90.97:5555/bst/cctv1hd
+CCTV-2,http://59.174.90.97:5555/bst/cctv2hd8m
+CCTV-3,http://59.174.90.97:5555/bst/cctv3hd
+CCTV-4,http://59.174.90.97:5555/bst/cctv4hd4m
+CCTV-5,http://59.174.90.97:5555/bst/cctv5hd
+CCTV-5+,http://59.174.90.97:5555/bst/cctv5phd
+CCTV-6,http://59.174.90.97:5555/bst/cctv6hd
+CCTV-7,http://59.174.90.97:5555/bst/cctv7hd4m
+CCTV-8,http://59.174.90.97:5555/bst/cctv8hd
+CCTV-9,http://59.174.90.97:5555/bst/cctv9hd4mc
+CCTV-10,http://59.174.90.97:5555/bst/cctv10hd
+CCTV-11,http://59.174.90.97:5555/bst/cctv11hd4m
+CCTV-12,http://59.174.90.97:5555/bst/cctv12hd4m
+CCTV-13,http://59.174.90.97:5555/bst/cctv13hd4m
+CCTV-14,http://59.174.90.97:5555/bst/cctvsehd
+CCTV-15,http://59.174.90.97:5555/bst/cctvyyhd4m
+CCTV-16,http://59.174.90.97:5555/bst/cctv16hd4m
+CCTV-17,http://59.174.90.97:5555/bst/cctv17hd4m
 
 
-CCTV1综合,http://222.186.39.21:35466/mgtv/608807420.m3u8
-CCTV2财经,http://222.186.39.21:35466/mgtv/631780532.m3u8
-CCTV3综艺,http://222.186.39.21:35466/mgtv/624878271.m3u8
-CCTV4中文国际,http://222.186.39.21:35466/mgtv/631780421.m3u8
-CCTV5体育,http://222.186.39.21:35466/mgtv/641886683.m3u8
-CCTV5+体育赛事,http://222.186.39.21:35466/mgtv/641886773.m3u8
-CCTV6电影,http://222.186.39.21:35466/mgtv/624878396.m3u8
-CCTV7国防军事,http://222.186.39.21:35466/mgtv/673168121.m3u8
-CCTV8电视剧,http://222.186.39.21:35466/mgtv/624878356.m3u8
-CCTV9纪录,http://222.186.39.21:35466/mgtv/673168140.m3u8
-CCTV10科教,http://222.186.39.21:35466/mgtv/624878405.m3u8
-CCTV11戏曲,http://222.186.39.21:35466/mgtv/667987558.m3u8
-CCTV12社会与法,http://222.186.39.21:35466/mgtv/673168185.m3u8
-CCTV13新闻,http://222.186.39.21:35466/mgtv/608807423.m3u8
-CCTV14少儿,http://222.186.39.21:35466/mgtv/624878440.m3u8
-CCTV15音乐,http://222.186.39.21:35466/mgtv/673168223.m3u8
-CCTV17农业农村,http://222.186.39.21:35466/mgtv/673168256.m3u8
-CCTV4欧洲,http://222.186.39.21:35466/mgtv/608807419.m3u8
-CCTV4美洲,http://222.186.39.21:35466/mgtv/608807416.m3u8
-CGTN外语纪录,http://222.186.39.21:35466/mgtv/609006487.m3u8
-CGTN阿拉伯语,http://222.186.39.21:35466/mgtv/609154345.m3u8
-CGTN西班牙语,http://222.186.39.21:35466/mgtv/609006450.m3u8
-CGTN法语,http://222.186.39.21:35466/mgtv/609006476.m3u8 
-CGTN俄语,http://222.186.39.21:35466/mgtv/609006446.m3u8
+CCTV-1,https://migu.188766.xyz/?migutoken=03dcb84665dd964a888e4a3e6e6774d2&id=CCTV1&pp=1
+CCTV-2,https://migu.188766.xyz/?migutoken=4ff173bb5388bd54abdbbccbc7a36a7d&id=CCTV2&pp=1
+CCTV-3,https://migu.188766.xyz/?migutoken=e3cb5bd401fd76262d23b96cea6acd8b&id=CCTV3&pp=1
+CCTV-4,https://migu.188766.xyz/?migutoken=bb0289b15c669dd3f93430f10776e8df&id=CCTV4&pp=1
+CCTV-5,https://migu.188766.xyz/?migutoken=6c7b1a3abfca70d71074056e161456a8&id=CCTV5&pp=1
+CCTV-5+,https://migu.188766.xyz/?migutoken=c0782695129cad5146408a8187461945&id=CCTV5p&pp=1
+CCTV-6,https://migu.188766.xyz/?migutoken=140d6c77590db934c05c7af4f51e7fcc&id=CCTV6&pp=1
+CCTV-7,https://migu.188766.xyz/?migutoken=43dfb95bec8f50088f3bbae19ac1df21&id=CCTV7&pp=1
+CCTV-8,https://migu.188766.xyz/?migutoken=96526647191d736e7d690f165e1b58ce&id=CCTV8&pp=1
+CCTV-9,https://migu.188766.xyz/?migutoken=626c9f34e92df332c81f1dc6a1196009&id=CCTV9&pp=1
+CCTV-10,https://migu.188766.xyz/?migutoken=dce6e0600f9b24bad9bc10bf5f96e54b&id=CCTV10&pp=1
+CCTV-11,https://migu.188766.xyz/?migutoken=0ac0d59e15d79590768977ee2c9efcb1&id=CCTV11&pp=1
+CCTV-12,https://migu.188766.xyz/?migutoken=0b4e490b299b6ad84eda0c3f0f951871&id=CCTV12&pp=1
+CCTV-13,https://migu.188766.xyz/?migutoken=e6bcb58606392b897575b175e59699f8&id=CCTV13&pp=1
+CCTV-14,https://migu.188766.xyz/?migutoken=5d4b884bb146b42f39ff25a18b9f64c6&id=CCTV14&pp=1
+CCTV-15,https://migu.188766.xyz/?migutoken=53a998d446e8e143135d05bb5b3d4e9d&id=CCTV15&pp=1
+CCTV-16,https://migu.188766.xyz/?migutoken=af3a2c1d9f4cfb3b56a9c0ebf00a359a&id=CCTV16&pp=1
+CCTV-17,https://migu.188766.xyz/?migutoken=c2f29f87f8b1699fdd667d8a9bf29059&id=CCTV17&pp=1
+
 老故事,http://222.186.39.21:35466/mgtv/884121956.m3u8
 发现之旅,http://222.186.39.21:35466/mgtv/624878970.m3u8
 中学生,http://222.186.39.21:35466/mgtv/708869532.m3u8
@@ -54,29 +49,27 @@ cctv8k,http://222.186.39.21:35466/nptv/cctv8k.m3u8
 风云剧场,http://222.186.39.21:35466/nptv/fyjc.m3u8
 怀旧剧场,http://222.186.39.21:35466/nptv/hjjc.m3u8
 
-CCTV1,http://227w9f5104.zicp.fun:35455/mgtv/608807420.m3u8
-CCTV2,http://227w9f5104.zicp.fun:35455/mgtv/631780532.m3u8
-CCTV3,http://227w9f5104.zicp.fun:35455/mgtv/624878271.m3u8
-CCTV4,http://227w9f5104.zicp.fun:35455/mgtv/631780421.m3u8
-CCTV4,http://227w9f5104.zicp.fun:35455/mgtv/608807419.m3u8
-CCTV4,http://227w9f5104.zicp.fun:35455/mgtv/608807416.m3u8
-CCTV5,http://227w9f5104.zicp.fun:35455/mgtv/641886683.m3u8
-CCTV5+,http://227w9f5104.zicp.fun:35455/mgtv/641886773.m3u8
-CCTV6,http://227w9f5104.zicp.fun:35455/mgtv/624878396.m3u8
-CCTV7,http://227w9f5104.zicp.fun:35455/mgtv/673168121.m3u8
-CCTV8,http://227w9f5104.zicp.fun:35455/mgtv/624878356.m3u8
-CCTV9,http://227w9f5104.zicp.fun:35455/mgtv/673168140.m3u8
-CCTV10,http://227w9f5104.zicp.fun:35455/mgtv/624878405.m3u8
-CCTV11,http://227w9f5104.zicp.fun:35455/mgtv/667987558.m3u8
-CCTV12,http://227w9f5104.zicp.fun:35455/mgtv/673168185.m3u8
-CCTV13,http://227w9f5104.zicp.fun:35455/mgtv/608807423.m3u8
-CCTV14,http://227w9f5104.zicp.fun:35455/mgtv/624878440.m3u8
-CCTV15,http://227w9f5104.zicp.fun:35455/mgtv/673168223.m3u8
-CCTV17,http://227w9f5104.zicp.fun:35455/mgtv/673168256.m3u8
+CCTV-1,http://227w9f5104.zicp.fun:35455/mgtv/608807420.m3u8
+CCTV-2,http://227w9f5104.zicp.fun:35455/mgtv/631780532.m3u8
+CCTV-3,http://227w9f5104.zicp.fun:35455/mgtv/624878271.m3u8
+CCTV-4,http://227w9f5104.zicp.fun:35455/mgtv/631780421.m3u8
+CCTV-5,http://227w9f5104.zicp.fun:35455/mgtv/641886683.m3u8
+CCTV-5+,http://227w9f5104.zicp.fun:35455/mgtv/641886773.m3u8
+CCTV-6,http://227w9f5104.zicp.fun:35455/mgtv/624878396.m3u8
+CCTV-7,http://227w9f5104.zicp.fun:35455/mgtv/673168121.m3u8
+CCTV-8,http://227w9f5104.zicp.fun:35455/mgtv/624878356.m3u8
+CCTV-9,http://227w9f5104.zicp.fun:35455/mgtv/673168140.m3u8
+CCTV-10,http://227w9f5104.zicp.fun:35455/mgtv/624878405.m3u8
+CCTV-11,http://227w9f5104.zicp.fun:35455/mgtv/667987558.m3u8
+CCTV-12,http://227w9f5104.zicp.fun:35455/mgtv/673168185.m3u8
+CCTV-13,http://227w9f5104.zicp.fun:35455/mgtv/608807423.m3u8
+CCTV-14,http://227w9f5104.zicp.fun:35455/mgtv/624878440.m3u8
+CCTV-15,http://227w9f5104.zicp.fun:35455/mgtv/673168223.m3u8
+CCTV-17,http://227w9f5104.zicp.fun:35455/mgtv/673168256.m3u8
 CETV1,http://227w9f5104.zicp.fun:35455/mgtv/923287154.m3u8
 CETV2,http://227w9f5104.zicp.fun:35455/mgtv/923287211.m3u8
 CETV4,http://227w9f5104.zicp.fun:35455/mgtv/923287339.m3u8
-CCTV16,http://227w9f5104.zicp.fun:35455/nptv/cctv16.m3u8
+CCTV-16,http://227w9f5104.zicp.fun:35455/nptv/cctv16.m3u8
 CCTV4K,http://227w9f5104.zicp.fun:35455/nptv/cctv4k.m3u8
 CCTV8K,http://227w9f5104.zicp.fun:35455/nptv/cctv8k.m3u8
 CETV1,http://227w9f5104.zicp.fun:35455/nptv/cetv1.m3u8
@@ -91,6 +84,41 @@ CETV1,http://227w9f5104.zicp.fun:35455/nptv/cetv1.m3u8
 
 
 卫视,#genre#
+东方卫视,http://59.174.90.97:5555/bst/hddfws
+河北卫视,http://59.174.90.97:5555/bst/hbwshd4m
+浙江卫视,http://59.174.90.97:5555/bst/zjwshd
+北京卫视,http://59.174.90.97:5555/bst/bjwshd
+江苏卫视,http://59.174.90.97:5555/bst/jswshd
+天津卫视,http://59.174.90.97:5555/bst/tjwshd
+湖南卫视,http://59.174.90.97:5555/bst/hnwshd 
+山东卫视,http://59.174.90.97:5555/bst/sdwshd
+东南卫视,http://59.174.90.97:5555/bst/dnwshd
+安徽卫视,http://59.174.90.97:5555/bst/ahwshd
+湖北卫视,http://59.174.90.97:5555/bst/hbwshd
+甘肃卫视,http://59.174.90.97:5555/bst/gswshd4m
+广东卫视,http://59.174.90.97:5555/bst/gdwshd
+广西卫视,http://59.174.90.97:5555/bst/gxwshd4m
+贵州卫视,http://59.174.90.97:5555/bst/gzwshd4m
+重庆卫视,http://59.174.90.97:5555/bst/cqwshd4m
+河南卫视,http://59.174.90.97:5555/bst/henwshd4m
+黑龙江卫视,http://59.174.90.97:5555/bst/hljwshd
+海南卫视,http://59.174.90.97:5555/bst/hainwshd4m
+吉林卫视,http://59.174.90.97:5555/bst/jlwshd4m
+江西卫视,http://59.174.90.97:5555/bst/jxwshd
+辽宁卫视,http://59.174.90.97:5555/bst/lnwshd
+深圳卫视,http://59.174.90.97:5555/bst/szwshd
+云南卫视,http://59.174.90.97:5555/bst/ynwshd4m
+四川卫视,http://59.174.90.97:5555/bst/scwshd4m
+山西卫视-BST,http://59.174.90.97:5555/bst/shanxiws
+陕西卫视-BST,http://59.174.90.97:5555/bst/sxws
+新疆卫视-BST,http://59.174.90.97:5555/bst/xjws
+安多卫视-BST,http://59.174.90.97:5555/bst/adws2d5m
+西藏卫视-BST,http://59.174.90.97:5555/bst/xzws
+兵团卫视-BST,http://59.174.90.97:5555/bst/btws
+内蒙古卫视-BST,http://59.174.90.97:5555/bst/nmgws
+宁夏卫视-BST,http://59.174.90.97:5555/bst/nxws
+青海卫视-BST,http://59.174.90.97:5555/bst/qhws
+
 湖南卫视,https://migu.188766.xyz/?migutoken=41fd4c1c931cdac01b83141474adb06b&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&pp=1
 浙江卫视,https://migu.188766.xyz/?migutoken=2d468b3ae66f13d09edc6b18e14d2506&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 江苏卫视,https://migu.188766.xyz/?migutoken=72420aab3a2bf931f546764762007c31&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
