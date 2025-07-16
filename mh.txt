@@ -1,242 +1,103 @@
-央视,#genre#
-
-CCTV-1,https://migu.188766.xyz/?migutoken=03dcb84665dd964a888e4a3e6e6774d2&id=CCTV1&pp=1
-CCTV-2,https://migu.188766.xyz/?migutoken=4ff173bb5388bd54abdbbccbc7a36a7d&id=CCTV2&pp=1
-CCTV-3,https://migu.188766.xyz/?migutoken=e3cb5bd401fd76262d23b96cea6acd8b&id=CCTV3&pp=1
-CCTV-4,https://migu.188766.xyz/?migutoken=bb0289b15c669dd3f93430f10776e8df&id=CCTV4&pp=1
-CCTV-5,https://migu.188766.xyz/?migutoken=6c7b1a3abfca70d71074056e161456a8&id=CCTV5&pp=1
-CCTV-5+,https://migu.188766.xyz/?migutoken=c0782695129cad5146408a8187461945&id=CCTV5p&pp=1
-CCTV-6,https://migu.188766.xyz/?migutoken=140d6c77590db934c05c7af4f51e7fcc&id=CCTV6&pp=1
-CCTV-7,https://migu.188766.xyz/?migutoken=43dfb95bec8f50088f3bbae19ac1df21&id=CCTV7&pp=1
-CCTV-8,https://migu.188766.xyz/?migutoken=96526647191d736e7d690f165e1b58ce&id=CCTV8&pp=1
-CCTV-9,https://migu.188766.xyz/?migutoken=626c9f34e92df332c81f1dc6a1196009&id=CCTV9&pp=1
-CCTV-10,https://migu.188766.xyz/?migutoken=dce6e0600f9b24bad9bc10bf5f96e54b&id=CCTV10&pp=1
-CCTV-11,https://migu.188766.xyz/?migutoken=0ac0d59e15d79590768977ee2c9efcb1&id=CCTV11&pp=1
-CCTV-12,https://migu.188766.xyz/?migutoken=0b4e490b299b6ad84eda0c3f0f951871&id=CCTV12&pp=1
-CCTV-13,https://migu.188766.xyz/?migutoken=e6bcb58606392b897575b175e59699f8&id=CCTV13&pp=1
-CCTV-14,https://migu.188766.xyz/?migutoken=5d4b884bb146b42f39ff25a18b9f64c6&id=CCTV14&pp=1
-CCTV-15,https://migu.188766.xyz/?migutoken=53a998d446e8e143135d05bb5b3d4e9d&id=CCTV15&pp=1
-CCTV-16,https://migu.188766.xyz/?migutoken=af3a2c1d9f4cfb3b56a9c0ebf00a359a&id=CCTV16&pp=1
-CCTV-17,https://migu.188766.xyz/?migutoken=c2f29f87f8b1699fdd667d8a9bf29059&id=CCTV17&pp=1
-
-老故事,http://222.186.39.21:35466/mgtv/884121956.m3u8
-发现之旅,http://222.186.39.21:35466/mgtv/624878970.m3u8
-中学生,http://222.186.39.21:35466/mgtv/708869532.m3u8
-CGTN,http://222.186.39.21:35466/mgtv/609017205.m3u8
-cctv16,http://222.186.39.21:35466/nptv/cctv16.m3u8
-cctv4k,http://222.186.39.21:35466/nptv/cctv4k.m3u8
-cctv8k,http://222.186.39.21:35466/nptv/cctv8k.m3u8
-第一剧场,http://222.186.39.21:35466/nptv/dyjc.m3u8
-风云剧场,http://222.186.39.21:35466/nptv/fyjc.m3u8
-怀旧剧场,http://222.186.39.21:35466/nptv/hjjc.m3u8
-
-CCTV-1,http://227w9f5104.zicp.fun:35455/mgtv/608807420.m3u8
-CCTV-2,http://227w9f5104.zicp.fun:35455/mgtv/631780532.m3u8
-CCTV-3,http://227w9f5104.zicp.fun:35455/mgtv/624878271.m3u8
-CCTV-4,http://227w9f5104.zicp.fun:35455/mgtv/631780421.m3u8
-CCTV-5,http://227w9f5104.zicp.fun:35455/mgtv/641886683.m3u8
-CCTV-5+,http://227w9f5104.zicp.fun:35455/mgtv/641886773.m3u8
-CCTV-6,http://227w9f5104.zicp.fun:35455/mgtv/624878396.m3u8
-CCTV-7,http://227w9f5104.zicp.fun:35455/mgtv/673168121.m3u8
-CCTV-8,http://227w9f5104.zicp.fun:35455/mgtv/624878356.m3u8
-CCTV-9,http://227w9f5104.zicp.fun:35455/mgtv/673168140.m3u8
-CCTV-10,http://227w9f5104.zicp.fun:35455/mgtv/624878405.m3u8
-CCTV-11,http://227w9f5104.zicp.fun:35455/mgtv/667987558.m3u8
-CCTV-12,http://227w9f5104.zicp.fun:35455/mgtv/673168185.m3u8
-CCTV-13,http://227w9f5104.zicp.fun:35455/mgtv/608807423.m3u8
-CCTV-14,http://227w9f5104.zicp.fun:35455/mgtv/624878440.m3u8
-CCTV-15,http://227w9f5104.zicp.fun:35455/mgtv/673168223.m3u8
-CCTV-17,http://227w9f5104.zicp.fun:35455/mgtv/673168256.m3u8
-CETV1,http://227w9f5104.zicp.fun:35455/mgtv/923287154.m3u8
-CETV2,http://227w9f5104.zicp.fun:35455/mgtv/923287211.m3u8
-CETV4,http://227w9f5104.zicp.fun:35455/mgtv/923287339.m3u8
-CCTV-16,http://227w9f5104.zicp.fun:35455/nptv/cctv16.m3u8
-CCTV4K,http://227w9f5104.zicp.fun:35455/nptv/cctv4k.m3u8
-CCTV8K,http://227w9f5104.zicp.fun:35455/nptv/cctv8k.m3u8
-CETV1,http://227w9f5104.zicp.fun:35455/nptv/cetv1.m3u8
-老故事,http://227w9f5104.zicp.fun:35455/mgtv/884121956.m3u8
-发现之旅,http://227w9f5104.zicp.fun:35455/mgtv/624878970.m3u8
-中学生,http://227w9f5104.zicp.fun:35455/mgtv/708869532.m3u8
-
-第一剧场,http://227w9f5104.zicp.fun:35455/nptv/dyjc.m3u8
-风云剧场,http://227w9f5104.zicp.fun:35455/nptv/fyjc.m3u8
-怀旧剧场,http://227w9f5104.zicp.fun:35455/nptv/hjjc.m3u8
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
 
-卫视,#genre#
-湖南卫视,https://migu.188766.xyz/?migutoken=41fd4c1c931cdac01b83141474adb06b&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&pp=1
-浙江卫视,https://migu.188766.xyz/?migutoken=2d468b3ae66f13d09edc6b18e14d2506&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
-江苏卫视,https://migu.188766.xyz/?migutoken=72420aab3a2bf931f546764762007c31&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
-东方卫视,https://migu.188766.xyz/?migutoken=3f3d1c245705951e0efe5bb44443c495&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&pp=1
-北京卫视,https://migu.188766.xyz/?migutoken=a58373c86608af80dc9f29c836014f0b&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
-深圳卫视,https://migu.188766.xyz/?migutoken=748d3d983664413fd5616138b2f826b4&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-广东卫视,https://migu.188766.xyz/?migutoken=9111cb22ca0924f887d6cd1d5c672c61&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
-内蒙古卫视,https://migu.188766.xyz/?migutoken=cd22d465c16dcc602fd0b0220e9f4294&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
-东南卫视,https://migu.188766.xyz/?migutoken=05e971198798f0a69838b65df622adbc&id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
-江西卫视,https://migu.188766.xyz/?migutoken=c23110b61b6452dae3e509fe3813173f&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
-陕西卫视,https://migu.188766.xyz/?migutoken=ab5bf625839ece239bb00382823465bb&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
-湖北卫视,https://migu.188766.xyz/?migutoken=eca934594f3f6921c02b09c72d38fae1&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1
-海峡卫视,https://migu.188766.xyz/?migutoken=a1502bc1028ae838fb6ec164b3399aed&id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&type=yy
-新疆卫视,https://migu.188766.xyz/?migutoken=1f1256c2bd05173fda863b1f9b165a28&id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&pp=1
-西藏卫视,https://migu.188766.xyz/?migutoken=7116e6b1e344d32f0001af86053004ed&id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&pp=1
-
-东方卫视,http://222.186.39.21:35466/mgtv/651632648.m3u8
-江苏卫视,http://222.186.39.21:35466/mgtv/623899368.m3u8
-广东卫视,http://222.186.39.21:35466/mgtv/608831231.m3u8
-江西卫视,http://222.186.39.21:35466/mgtv/783847495.m3u8
-河南卫视,http://222.186.39.21:35466/mgtv/790187291.m3u8
-陕西卫视,http://222.186.39.21:35466/mgtv/738910838.m3u8
-大湾区卫视,http://222.186.39.21:35466/mgtv/608917627.m3u8
-湖北卫视,http://222.186.39.21:35466/mgtv/947472496.m3u8
-吉林卫视,http://222.186.39.21:35466/mgtv/947472500.m3u8
-青海卫视,http://222.186.39.21:35466/mgtv/947472506.m3u8
-东南卫视,http://222.186.39.21:35466/mgtv/849116810.m3u8
-海南卫视,http://222.186.39.21:35466/mgtv/947472502.m3u8
-海峡卫视,http://222.186.39.21:35466/mgtv/849119120.m3u8
-北京卫视,http://222.186.39.21:35466/nptv/beijing.m3u8
-湖南卫视,http://222.186.39.21:35466/nptv/hunan.m3u8
-江苏卫视,http://222.186.39.21:35466/nptv/jiangsu.m3u8
-东方卫视,http://222.186.39.21:35466/nptv/dongfang.m3u8
-浙江卫视,http://222.186.39.21:35466/nptv/zhejiang.m3u8
-湖北卫视,http://222.186.39.21:35466/nptv/hubei.m3u8
-天津卫视,http://222.186.39.21:35466/nptv/tianjing.m3u8
-山东卫视,http://222.186.39.21:35466/nptv/shandong.m3u8
-辽宁卫视,http://222.186.39.21:35466/nptv/liaoning.m3u8
-安徽卫视,http://222.186.39.21:35466/nptv/anhui.m3u8
-黑龙江卫视,http://222.186.39.21:35466/nptv/heilongjiang.m3u8
-贵州卫视,http://222.186.39.21:35466/nptv/guizhou.m3u8
-东南卫视,http://222.186.39.21:35466/nptv/dongnan.m3u8
-重庆卫视,http://222.186.39.21:35466/nptv/chongqing.m3u8
-江西卫视,http://222.186.39.21:35466/nptv/jiangxi.m3u8
-广东卫视,http://222.186.39.21:35466/nptv/guangdong.m3u8
-河北卫视,http://222.186.39.21:35466/nptv/hebei.m3u8
-深圳卫视,http://222.186.39.21:35466/nptv/shenzheng.m3u8
-吉林卫视,http://222.186.39.21:35466/nptv/jiling.m3u8
-河南卫视,http://222.186.39.21:35466/nptv/henan.m3u8
-四川卫视,http://222.186.39.21:35466/nptv/sichuan.m3u8
-河北卫视,http://222.186.39.21:35466/nptv/hebei.m3u8
-广西卫视,http://222.186.39.21:35466/nptv/guangxi.m3u8
-陕西卫视,http://222.186.39.21:35466/nptv/shanxiws.m3u8
-山西卫视,http://222.186.39.21:35466/nptv/shanxi.m3u8
-内蒙古卫视,http://222.186.39.21:35466/nptv/neimenggu.m3u8
-青海卫视,http://222.186.39.21:35466/nptv/qinghai.m3u8
-海南卫视,http://222.186.39.21:35466/nptv/hainan.m3u8
-宁夏卫视,http://222.186.39.21:35466/nptv/ningxia.m3u8
-西藏卫视,http://222.186.39.21:35466/nptv/xizang.m3u8
-新疆卫视,http://222.186.39.21:35466/nptv/xinjiang.m3u8
-甘肃卫视,http://222.186.39.21:35466/nptv/gansu.m3u8
-云南卫视,http://222.186.39.21:35466/nptv/yunnan.m3u8
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-
-东方卫视,http://227w9f5104.zicp.fun:35455/mgtv/651632648.m3u8
-江苏卫视,http://227w9f5104.zicp.fun:35455/mgtv/623899368.m3u8
-广东卫视,http://227w9f5104.zicp.fun:35455/mgtv/608831231.m3u8
-江西卫视,http://227w9f5104.zicp.fun:35455/mgtv/783847495.m3u8
-河南卫视,http://227w9f5104.zicp.fun:35455/mgtv/790187291.m3u8
-陕西卫视,http://227w9f5104.zicp.fun:35455/mgtv/738910838.m3u8
-大湾区卫视,http://227w9f5104.zicp.fun:35455/mgtv/608917627.m3u8
-湖北卫视,http://227w9f5104.zicp.fun:35455/mgtv/947472496.m3u8
-吉林卫视,http://227w9f5104.zicp.fun:35455/mgtv/947472500.m3u8
-青海卫视,http://227w9f5104.zicp.fun:35455/mgtv/947472506.m3u8
-东南卫视,http://227w9f5104.zicp.fun:35455/mgtv/849116810.m3u8
-海南卫视,http://227w9f5104.zicp.fun:35455/mgtv/947472502.m3u8
-海峡卫视,http://227w9f5104.zicp.fun:35455/mgtv/849119120.m3u8
-北京卫视,http://227w9f5104.zicp.fun:35455/nptv/beijing.m3u8
-湖南卫视,http://227w9f5104.zicp.fun:35455/nptv/hunan.m3u8
-江苏卫视,http://227w9f5104.zicp.fun:35455/nptv/jiangsu.m3u8
-东方卫视,http://227w9f5104.zicp.fun:35455/nptv/dongfang.m3u8
-浙江卫视,http://227w9f5104.zicp.fun:35455/nptv/zhejiang.m3u8
-湖北卫视,http://227w9f5104.zicp.fun:35455/nptv/hubei.m3u8
-天津卫视,http://227w9f5104.zicp.fun:35455/nptv/tianjing.m3u8
-山东卫视,http://227w9f5104.zicp.fun:35455/nptv/shandong.m3u8
-辽宁卫视,http://227w9f5104.zicp.fun:35455/nptv/liaoning.m3u8
-安徽卫视,http://227w9f5104.zicp.fun:35455/nptv/anhui.m3u8
-黑龙江卫视,http://227w9f5104.zicp.fun:35455/nptv/heilongjiang.m3u8
-贵州卫视,http://227w9f5104.zicp.fun:35455/nptv/guizhou.m3u8
-东南卫视,http://227w9f5104.zicp.fun:35455/nptv/dongnan.m3u8
-重庆卫视,http://227w9f5104.zicp.fun:35455/nptv/chongqing.m3u8
-江西卫视,http://227w9f5104.zicp.fun:35455/nptv/jiangxi.m3u8
-广东卫视,http://227w9f5104.zicp.fun:35455/nptv/guangdong.m3u8
-河北卫视,http://227w9f5104.zicp.fun:35455/nptv/hebei.m3u8
-深圳卫视,http://227w9f5104.zicp.fun:35455/nptv/shenzheng.m3u8
-吉林卫视,http://227w9f5104.zicp.fun:35455/nptv/jiling.m3u8
-河南卫视,http://227w9f5104.zicp.fun:35455/nptv/henan.m3u8
-四川卫视,http://227w9f5104.zicp.fun:35455/nptv/sichuan.m3u8
-广西卫视,http://227w9f5104.zicp.fun:35455/nptv/guangxi.m3u8
-陕西卫视,http://227w9f5104.zicp.fun:35455/nptv/shanxiws.m3u8
-山西卫视,http://227w9f5104.zicp.fun:35455/nptv/shanxi.m3u8
-内蒙古卫视,http://227w9f5104.zicp.fun:35455/nptv/neimenggu.m3u8
-青海卫视,http://227w9f5104.zicp.fun:35455/nptv/qinghai.m3u8
-海南卫视,http://227w9f5104.zicp.fun:35455/nptv/hainan.m3u8
-宁夏卫视,http://227w9f5104.zicp.fun:35455/nptv/ningxia.m3u8
-西藏卫视,http://227w9f5104.zicp.fun:35455/nptv/xizang.m3u8
-新疆卫视,http://227w9f5104.zicp.fun:35455/nptv/xinjiang.m3u8
-甘肃卫视,http://227w9f5104.zicp.fun:35455/nptv/gansu.m3u8
-云南卫视,http://227w9f5104.zicp.fun:35455/nptv/yunnan.m3u8
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-
-香港频道,#genre#
-凤凰中文,https://migu.188766.xyz/?migutoken=6326b712b385626555d80bf9ed121a6d&id=fhzw&pp=1
-凤凰资讯,https://migu.188766.xyz/?migutoken=fa19cf994431c8340f4dd12a60045ce0&id=fhzx&pp=1
-凤凰香港,https://migu.188766.xyz/?migutoken=f55a92a685ecb499ce72a52b77dc20da&id=fhhk&pp=1
-翡翠台,https://migu.188766.xyz/?migutoken=e29bf20117643e62f90866ab07cb17bc&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
-
-翡翠台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
-凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
-凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
-
-
-本地频道,#genre#
-苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-
-上海新闻综合,http://222.186.39.21:35466/mgtv/651632657.m3u8
-上视东方影视,http://222.186.39.21:35466/mgtv/617290047.m3u8
-上海第一财经,http://222.186.39.21:35466/mgtv/608780988.m3u8
-南京新闻综合频道,http://222.186.39.21:35466/mgtv/838109047.m3u8
-南京教科频道,http://222.186.39.21:35466/mgtv/838153729.m3u8
-南京十八频道,http://222.186.39.21:35466/mgtv/838151753.m3u8
-体育休闲频道,http://222.186.39.21:35466/mgtv/626064707.m3u8
-江苏城市频道,http://222.186.39.21:35466/mgtv/626064714.m3u8
-江苏国际,http://222.186.39.21:35466/mgtv/626064674.m3u8
-江苏教育,http://222.186.39.21:35466/mgtv/628008321.m3u8
-江苏影视频道,http://222.186.39.21:35466/mgtv/626064697.m3u8
-江苏综艺频道,http://222.186.39.21:35466/mgtv/626065193.m3u8
-公共新闻频道,http://222.186.39.21:35466/mgtv/626064693.m3u8
-盐城新闻综合,http://222.186.39.21:35466/mgtv/639731825.m3u8
-淮安新闻综合,http://222.186.39.21:35466/mgtv/639731826.m3u8
-泰州新闻综合,http://222.186.39.21:35466/mgtv/639731818.m3u8
-连云港新闻综合,http://222.186.39.21:35466/mgtv/639731715.m3u8
-宿迁新闻综合,http://222.186.39.21:35466/mgtv/639731832.m3u8
-徐州新闻综合,http://222.186.39.21:35466/mgtv/639731747.m3u8
-优漫卡通频道,http://222.186.39.21:35466/mgtv/626064703.m3u8
-
-上海新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/651632657.m3u8
-上视东方影视,http://227w9f5104.zicp.fun:35455/mgtv/617290047.m3u8
-上海第一财经,http://227w9f5104.zicp.fun:35455/mgtv/608780988.m3u8
-南京新闻综合频道,http://227w9f5104.zicp.fun:35455/mgtv/838109047.m3u8
-南京教科频道,http://227w9f5104.zicp.fun:35455/mgtv/838153729.m3u8
-南京十八频道,http://227w9f5104.zicp.fun:35455/mgtv/838151753.m3u8
-体育休闲频道,http://227w9f5104.zicp.fun:35455/mgtv/626064707.m3u8
-江苏城市频道,http://227w9f5104.zicp.fun:35455/mgtv/626064714.m3u8
-江苏国际,http://227w9f5104.zicp.fun:35455/mgtv/626064674.m3u8
-江苏教育,http://227w9f5104.zicp.fun:35455/mgtv/628008321.m3u8
-江苏影视频道,http://227w9f5104.zicp.fun:35455/mgtv/626064697.m3u8
-江苏综艺频道,http://227w9f5104.zicp.fun:35455/mgtv/626065193.m3u8
-公共新闻频道,http://227w9f5104.zicp.fun:35455/mgtv/626064693.m3u8
-盐城新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/639731825.m3u8
-淮安新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/639731826.m3u8
-泰州新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/639731818.m3u8
-连云港新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/639731715.m3u8
-宿迁新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/639731832.m3u8
-徐州新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/639731747.m3u8
-优漫卡通频道,http://227w9f5104.zicp.fun:35455/mgtv/626064703.m3u8
-江阴新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/955227979.m3u8
-南通新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/955227985.m3u8
-宜兴新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/955227996.m3u8
-苏州新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/639731952.m3u8
-溧水新闻综合,http://227w9f5104.zicp.fun:35455/mgtv/639737327.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="冰茶央视",CCTV-1 综合
+https://migu.188766.xyz/?migutoken=8aa97614096a31339e2aa04fc70f545a&id=CCTV1&pp=1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV2.png" group-title="冰茶央视",CCTV-2 财经
+https://migu.188766.xyz/?migutoken=7bf0007bf28ab34dc81d3f16a5a17344&id=CCTV2&pp=1
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV3.png" group-title="冰茶央视",CCTV-3 综艺
+https://migu.188766.xyz/?migutoken=42d49dc2fcad2141a22212976cca59df&id=CCTV3&pp=1
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4.png" group-title="冰茶央视",CCTV-4 中文国际
+https://migu.188766.xyz/?migutoken=bb6724142059c937810d2157fdd22931&id=CCTV4&pp=1
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV5.png" group-title="冰茶央视",CCTV-5 体育
+https://migu.188766.xyz/?migutoken=2c2d0d1c58224de4faebdc59cc98c90c&id=CCTV5&pp=1
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV5+.png" group-title="冰茶央视",CCTV-5+ 体育赛事
+https://migu.188766.xyz/?migutoken=aa07cd9f65f273f3f1e996780e2b43e9&id=CCTV5p&pp=1
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV6.png" group-title="冰茶央视",CCTV-6 电影
+https://migu.188766.xyz/?migutoken=a8d2c3d0738e997c203c518530e9135c&id=CCTV6&pp=1
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV7.png" group-title="冰茶央视",CCTV-7 国防军事
+https://migu.188766.xyz/?migutoken=333f628985edaa47f52b366bd39039ce&id=CCTV7&pp=1
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV8.png" group-title="冰茶央视",CCTV-8 电视剧
+https://migu.188766.xyz/?migutoken=e86b83b76c61de8809c1e9f9c0e58e54&id=CCTV8&pp=1
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV9.png" group-title="冰茶央视",CCTV-9 纪录
+https://migu.188766.xyz/?migutoken=45b98953ac39d7780c0b64935b9ef1f3&id=CCTV9&pp=1
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV10.png" group-title="冰茶央视",CCTV-10 科教
+https://migu.188766.xyz/?migutoken=d760a03ac968e0e2fe12432fbadaa3f0&id=CCTV10&pp=1
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV11.png" group-title="冰茶央视",CCTV-11 戏曲
+https://migu.188766.xyz/?migutoken=8d6337d491af61c183ebc5dac70b4561&id=CCTV11&pp=1
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV12.png" group-title="冰茶央视",CCTV-12 社会与法
+https://migu.188766.xyz/?migutoken=1e71cae84929e229c47b726f0d1a2cab&id=CCTV12&pp=1
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV13.png" group-title="冰茶央视",CCTV-13 新闻
+https://migu.188766.xyz/?migutoken=e1481db2d8bfa0fdfaf245c65767fe7f&id=CCTV13&pp=1
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV14.png" group-title="冰茶央视",CCTV-14 少儿
+https://migu.188766.xyz/?migutoken=eeac5f1ce57ee2744503a57c83afe3cd&id=CCTV14&pp=1
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV15.png" group-title="冰茶央视",CCTV-15 音乐
+https://migu.188766.xyz/?migutoken=1693221ddcbe7fcda08803e260a43725&id=CCTV15&pp=1
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV16.png" group-title="冰茶央视",CCTV-16 奥林匹克
+https://migu.188766.xyz/?migutoken=d280ac8b7cdc42d52a687c9721031d7f&id=CCTV16&pp=1
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV17.png" group-title="冰茶央视",CCTV-17 农业农村
+https://migu.188766.xyz/?migutoken=b413e91fd8bd72f12a6ed56e1d13d5ab&id=CCTV17&pp=1
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4欧洲.png" group-title="冰茶央视",CCTV-4 中文国际 欧洲
+https://migu.188766.xyz/?migutoken=f356b06ab1d373e1aadf8a9fd9726df3&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4美洲.png" group-title="冰茶央视",CCTV-4 中文国际 美洲
+https://migu.188766.xyz/?migutoken=327043a6f72a8db8e6dfafac84c76f6a&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/湖南卫视.png" group-title="冰茶卫视",湖南卫视
+https://migu.188766.xyz/?migutoken=d5d92b1b6c1aa83a15184754b28180b8&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江卫视.png" group-title="冰茶卫视",浙江卫视
+https://migu.188766.xyz/?migutoken=c75f2a8d4f8fb0632e28a7c23e4ddc19&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江苏卫视.png" group-title="冰茶卫视",江苏卫视
+https://migu.188766.xyz/?migutoken=d1010ba74f98bcdcfbb51f3fdd3c2097&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/东方卫视.png" group-title="冰茶卫视",东方卫视
+https://migu.188766.xyz/?migutoken=df13988f8055d79a290dc9efe7b38e46&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视.png" group-title="冰茶卫视",北京卫视
+https://migu.188766.xyz/?migutoken=2ae7a48b3c81883053709f7c687324d0&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/深圳卫视.png" group-title="冰茶卫视",深圳卫视
+https://migu.188766.xyz/?migutoken=4cf707d67e1b04e30cdbfe98efd44b2c&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东卫视.png" group-title="冰茶卫视",广东卫视
+https://migu.188766.xyz/?migutoken=d13d45a58f9ef710aacae16d3b5e3e6c&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南卫视.png" group-title="冰茶卫视",河南卫视
+https://migu.188766.xyz/?migutoken=4712fee8d7b0a9e83c29ac82ec6acf74&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古卫视.png" group-title="冰茶卫视",内蒙古卫视
+https://migu.188766.xyz/?migutoken=c5d0c1a3f24410af31a205f14d342ef5&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/东南卫视.png" group-title="冰茶卫视",东南卫视
+https://migu.188766.xyz/?migutoken=a421a3ac24bc91742cce7c0934e8ada3&id=dnws&type=sz
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江西卫视.png" group-title="冰茶卫视",江西卫视
+https://migu.188766.xyz/?migutoken=a153bcd9ba724e76cb317260226b5eeb&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/陕西卫视.png" group-title="冰茶卫视",陕西卫视
+https://migu.188766.xyz/?migutoken=72fa30f33ad00ed8801e792da98e8de0&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东卫视.png" group-title="冰茶卫视",湖北卫视
+https://migu.188766.xyz/?migutoken=ff867ca05b64e7a186ef848b81c1ba25&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/厦门卫视.png" group-title="冰茶卫视",厦门卫视
+https://migu.188766.xyz/?migutoken=222f1a6147a1b116855c508bfd204340&id=xmws&type=sz
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/海峡卫视.png" group-title="冰茶卫视",海峡卫视
+https://migu.188766.xyz/?migutoken=5b4cf6edae7ad335fd1799c5c9bc1b3a&id=hxws&type=sz
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/新疆卫视.png" group-title="冰茶卫视",新疆卫视
+https://migu.188766.xyz/?migutoken=9618afef5f149ba42c54832273a1efc9&id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/西藏卫视.png" group-title="冰茶卫视",西藏卫视
+https://migu.188766.xyz/?migutoken=ff02d56e13837b04ec7a95102950dde2&id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/兵团卫视.png" group-title="冰茶卫视",兵团卫视
+http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC家庭影院.png" group-title="冰茶其他",CHC家庭影院
+https://migu.188766.xyz/?migutoken=61c12cd2cb665b6f5a2aa0e5856254ae&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC动作电影.png" group-title="冰茶其他",CHC动作电影
+https://migu.188766.xyz/?migutoken=568f78c139a90eb5258674aec646ac63&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="冰茶其他",CHC影迷电影
+https://migu.188766.xyz/?migutoken=1800a1261a0760611a337e0cf34e35b9&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="冰茶其他",五星体育
+https://migu.188766.xyz/?migutoken=f9bd3609becf9e30525c5e30da762edc&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="冰茶其他",五星体育
+https://migu.188766.xyz/?migutoken=58e1d4f6c869c3a538e5bf48a97b9d8c&id=wxty&type=sz
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="冰茶其他",凤凰中文
+https://migu.188766.xyz/?migutoken=201f326caf518e08e8798eae7a7fd192&id=fhzw&pp=1
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="冰茶其他",凤凰资讯
+https://migu.188766.xyz/?migutoken=d3df067cd471ae1a91d8e1db1b7ab44b&id=fhzx&pp=1
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="冰茶其他",凤凰香港
+https://migu.188766.xyz/?migutoken=4ef3d2d386763a6eda5a6ac907dae714&id=fhhk&pp=1
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="冰茶其他",翡翠台
+https://migu.188766.xyz/?migutoken=47f9afee9e3610e8f37c43534a87fa67&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/CETV1.png" group-title="冰茶其他",CETV-1
+https://migu.188766.xyz/?migutoken=c0f31bbb63a9c91bad5f5fe6d41e5764&id=CETV1&type=yy
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/CETV2.png" group-title="冰茶其他",CETV-2
+https://migu.188766.xyz/?migutoken=d226a6c75126e2fc1faa91bbcf234198&id=CETV2&type=yy
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/CETV4.png" group-title="冰茶其他",CETV-4
+https://migu.188766.xyz/?migutoken=23a703351df188cbeecabdf0743b322f&id=CETV4&type=yy
