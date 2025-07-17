@@ -95,15 +95,6 @@ https://migu.188766.xyz/?migutoken=4ef3d2d386763a6eda5a6ac907dae714&id=fhhk&pp=1
 https://migu.188766.xyz/?migutoken=47f9afee9e3610e8f37c43534a87fa67&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/CETV1.png" group-title="其他",CETV-1
 https://migu.188766.xyz/?migutoken=c0f31bbb63a9c91bad5f5fe6d41e5764&id=CETV1&type=yy
-
-
-本地频道,#genre#
-苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-
 #EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/CETV2.png" group-title="其他",CETV-2
 https://migu.188766.xyz/?migutoken=d226a6c75126e2fc1faa91bbcf234198&id=CETV2&type=yy
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/CETV4.png" group-title="其他",CETV-4
