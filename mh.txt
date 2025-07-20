@@ -184,18 +184,10 @@ https://migu.188766.xyz/?migutoken=f05226377e2d23a4984c739e24a991cf&id=%E6%96%B0
 https://migu.188766.xyz/?migutoken=4c7ec03e2e024baeb20c9433b369e2b3&id=%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87&type=yy
 #EXTINF:-1 tvg-id="南方影视" tvg-name="南方影视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/南方影视.png" group-title="其他",南方影视
 https://migu.188766.xyz/?migutoken=b563bc41461d7693d16cf5e934501d4b&id=%E5%8D%97%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
-#EXTINF:-1 tvg-id="红色轮播台" tvg-name="红色轮播台" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/红色轮播台.png" group-title="其他",红色轮播台
-https://migu.188766.xyz/?migutoken=842f63beaa127be7707376d013cb4c68&id=%E7%BA%A2%E8%89%B2%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
-#EXTINF:-1 tvg-id="掼蛋精英赛" tvg-name="掼蛋精英赛" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/掼蛋精英赛.png" group-title="其他",掼蛋精英赛
-https://migu.188766.xyz/?migutoken=d8ccca51d5174e257ea32ba5ca75702d&id=%E6%8E%BC%E8%9B%8B%E7%B2%BE%E8%8B%B1%E8%B5%9B&type=yy
-#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/赛事最经典.png" group-title="其他",赛事最经典
-https://migu.188766.xyz/?migutoken=78b5cf2b91aae5938b3d0db210e369bf&id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&type=yy
+ 
 #EXTINF:-1 tvg-id="华语乐坛最强音" tvg-name="华语乐坛最强音" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/华语乐坛最强音.png" group-title="其他",华语乐坛最强音
 https://migu.188766.xyz/?migutoken=3413a49463012b0b9d0ccabb145a55c0&id=%E5%8D%8E%E8%AF%AD%E4%B9%90%E5%9D%9B%E6%9C%80%E5%BC%BA%E9%9F%B3&type=yy
-#EXTINF:-1 tvg-id="周杰伦现场" tvg-name="周杰伦现场" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/周杰伦现场.png" group-title="其他",周杰伦现场
-https://migu.188766.xyz/?migutoken=0b1320bca94a26bca258b139c39eef21&id=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%8E%B0%E5%9C%BA&type=yy
-#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/最强综艺趴.png" group-title="其他",最强综艺趴
-https://migu.188766.xyz/?migutoken=f5566d6d3a8e0e9cad918bf6f6b8b3ba&id=%E6%9C%80%E5%BC%BA%E7%BB%BC%E8%89%BA%E8%B6%B4&type=yy
+ 
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通
 https://migu.188766.xyz/?migutoken=fb5c078b61e316c1cebad9315c9d52be&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
 #EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/经典动画大集合.png" group-title="其他",经典动画大集合
