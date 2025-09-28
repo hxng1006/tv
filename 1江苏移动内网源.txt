@@ -1,33 +1,24 @@
+纯享4k,http://ott.mobaibox.com/PLTV/*/224/3221227506/index.m3u8
+4K 修复,http://ott.mobaibox.com/PLTV/*/224/3221228141/index.m3u8
+CCTV 8K,http://ott.mobaibox.com/PLTV/*/224/3221228165/index.m3u8
+CCTV 16 4K,http://ott.mobaibox.com/PLTV/*/224/3221228168/index.m3u8
+CCTV  4K,http://ott.mobaibox.com/PLTV/*/224/3221228228/index.m3u8
+CCTV 16 4K,http://ott.mobaibox.com/PLTV/*/224/3221228314/index.m3u8
+CCTV  4K,http://ott.mobaibox.com/PLTV/*/224/3221228472/index.m3u8
+CCTV5  4K,http://ott.mobaibox.com/PLTV/*/224/3221228502/index.m3u8
+CCTV3  4K,http://ott.mobaibox.com/PLTV/*/224/3221228499/index.m3u8
+4K 广告,http://ott.mobaibox.com/PLTV/*/224/3221228589/index.m3u8
+CCTV1  4K,http://ott.mobaibox.com/PLTV/*/224/3221228581/index.m3u8
+晴彩篮球 4k,http://ott.mobaibox.com/PLTV/*/224/3221228682/index.m3u8
+晴彩竞技 4k,http://ott.mobaibox.com/PLTV/*/224/3221228679/index.m3u8
+CCTV1  4K,http://ott.mobaibox.com/PLTV/*/224/3221228732/index.m3u8
+剧集轮播 4K,http://ott.mobaibox.com/PLTV/*/224/3221228740/index.m3u8
+北京卫视 4K,http://ott.mobaibox.com/PLTV/*/224/3221228817/index.m3u8
+广东卫视 4K,http://ott.mobaibox.com/PLTV/*/224/3221228838/index.m3u8
+深圳卫视 4K,http://ott.mobaibox.com/PLTV/*/224/3221228835/index.m3u8
+江苏卫视 4K,http://ott.mobaibox.com/PLTV/*/224/3221228861/index.m3u8
+北京卫视 4K,http://ott.mobaibox.com/PLTV/*/224/3221228890/index.m3u8
 
-数字频道,#genre#
-  
-法治天地,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/1.m3u8
- 
-生活时尚,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/1.m3u8
-乐游频道,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226157/1.m3u8
-游戏风云,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226140/1.m3u8
-东方影视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/1.m3u8
-都市剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/1.m3u8
-欢笑剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8
-第一财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225737/1.m3u8
-东方财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
-五星体育,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
-
-
-
-
-江苏卫视4K	239.49.1.62	8000	3840	2160	50	TS	239.49.1.62:8000
-江苏卫视4K	239.49.1.61	8000	3840	2160	25	TS	239.49.1.61:8000
-湖南卫视4K	239.49.1.68	8000	3840	2160	50	TS	239.49.1.68:8000
-湖南卫视4K	239.49.1.67	8000	3840	2160	25	TS	239.49.1.67:8000
-东方卫视4K	239.49.1.70	8000	3840	2160	50	TS	239.49.1.70:8000
-东方卫视4K	239.49.1.69	8000	3840	2160	25	TS	239.49.1.69:8000
-四川卫视4K	239.49.1.66	8000	3840	2160	50	TS	239.49.1.66:8000
-四川卫视4K	239.49.1.65	8000	3840	2160	25	TS	239.49.1.65:8000
-浙江卫视4K	239.49.1.64	8000	3840	2160	50	TS	239.49.1.64:8000
-浙江卫视4K	239.49.1.63	8000	3840	2160	25	TS	239.49.1.63:8000
-山东卫视4K	239.49.1.72	8000	3840	2160	50	TS	239.49.1.72:8000
-山东卫视4K	239.49.1.71	8000	3840	2160	25	TS	239.49.1.71:8000
 
 
 
